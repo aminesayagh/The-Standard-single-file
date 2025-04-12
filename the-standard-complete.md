@@ -1,5 +1,4 @@
 
-
 # 0. Introduction
 
 This is The Standard. A collection of decades of experience in the engineering industry. I authored it to help you navigate the vast ocean of knowledge. The Standard is not perfect and never will be, and it reflects the ongoing evolution of the engineering industry. While one person may write it, it is the collection of thoughts from hundreds of engineers I've had the honor to interact with and learn from throughout my life.
@@ -18,10 +17,10 @@ But what's more important about The Standard? The Standard is the option to set 
 
 The Standard is also my labor of love for the rest of the world. It is driven by and written with a passion for enhancing the engineering experience and producing efficient, rugged, configurable, pluggable, and reliable systems that can withstand any challenges or changes that occur almost daily in our industry.
 
-
 ## 0.0 The Theory
 
 ### 0.0.0 Introduction
+
 When designing any system, it is of utmost importance for designers to back up their design with a particular theory. Theories play a massive role in ensuring their design's purposes, models, and simulations are cohesive and extensible within a specific domain.
 
 No matter how chaotic it may seem, any system is influenced by at least one theory created by the designer or inherited from previous designers or their methods.
@@ -31,8 +30,8 @@ Early on, I realized that the simpler any theory is, the easier it becomes for o
 
 A theory about the universe could make life much more purposeful and enriched with tales about survival, evolution, and fulfillment.
 
-
 ### 0.0.1 Finding Answers
+
 Early on in my life, I struggled with schooling. Nothing that was taught to me made any sense to me. Everyone at school seemed more concerned with memorizing and regurgitating what they've memorized during their exam than truly understanding what was taught, questioning its origins, and validating its purposes.
 
 I realized at an earlier age that I needed some magical equation to help me distinguish between what's true and what's not, right and wrong, what is driven by a purpose, and what's an imitation for those with an actual purpose.
@@ -43,64 +42,68 @@ When looking for answers, keeping your heart and mind open to all options is ess
 
 After years of searching, I settled on a theory that made it simple for a simple person like myself to understand everything. I called it The Tri-Nature of Everything.
 
-
 ### 0.0.2 Tri-Nature
+
 The Tri-Nature theory states that everything in this world comprises three main categories: dependencies, purposes, and exposures. Each component is crucial to its system's survival, evolution, and fulfillment.
 
 Let's talk about these components here.
 
 #### 0.0.2.0 Purpose
+
 Everything around us has a purpose. It was created and designed with a specific reason in the mind of its creator. We design cars to take us from point A to point B. We design cups for drinking, plates for eating, and shoes for walking. Everything has a core purpose that governs its design and legitimizes its existence.
 
 #### 0.0.2.1 Dependency
+
 However, every system must have a dependency in one form or another. For instance, we, as biological systems, rely on food and water to survive. Cars rely on oil or electricity. Computer systems rely on power and electricity, and so on. Regardless of its impact and importance, every method must have a dependency, whether small or big.
 
 #### 0.0.2.2 Exposure
+
 Every system must expose itself to allow other systems to integrate and consume its capabilities. However, it must reveal itself somehow to become a dependency for different systems to rely on it. For instance, power outlets are an exposure layer for power sources to allow other systems to plug in and consume their services. Gas stations are exposure layers for underground oil tanks to store that oil.
 
-<br />
-	<div align=center>
-		<img width="75%" src="https://github.com/hassanhabib/The-Standard/blob/master/0.%20Introduction/Resources/The%20Theory/The%20Theory.png?raw=true" />
-	</div>
-<br />
+<br>
+
+![The Theory](https://github.com/hassanhabib/The-Standard/blob/master/0.%20Introduction/Resources/The%20Theory/The%20Theory.png?raw=true)
+
+<br>
 
 ### 0.0.3 Everything is Connected
+
 In the larger scheme of things, all systems are connected. A simple example of this is the food chain in nature. The sun is a dependency for the grass to grow; grasshoppers are grass consumers, while frogs feed on grasshoppers, snakes feed off of frogs, and so on.
 
 Every food chain member is a system with dependencies, purposes, and exposure.
 
-<br />
-	<div align=center>
-		<img width="75%" src="https://github.com/hassanhabib/The-Standard/blob/master/0.%20Introduction/Resources/The%20Theory/The%20Theory-0.0.3.png?raw=true" />
-	</div>
-<br />
+<br>
+
+![The Theory](https://github.com/hassanhabib/The-Standard/blob/master/0.%20Introduction/Resources/The%20Theory/The%20Theory-0.0.3.png?raw=true)
+
+<br>
 
 Since computer systems are nothing but a reflection of our reality, these systems integrations represent a chain of infinite dependencies where each one of these systems relies on one or more systems to fulfill its purpose. A simple mobile application could rely on a backend system to persist its data. However, the backend system relies on a cloud-based system to store the data. And the cloud-based system relies on a file system to perform basic persistence operations and so on.
 
 ### 0.0.4 Fractal Pattern
+
 The Tri-Nature pattern of Things could also be perceived at the smallest and largest scales of any system. Every system is infinitely comprised of three components, each of which has three components, and so on. That's what we call a fractal pattern.
 
 For instance, the smallest known component in the universe is the quarks within a neutron within an atom. These quarks are three components: two down quarks and one up quark. But if you zoom out slightly, you will see that the more extensive system where these quarks reside also comprises three components: electrons, protons, and neutrons.
+<br>
 
-<br />
-	<div align=center>
-		<img width="75%" src="https://github.com/hassanhabib/The-Standard/blob/master/0.%20Introduction/Resources/The%20Theory/The%20Theory-0.0.4.png?raw=true" />
-	</div>
-<br />
+![The Theory](https://github.com/hassanhabib/The-Standard/blob/master/0.%20Introduction/Resources/The%20Theory/The%20Theory-0.0.4.png?raw=true)
+
+<br>
 
 If we zoom far out from the sub-atomic level to the solar system, the pattern continues to repeat at a massive scale. Our solar system is comprised of the sun, planets, and moons. They fall within the dependency purposing and exposure patterns as the components in the sub-atomic level as follows:
+<br>
 
-<br />
-	<div align=center>
-		<img width="75%" src="https://github.com/hassanhabib/The-Standard/blob/master/0.%20Introduction/Resources/The%20Theory/The%20Theory-0.0.4%202.png?raw=true" />
-	</div>
-<br />
+![The Theory](https://github.com/hassanhabib/The-Standard/blob/master/0.%20Introduction/Resources/The%20Theory/The%20Theory-0.0.4%202.png?raw=true)
+
+<br>
 
 And if we zoom further out at scale, we find that galaxies are made of dust, gas, and dark matter.
 
 The Tri-Nature pattern continues to repeat itself in every aspect of our lives. Every component in our universe, from the smallest sub-atomic parts to the scale of galaxies and solar systems, follows the same rule.
 
 ### 0.0.5 Systems Design & Architecture
+
 It is now evident that we can follow a theory to design systems! We can now develop every component in our software according to The Tri-Nature of Everything. The rules and guidelines that govern software design according to the theory are called the Standard. It refers to the universal standard in designing systems in every matter.
 
 The Standard dictates at the low-level architecture that every system out there should be comprised of brokers (dependencies) and services (purposes), as well as exposers (exposures).
@@ -108,34 +111,34 @@ The Standard dictates at the low-level architecture that every system out there 
 For instance, when designing a simple RESTful API, we may need to integrate with a database system, validate incoming data based on specific business rules, and expose these capabilities to the outside world so that the API consumers can integrate with it.
 
 According to The Standard, that system would look like this:
+<br>
 
-<br />
-	<div align=center>
-		<img width="75%" src="https://github.com/hassanhabib/The-Standard/blob/master/0.%20Introduction/Resources/The%20Theory/The%20Theory-0.0.5.png?raw=true" />
-	</div>
-<br />
+![The Theory](https://github.com/hassanhabib/The-Standard/blob/master/0.%20Introduction/Resources/The%20Theory/The%20Theory-0.0.5.png?raw=true)
+
+<br>
 
 The same pattern would repeat itself when digging deeper into these components. For instance, a service is comprised of validation components, processing components, and integration components. And then, if we zoom in a bit further, these same validation components are comprised of three more refined components: structural, logical, and external. The pattern continues to go on and on to the lowest level of our design, as shown here:
 
-<br />
-	<div align=center>
-		<img width="75%" src="https://github.com/hassanhabib/The-Standard/blob/master/0.%20Introduction/Resources/The%20Theory/The%20Theory-0.0.5%202.png?raw=true" />
-	</div>
-<br />
+<br>
+
+![The Theory](https://github.com/hassanhabib/The-Standard/blob/master/0.%20Introduction/Resources/The%20Theory/The%20Theory-0.0.5%202.png?raw=true)
+
+<br>
 
 The same pattern also applies to larger systems if we zoom out of the one system realm into distributed modern systems such as microservice architectures - the same pattern should apply as follows:
 
-<br />
-	<div align=center>
-		<img width="65%" src="https://github.com/hassanhabib/The-Standard/blob/master/0.%20Introduction/Resources/The%20Theory/The%20Theory-0.0.5%203.png?raw=true" />
-	</div>
-<br />
+<br>
+
+![The Theory](https://github.com/hassanhabib/The-Standard/blob/master/0.%20Introduction/Resources/The%20Theory/The%20Theory-0.0.5%203.png?raw=true)
+
+<br>
 
 In a distributed system, some services act as ambassadors to external or local resources, equivalent to a broker component at the service level. However, a purpose-driven component must come into play to orchestrate business flows by combining one or many primitive resource-consumption operations from these ambassador services. The final part is the exposure layer, a thin gatekeeper layer that becomes the first point of contact between the outside world and your microservice architecture.
 
 The same pattern of Tri-Nature will continue to repeat itself across several systems, may it be large across multiple organizations or small within one single service.
 
 ### 0.0.6 Conclusion
+
 In conclusion, The Tri-Nature of Everything is the theory that powers up The Standard. The Tri-Nature theory heavily influences every single aspect of the rules and guidelines of The Standard. But it's important to understand that the theory goes beyond designing some software system. It can apply to management styles, writing books, making meals, establishing relationships, and every other aspect of our lives, which goes beyond the purpose of The Standard here.
 
 After so many years of research and experimentation with the Tri-Nature theory, it is evident now that it works! It helps simplify some of the most complex systems out there. It plays well with our intuition as human beings. It makes it even simpler for automatons in the future to expedite our development processes of software and hardware and everything else in between.
@@ -150,11 +153,11 @@ The Standard defines the software engineering process in three main categories: 
 
 The order in which these aspects are followed is also intentional. A purpose must exist to shape the modeling process, and one can't simulate interactions without models. But while that order at the initiation of the engineering process is crucial, it's important to understand that the process is selectively iterative. A change in the purpose may reflect a change in the simulation. Still, not necessarily the modeling, and a change in the models may not necessarily require changing the purpose or the simulation.
 
-<br />
-	<div align=center>
-		<img width="50%" src="https://user-images.githubusercontent.com/1453985/148862410-f4ce62ad-deaa-4376-af1c-c43b9aa53473.png" />
-	</div>
-<br />
+<br>
+
+![](https://user-images.githubusercontent.com/1453985/148862410-f4ce62ad-deaa-4376-af1c-c43b9aa53473.png)
+
+<br>
 
 ## 0.1.1 Purposing
 
@@ -199,7 +202,7 @@ We express our models in programming languages as a `class`. The aforementioned 
 ```csharp
 public class Item
 {
-	public DateTimeOffset ExpirationDate {get; set;}
+ public DateTimeOffset ExpirationDate {get; set;}
 }
 ```
 
@@ -210,84 +213,86 @@ Now, imagine if our purpose grew more complex. Let's assume the new problem is i
 ```csharp
 public class Item
 {
-	public double Price {get; set;}
-	public DateTimeOffset ExpirationDate {get; set;}
+ public double Price {get; set;}
+ public DateTimeOffset ExpirationDate {get; set;}
 }
 ```
 
 ### 0.1.2.0 Model Types
+
 Models govern the entire process of simulating a problem (and its solution). Models break into three main categories: Data Carriers, Operational, and Configurations. Let's discuss those types in the following sections:
 
 #### 0.1.2.0.0 Data Carrier Models
+
 Data carrier models have one primary purpose: to carry data points across systems. They can vary based on the type of data they carry. Some carry other models to represent a complex system, while others represent references to the original data points they represent.
 
 Data carrier models in a relational fashion can be broken into three different categories. These categories make the priority development, design, and engineering areas much clearer. For instance, we can only start developing secondary/supporting models if our primary models are in place first. Let's talk about these categories in detail:
 
 #### 0.1.2.0.0.0 Primary Models
+
 Primary models are the pillars of every system. Any given system can only proceed in design and engineering with a clear definition and materializing of these primary models. For instance, if we are building a schooling system, models like `Student`, `Teacher`, and `Course` are considered Primary models.
 
 Primary relational storage schema models do not contain foreign keys or references to any other physical model. We call these models Primary because they are self-sufficient. They don't rely physically on some other model to exist. This means that a given primary model like `Student` may still exist in a schooling system, regardless of whether a `Teacher` record exists or not. This is called physical dependency.
 
 Primary models, however, may rely conceptually or logically on other models. For instance, a `Student` model has a logical relationship to a `Teacher`, simply because there can never be a student without a teacher and vice versa. A `Student` model also has a conceptual relationship with its host and neighboring hosting services. For instance, there's a conceptual relationship between a `Student` model and a `Notification` model regarding business flow. Any student in any school conceptually relies on notifications to attend classes and complete assignments or other events.
 
-
 #### 0.1.2.0.0.1 Secondary Models
+
 On the other hand, *Secondary* models have a hard dependency on Primary models. In a relational database model, secondary models usually have foreign keys referencing another model in the overall database schema. But even in non-relational storage systems, secondary models can be represented as nested entities within a given larger entity or have a loose reference to another entity.
 
 Let's talk about some examples of secondary models. A `Comment` model in a social media platform cannot exist without a `Post` model. You cannot comment on something that doesn't exist. In a relational database, the comments model would look something like this:
 
-<br />
 
-<div align=center>
-	<img src="https://user-images.githubusercontent.com/1453985/155897099-5dd8aa3d-f6c2-4504-ba42-5e911c21a09a.png" />
-</div>
 
-<br />
+![Secondary Model Example](https://user-images.githubusercontent.com/1453985/155897099-5dd8aa3d-f6c2-4504-ba42-5e911c21a09a.png)
+
+
 
 In the example above, a secondary model `Comment` has a foreign key `PostId` referencing the primary key `Id` in a `Post` model. In a non-relational system, secondary models can easily be identified as nested objects within a given entity. Here's an example:
 
 ```json
 {
-	"id": "some-id",
-	"content": "some post",
-	"comments": [
-		{
-			"id": "comment-id",
-			"content": "some comment"
-		}
-	]
+ "id": "some-id",
+ "content": "some post",
+ "comments": [
+  {
+   "id": "comment-id",
+   "content": "some comment"
+  }
+ ]
 }
 ```
 
 Secondary models may generally have logical and conceptual relations to other models within their host, neighboring, or external systems. However, their chances of having these conceptual relations are much less than those of Primary models.
 
 #### 0.1.2.0.0.2 Relational Models
+
 Relational models are connectors between two Primary models. Their main responsibility is to materialize a many-to-many relationship between two entities. For instance, a `Student` may have multiple teachers, and a `Teacher` may have multiple students. In this case, we need a relational model to act as an intermediary model.
 
 Relational models are not supposed to have any details. They only contain references to other models, which is their primary key. A composite key that aggregates two or more foreign keys within it. Let's take a look at an example:
 
-<br />
 
-<div align=center>
-	<img src="https://user-images.githubusercontent.com/1453985/155897988-f865d0ef-9e22-421f-afe8-8d987bb67464.png" />
-</div>
 
-<br />
+![Relational Model Example](https://user-images.githubusercontent.com/1453985/155897988-f865d0ef-9e22-421f-afe8-8d987bb67464.png)
+
+
 
 #### 0.1.2.0.0.3 Hybrid Models
+
 There's a situation where a model connects multiple entities but also carries its data. I highly advise against following that path to maintain purity in your system design and control the complexity of your models. However, this approach is sometimes a necessary option to proceed with a specific implementation or business flow. In this case, we can propose a hybrid model that can carry particular details about the relationship between two independent entities.
 
 A hybrid model can describe the detachment between two entities in a many-to-many relationship in a soft-delete scenario. Here's an example of a hybrid model that can occur in reality. Let's assume a group member does not want to be a part of a particular group anymore. We consider their group membership as `Deactivated` with a reason attached without actually deleting the record. Here's what it would that look like:
 
-<br />
-<div align=center>
-	<img src="https://user-images.githubusercontent.com/1453985/155970437-3599c84c-b27a-471f-979a-17b624dd6b63.png" />
-</div>
-<br />
+
+
+![Hybrid Model Example](https://user-images.githubusercontent.com/1453985/155970437-3599c84c-b27a-471f-979a-17b624dd6b63.png)
+
+
 
 Hybrid models combine secondary models in the way they reference Primary models. They implement a relational nature in allowing multiple entities to relate to each other without exclusivity. In a non-relational data model, the referencing integrity may become looser, given the linear nature of that schema.
 
 #### 0.1.2.0.1 Operational Models
+
 Operational models mainly target the simulation aspect of any software system. Think about all the primitive, complex, and exposure operations a simple scenario could require for a successful simulation to be implemented. Let's assume we are trying to solve a problem where we can simplify student registrations in some schools. The registration process will require some simulation to add these students' information into a computerized system.
 
 Operational models will handle the entire process's exposure, processing, and integration by offering services that offer APIs/UIs to enter, post, add, and insert/persist students' information into some schooling systems.
@@ -297,6 +302,7 @@ The Standard focuses heavily on operational models because they represent the co
 Let's talk about the operational models here.
 
 #### 0.1.2.0.1.0 Integration Models (Brokers)
+
 Integration operational models' primary responsibility is to connect any existing system with external resources, which can be localized to the system's environment, like reading the current date or time, or remote, like calling an external API or persisting data in some database.
 
 We call these integration models Brokers. They play a liaison role between processing operational models and external systems. Here's an example:
@@ -304,8 +310,8 @@ We call these integration models Brokers. They play a liaison role between proce
 ```cSharp
 public partial class ApiBroker
 {
-	public async ValueTask<Student> PostStudentAsync(Student student) =>
-		this.apiBroker.PostAsync<Student>(student, url);
+ public async ValueTask<Student> PostStudentAsync(Student student) =>
+  this.apiBroker.PostAsync<Student>(student, url);
 }
 ```
 
@@ -315,8 +321,8 @@ Like any other operational model type, they don't hold data but instead, use pri
 
 In upcoming chapters, we will discuss Brokers extensively to clarify the rules and guidelines for developing brokers with external resources or systems.
 
-
 #### 0.1.2.0.1.1 Processing Models (Services)
+
 Processing models are the holders of all business-specific simulations, such as student registrations, requesting a new library card, or retrieving student information based on specific criteria. Processing models can be either primitive/foundational, high-order/processing, or advanced/orchestrators.
 
 Processing models, in general, either rely on integration models or self-relying like computational processing services or rely on each other.
@@ -326,11 +332,11 @@ Here's an example of a simple foundational/primitive service:
 ```cSharp
 public partial class StudentService : IStudentService
 {
-	private readonly IStorageBroker storageBroker;
-	...
+ private readonly IStorageBroker storageBroker;
+ ...
 
-	public async ValueTask<Student> AddStudentAsync(Student student) =>
-		await this.storageBroker.InsertStudentAsync(student);
+ public async ValueTask<Student> AddStudentAsync(Student student) =>
+  await this.storageBroker.InsertStudentAsync(student);
 }
 ```
 
@@ -339,49 +345,51 @@ A higher-order service would do/look as follows:
 ```CSharp
 public partial class StudentProcessingService : IStudentProcessingService
 {
-	private readonly IStudentService studentService;
-	...
+ private readonly IStudentService studentService;
+ ...
 
-	public async ValueTask<Student> UpsertStudentAsync(Student student)
-	{
-		....
+ public async ValueTask<Student> UpsertStudentAsync(Student student)
+ {
+  ....
 
-		Student maybeStudent = await this.studentService
-			.RetrieveStudentByIdAsync(student.Id);
-		
-		return maybeStudent switch
-		{
-			null => await this.studentService.AddStudentAsync(student),
-			_ => await this.studentService.ModifyStudentAsync(student)
-		}
-	}
+  Student maybeStudent = await this.studentService
+   .RetrieveStudentByIdAsync(student.Id);
+  
+  return maybeStudent switch
+  {
+   null => await this.studentService.AddStudentAsync(student),
+   _ => await this.studentService.ModifyStudentAsync(student)
+  }
+ }
 }
 ```
 
 More advanced orchestration-type services would combine multiple processing or foundational services as follows:
+
 ```csharp
 public partial class StudentOrchestrationService : IStudentOrchestrationService
 {
-	private readonly IStudentProcessingService studentProcessingService;
-	private readonly IStudentLibraryCardProcessingService studentLibraryCardProcessingService;
-	...
+ private readonly IStudentProcessingService studentProcessingService;
+ private readonly IStudentLibraryCardProcessingService studentLibraryCardProcessingService;
+ ...
 
-	public async ValueTask<Student> RegisterStudentAsync(Student student)
-	{
-		....
-		Student upsertedStudent = await this.studentProcessingService
-			.UpsertStudentAsync(student);
+ public async ValueTask<Student> RegisterStudentAsync(Student student)
+ {
+  ....
+  Student upsertedStudent = await this.studentProcessingService
+   .UpsertStudentAsync(student);
 
-		...
+  ...
 
-		await this.studentLibraryCardProcessingService.AddStudentLibraryCardAsync(studentLibraryCard);
-	}
+  await this.studentLibraryCardProcessingService.AddStudentLibraryCardAsync(studentLibraryCard);
+ }
 }
 ```
 
 In general, operational models are only concerned with the nature of simulation or processing of specific data carrier models; they are not concerned with holding data or retaining a status. In general, operational models are stateless in that they don't retain any details that went through them other than delegating logging for observability and monitoring purposes.
 
 #### 0.1.2.0.1.2 Exposure Models (Exposers)
+
 Exposure models handle the HMI in all scenarios where humans and systems interact. They could be simple RESTful APIs and SDKs or just UIs like in web, mobile, or desktop applications, including command-line-based systems/terminals.
 
 Exposure operational models are like the integration models; they allow the outside world to interact with your system. They sit on the other end of any system and are responsible for routing every request, communication, or call to the proper operational models. Exposure models never communicate directly with integration models and don't have any configuration other than their dependencies injected through their constructors.
@@ -393,22 +401,23 @@ Here's an example of exposure models:
 ```csharp
 public class StudentsController
 {
-	private readonly IStudentOrchestrationService studentOrchestrationService;
+ private readonly IStudentOrchestrationService studentOrchestrationService;
 
-	[HttpPost]
-	public async ValueTask<ActionResult<Student>> PostStudentAsync(Student student)
-	{
-		Student registeredStudent = await this.studentOrchestrationService
-			.RegisterStudentAsync(student);
+ [HttpPost]
+ public async ValueTask<ActionResult<Student>> PostStudentAsync(Student student)
+ {
+  Student registeredStudent = await this.studentOrchestrationService
+   .RegisterStudentAsync(student);
 
-		return Ok(registeredStudent);
-	}
+  return Ok(registeredStudent);
+ }
 }
 ```
 
 The above model exposes an API endpoint for RESTful communication to allow students to be registered into a schooling system. We will further discuss the types of exposure models based on the context and the systems they are implemented within.
 
 #### 0.1.2.0.2 Configuration Models
+
 The last type of model in any system is the configuration model. It can represent the entry point into a system, register dependencies for any system, or act as middleware to route URLs into their respective functions within an exposure model.
 
 Configuration models usually appear at the beginning of a system's launch, handling incoming and outgoing communications or underlying system operations like memory caching, thread management, etc.
@@ -418,11 +427,11 @@ In a simple API application, you may see models that look like this:
 ```csharp
 public class Startup
 {
-	public void ConfigureServices(IServices services)
-	{
-		services.AddTransient<IStorageBroker, StorageBroker>();
-		services.AddOAuth();
-	}	
+ public void ConfigureServices(IServices services)
+ {
+  services.AddTransient<IStorageBroker, StorageBroker>();
+  services.AddOAuth();
+ } 
 }
 ```
 
@@ -437,7 +446,7 @@ We can describe the simulation process as illustrating the relationships between
 ```csharp
 public class SaleService
 {
-	public void Sell(Item item) => Items.Remove(item);
+ public void Sell(Item item) => Items.Remove(item);
 }
 ```
 
@@ -451,26 +460,28 @@ The simulation process is the third and last aspect of software engineering. We 
 
 If we consider *purposing* to be the domain or the framework in which models interact, then the following illustration should simplify and convey the picture a bit clearer:
 
-<br />
-	<div align=center>
-		<img width="50%" src="https://user-images.githubusercontent.com/1453985/148863196-a30ced43-7133-4107-a23f-d0beb3efa6db.png" />
-	</div>
-<br />
+
+
+![](https://user-images.githubusercontent.com/1453985/148863196-a30ced43-7133-4107-a23f-d0beb3efa6db.png)
+
+
 
 It's important to understand that computer software can serve multiple purposes. Computer software can interact with other software that shares common purposes. The purpose of the software becomes the model, and the integrations become the simulations in that aspect. Here's a 10,000 feet example:
 
-<br />
-	<div align=center>
-		<img width="75%" src="https://user-images.githubusercontent.com/1453985/148863514-2ed0fe04-1096-42c3-b54a-3b8dbd506e7a.png" />
-	</div>
-<br />
+
+
+![](https://user-images.githubusercontent.com/1453985/148863514-2ed0fe04-1096-42c3-b54a-3b8dbd506e7a.png)
+
+
 
 The complexity of any large system can be broken into smaller problems if the single-purpose or single-responsibility aspect is enforced for each subsystem. Modern software architectures call this granularity and modularization, which we will discuss briefly throughout the architecture aspect of The Standard.
 
 # 0.2 Principles
+
 In this chapter, we will explore the principles of The Standard. These principles apply to all components in a Standard-compliant system, whether these components are brokers, services, or exposers.
 
 ## 0.2.0 People-First
+
 The main idea of this principle is to build and design Standard-compliant systems with people in mind, not just the people who will utilize the system but also the people who will be maintaining and evolving it.
 
 A system must honor simplicity over complexity to follow the people-first principle. Simplicity leads to rewritability. It also leads to designing monolithic systems built with a modular mindset to allow a true fractality in the overall pattern of the system.
@@ -478,66 +489,75 @@ A system must honor simplicity over complexity to follow the people-first princi
 The Standard also enforces the principles of measuring advanced engineering concepts against the understanding of mainstream engineers. New engineers in the industry are the leaders of tomorrow. If they are not buying in on any system, they'll eventually give up and rewrite it repeatedly.
 
 ### 0.2.0.0 Simplicity
+
 Code written according to The Standard has to be simple. There are measures to ensure this simplicity takes place; these measures are as follows:
 
 #### 0.2.0.0.0 Excessive Inheritance
+
 Any software written according to The Standard shall not have more than one level of inheritance. Over one level of inheritance will be considered excessive and prohibited except in versioning cases for the vertical scaling of flows. Excessive inheritance has proven to be a source of confusion and difficulty in terms of readability and maintainability over the years.
 
 #### 0.2.0.0.1 Entanglement
 
 ##### 0.2.0.0.1.0 Horizontal Entanglement
+
 Building "common" components in every system that promises to simplify development processes is another prohibited practice in  Standard-compliant systems. This practice manifests itself in components with names like `Utils`, `Commons`, or `Helpers`. These terminologies and what they imply in terms of false promised simplifications are not allowed. Any system built according to The Standard should comprise Brokers, Services, or Exposers, nothing more or less.
 
 Another example of horizontal entanglements is shared models across multiple independent flows - sharing exceptions, validation rules, or any other form of entanglement across multiple flows.
 
-<br />
-	<div align=center>
-		<img src="https://user-images.githubusercontent.com/1453985/169941573-fe71c80a-ba03-449c-b690-913516176b01.png" />
-	</div>
-<br />
+
+
+![](https://user-images.githubusercontent.com/1453985/169941573-fe71c80a-ba03-449c-b690-913516176b01.png)
+
+
 
 ##### 0.2.0.0.1.1 Vertical Entanglement
+
 This principle also applies to scenarios where base components are used. Unless these base components are native or external, they will not be allowed in a Standard-compliant system. Local base components create a vertical level of entanglement that harms the maintainability and readability of code. Vertical entanglements are just as harmful as `Commons` components, creating single points of failure across any system.
 
-Entanglements (vertical or horizontal) also prevent engineers in any system (especially newcomers) from fully understanding the system's depth and fully owning its functionality. They also deter engineers from having the opportunity to build end-to-end flows when half of the functionality is componentized for the sake of development expedition and simplicity. 
+Entanglements (vertical or horizontal) also prevent engineers in any system (especially newcomers) from fully understanding the system's depth and fully owning its functionality. They also deter engineers from having the opportunity to build end-to-end flows when half of the functionality is componentized for the sake of development expedition and simplicity.
 
-<br />
-	<div align=center>
-		<img src="https://user-images.githubusercontent.com/1453985/169942070-9336f6fd-b1bb-48e0-ac83-d7f5e7a13d38.png" />
-	</div>
-<br />
+
+
+![](https://user-images.githubusercontent.com/1453985/169942070-9336f6fd-b1bb-48e0-ac83-d7f5e7a13d38.png)
+
+
 
 #### 0.2.0.0.2 Autonomous Components
+
 Every component in every system should be self-sufficient. Every component implements its validations, tooling, and utilities in one of its dimensions with no hard dependency on any other external components except through dependency injection. This principle favors duplication over presumed simplification via code entanglement.
 
 Autonomous components will open up the opportunity for every engineer on every team to fully own every dependency and tool their component may need to fulfill its purpose. This may cause some code duplication to open an equal opportunity for every developer to learn how to build and evolve a component fully.
 
 ##### 0.2.0.0.2.0 No Magic
+
 Autonomous components put all their routines up front, in plain sight of the engineer. No hidden routines, shared libraries, or magical extensions that require chasing references once an inevitable split of the giant monolith begins to occur.
 
 We will treat Objects like they are in nature: multi-dimensional components self-containerized like atoms in nature. These components perform their validations, exception handling, tracing, security, localization, and everything else.
 
-<br />
-	<div align=center>
-		<img src="https://user-images.githubusercontent.com/1453985/169712032-3184e22a-d91f-4baa-a0f2-657de294220b.png" />
-	</div>
-<br />
 
-Components built according to The Standard strictly adhere to the idea of _What You See Is What You Get_ (WYSIWYG) - everything concerning the components will be on the component itself.
+
+![](https://user-images.githubusercontent.com/1453985/169712032-3184e22a-d91f-4baa-a0f2-657de294220b.png)
+
+
+
+Components built according to The Standard strictly adhere to the idea of *What You See Is What You Get* (WYSIWYG) - everything concerning the components will be on the component itself.
 
 ## 0.2.1 Rewritability
+
 Every system should be developed with the rewritability principle in mind. This principle dictates that our assumptions in the systems we develop have the potential to be reexamined and probably reconsidered. Every system should be easily rewritable as a measure of adherence to forever growing and changing business requirements.
 
 Rewritable code is easy to understand, modify, and fully rewrite. It is extremely modular and autonomous, encouraging engineers to evolve it with the least effort and risk possible.
 
-Rewritable code doesn't play tricks on the reader. It should be plug-and-play�fork, clone, build, and run all its tests successfully with no issues. There are no hidden dependencies, injected routines at runtime, or unknown prerequisites. 
+Rewritable code doesn't play tricks on the reader. It should be plug-and-play�fork, clone, build, and run all its tests successfully with no issues. There are no hidden dependencies, injected routines at runtime, or unknown prerequisites.
 
 ## 0.2.2 Mono-Micro
+
 Build monolithic systems with a modular mindset, with every flow fully independent from other flows. For instance, we may build a monolithic system with a microservice mindset, meaning that any flow can be extracted from the system and turned into its microservice or lambda with the least effort possible.
 
 This principle goes hand in hand with the concept of autonomous components at a higher level, where flows are also autonomous from their neighboring flow and their hosting system.
 
 ## 0.2.3 Level 0
+
 Code must be understandable by an entry-level individual in the engineering craft. Since the majority of engineers in our industry will always be new to the craft, our code base continues to live based on its ease of understanding by most engineers in the industry.
 
 Level 0 engineers are our measure of success. Their ability to understand our code guarantees that this code will continue to live and evolve with the next generation of engineers.
@@ -545,248 +565,242 @@ Level 0 engineers are our measure of success. Their ability to understand our co
 This principle also mandates that every engineer in the industry closely examine their code and pair with juniors in the field to see if they meet this principle.
 
 ## 0.2.4 Open Code
+
 As a principle, open code dictates that everything written according to The Standard should be commonly available to the public. This applies to internal architectural practices, trial libraries, and any other form of module development that doesn't allow every engineer to learn and evolve any given system. Developing internal tools that are not accessible shall inevitably harm the engineering experience for those who are trying to evolve these very tools.
 
 The principle also recognizes that under extreme circumstances, such as when safety or security are threatened or when one is under some contractual obligation, one cannot make code, tooling, platforms, and patterns available to the public. However, The Standard does not permit making the source proprietary solely for personal or organizational gain.
 
 ## 0.2.5 Airplane Mode (Cloud-Foreign)
+
 The Standard enforces the idea of airplane mode. Where engineers can set up their entire infrastructure on their local machine without needing or having any network connection, this principle goes heavily against principles such as Cloud-Native applications, where a given system cannot stand and run without cloud infrastructure.
 
 The Standard also encourages its adopters to develop the proper tooling to bridge the gap between cloud infrastructural components and local components such as queues, event hubs, and other tools to make it easily testable and modifiable.
 
 ## 0.2.6 No Toasters
+
 The Standard shall be taught man to man, not machine to man. No stylecops or analyzers should be implemented to force people into following The Standard. It should be driven by passion in the heart and conviction in the mind. The Standard should be taught from person to person. It fosters an engineering culture of open discussions, conviction, and understanding.
 
 ## 0.2.7 Pass Forward
+
 The Standard shall be taught at no cost as it arrived to you at no cost. It should also be passed forward to the next engineer at no cost, regardless of their financial, social, or educational status. The Standard is pure knowledge given by the selfless to the selfless. There shall be no profiteering off of it; neither shall it be a reason for someone to belittle others or make them feel less. Teaching The Standard for profit violates it and denies the beneficiary (the violator) any further guidance from The Author.
 
 ## 0.2.8 All-In/All-Out
+
 The Standard must be fully embraced or entirely rejected. Any system incorporating only some aspects of The Standard will not be recognized as a Standardized system. Any system that continues to adhere to previous versions of The Standard will be obligated to elevate its standards to reclaim its status of standardization.
 
 ## 0.2.9 Readability over Optimization
+
 Readability is more important than optimization. If an optimum software isn't readable then it's not truly optimum, and it's not truly standardized. When in doubt, The Standard honors readability over optimization.
 
 ## 0.2.10 Last Day
+
 Every day can be the last day on any given project. Therefore, every effort�whether it be design, development, documentation, or test automation�must be brought to a good stopping point by the end of each engineering day. Engineers adhering to The Standard must ensure their work is in a state that can be seamlessly picked up by another engineer on the next engineering day. This practice ensures project continuity and, more importantly, accommodates any potential unforeseen circumstances.
 
 # 0.3 Testimonials
+
 This chapter is about testimonials from engineers all over the world. They have all used The Standard in their daily projects and benefited from it. Here's their testimonials:
 
 ---
 
-<i> "The Standard helped me think out of the box while designing any system." </i>
+*"The Standard helped me think out of the box while designing any system."*
 
-<b>Awais Shabir</b> <br />
-<i> Lead Software Engineer </i> <br />
-<i> Cloud Solution, Saudi Arabia </i>
-
----
-
-<i> "The Standard provides a focus on a common architecture and approach for teams that I lead." </i>
-
-<b> Dennis Landi</b> <br />
-<i> Technical Architect </i> <br />
-<i> Allied Data, Inc., USA</i>
+**Awais Shabir**  
+*Lead Software Engineer*  
+*Cloud Solution, Saudi Arabia*
 
 ---
 
-<i> "The Standard gives the full potential to realize the impact of true software engineer can give to themself and also to the society in terms of knowledge, delivering quality and maintainable software." </i>
+*"The Standard provides a focus on a common architecture and approach for teams that I lead."*
 
-<b> Shri Humrudha Jagathisun</b> <br />
-<i> Senior Software Engineer </i> <br />
-<i> Microsoft, USA</i>
-
----
-
-<i> "The Standard provides Better separation of concerns.
-Unification of project templates between different teams." </i>
-
-<b> Raúl Lorenzo Boulllosa </b> <br />
-<i> Software Engineer </i> <br />
-<i> Altia Consultores, Spain </i> 
-
----
-<i> "The Standard help me in writing more and more clean code, writing better Test-Driven Solutions and my team starts working in more coherence" </i>
-
-<b> Mabrouk Mahdhi </b> <br />
-<i> Sr. Software Engineer </i> <br />
-<i> Messer SE & Co. KGaA, Germany </i> 
-
+**Dennis Landi**  
+*Technical Architect*  
+*Allied Data, Inc., USA*
 
 ---
 
-<i> "The Standard helped with consistent implementation of software that could be understood by all levels of experience.
-Proper adoption of TDD. Simplification. Set a standard that is known and used in code reviews to ensure code quality." </i>
+*"The Standard gives the full potential to realize the impact of true software engineer can give to themself and also to the society in terms of knowledge, delivering quality and maintainable software."*
 
-<b> Christo du Toit </b> <br />
-<i> Senior Digital Developer </i> <br />
-<i> National Health Services, England </i>
-  
----
-
-<i> "It helps in easy design, consistent and easy to read code bases, easy to organize tasks, and high code quality." </i>
-  
-<b> Kailu Hu </b> <br />
-<i> Software Engineer </i> <br />
-<i> Microsoft, USA </i>
-  
----
-
-<i> "The Standard helped with Increased speed in developing excellent software." </i>
-
-<b> Yusuf Corr </b> <br />
-<i> Software Engineer </i> <br />
-<i> Microsoft, USA </i>
+**Shri Humrudha Jagathisun**  
+*Senior Software Engineer*  
+*Microsoft, USA*
 
 ---
 
-<i> "The Standard helped the team in implementing the code quality standards reducing many problems and the risk of project failures. It also helps in the development of software programs that are less complex and thereby reduce errors." </i>
+*"The Standard provides Better separation of concerns.
+Unification of project templates between different teams."*
 
-<b> Marthin Thomas </b> <br />
-<i> Software Developer </i> <br />
-<i> Alpha Events and Marketing, Namibia </i>
-
----
-
-<i> "The standard learnings helped me get my first full time position as a web developer" </i>
-
-<b> Florian Renard  </b> <br />
-<i> Web Developer </i> <br />
-<i> HR Team, France </i>
+**Raúl Lorenzo Boulllosa**  
+*Software Engineer*  
+*Altia Consultores, Spain*
 
 ---
 
-<i> "Better internal and cross team collaboration. Less meetings and churn with conversations like “tabs vs spaces”.  Common set of concepts and buzzwords to facilitate communication and collaboration.  PRs, continuous integration/feedback and engineering quality become automatic. Easily one of the best ways to remove the roadblocks that inhibit new teams." </i>
+*"The Standard help me in writing more and more clean code, writing better Test-Driven Solutions and my team starts working in more coherence"*
 
-<b> Josh McCall </b> <br />
-<i> Software Engineer </i> <br />
-<i> Microsoft, USA </i>
-
----
-
-<i> "The breakdown of existing N-Tier architectures in to more granular pieces make for a higher quality of tested on inception code." </i>
-
-<b> Paul Ward  </b> <br />
-<i> Head of Technology </i> <br />
-<i> Corporate LinX, England </i>
+**Mabrouk Mahdhi**  
+*Sr. Software Engineer*  
+*Messer SE & Co. KGaA, Germany*
 
 ---
 
-<i> "The Standard is a wonderful book. It helps me to re-think the software design, and project refactoring." </i>
+*"The Standard helped with consistent implementation of software that could be understood by all levels of experience.
+Proper adoption of TDD. Simplification. Set a standard that is known and used in code reviews to ensure code quality."*
 
-<b> Sam Xu  </b> <br />
-<i> Senior Software Engineer </i> <br />
-<i> Microsoft, China </i>
-
----
-
-<i> "The Standard takes out the ambiguity that comes with writing code. It takes into consideration many edge cases and threats which go unseen so many times in SDL. It is developer friendly and gives the flexibility of anyone working on any service/product if it uses The Standard. My team can take vacation and the work will still go on as if that same engineer is writing the code." </i>
-
-<b> Geetika Jain  </b> <br />
-<i> Software Engineer </i> <br />
-<i> Microsoft, India </i>
+**Christo du Toit**  
+*Senior Digital Developer*  
+*National Health Services, England*
 
 ---
 
-<i> "The Standard, according to me should be every engineer's toolkit. It unravels some common assumptions, unknowns and silent doubts that would come to every engineer's mind but end up staying inside unanswered. This living document should be adopted broadly worldwide to an extent that it becomes the common language for software development making it easier to people to collaborate and bring qualitatively engineered products to life." </i>
+*"It helps in easy design, consistent and easy to read code bases, easy to organize tasks, and high code quality."*
 
-<b> Bhavana Konchada </b> <br />
-<i> Senior Software Engineer </i> <br />
-<i> Microsoft, India </i>
-
----
-
-<i> "Introducing Standard has organized my code base. Now it is more readable for me and everyone who is new. I have also learned new things that i was not aware of."</i>
-
-<b> Vishwanadha Goli </b> <br />
-<i> Software Engineer </i> <br />
-<i> Microsoft, India </i>
+**Kailu Hu**  
+*Software Engineer*  
+*Microsoft, USA*
 
 ---
 
-<i> "Provided a framework for engineers to grow within. Inspired engineers to think more on design and architecture within the source code, not just the application resource topology. Taught engineers to think of the developer experience (onboarding, readability, maintainability) beyond their immediate project."</i>
+*"The Standard helped with Increased speed in developing excellent software."*
 
-<b> Sean Hobbs </b> <br />
-<i> Software Engineer II </i> <br />
-<i> Microsoft, USA </i>
-
----
-
-
-<i> "The Standard helped me transition from intimidated to empowered, as I sought out to create a system strong enough to support my goals. Envisioning the product and the UI was the easy part - knowing how to tie everything together in a way that would allow the product to continue evolving seemed impossible. Hassan's blueprint has given me clarity, motivated me to use best practices, and enabled me to create software that will scale appropriately." </i>
-
-<b> Danielle Scott </b> <br />
-<i> Software Engineer </i> <br />
-<i> Microsoft, USA </i>
+**Yusuf Corr**  
+*Software Engineer*  
+*Microsoft, USA*
 
 ---
 
+*"The Standard helped the team in implementing the code quality standards reducing many problems and the risk of project failures. It also helps in the development of software programs that are less complex and thereby reduce errors."*
 
-<i> "Relaunching my career as a software engineer having left it for almost 15 years, The Standard helps me to quickly regain confidence and skills in coding and software design. The Standard removes ambiguity and applies SOLID principles elegantly. It also speaks to me on many levels, personally and professionally, through its observation of the world and everything in it." </i>
-
-<b> Christopher Tang </b> <br />
-<i> Software Developer </i> <br />
-<i> Axios IT Pty Ltd, Australia </i>
-
----
-
-
-<i> "The-Standard gave me hope, enriched my knowledge and enabled me build highly-profitable apps. If you think this is the next tech-book on how to write "good" software, you are utterly mistaken. Personally, The-Standard taught me the craft of software engineering, like topics ranging from effective team management to proper commit history." </i>
-
-<b> Elbek Normurodov </b> <br />
-<i> Staff Software Engineer </i> <br />
-<i> Piorsoft, LLC, Uzbekistan </i>
+**Marthin Thomas**  
+*Software Developer*  
+*Alpha Events and Marketing, Namibia*
 
 ---
 
+*"The standard learnings helped me get my first full time position as a web developer"*
 
-<i> "It allowed me to introduce structure within my hobby projects. It lends itself to a test driven approach which has helped plug gaps in projects at work. Though the terminology used has taken time to getting used to, it allows an easy way to communicate new ideas between each other." </i>
-
-<b> Callum Marshall </b> <br />
-<i> Full Stack Developr </i> <br />
-<i> Corporate LinX, UK </i>
-
----
-
-
-<i> "The Standard provided me with a unified understanding of software development principles and best practices in an easy and approachable way. Hassan has managed to distil years of practical wisdom into a simple-to-understand manual that is easy to grasp and follow. I am finally clear about where different pieces of code need to go and why. I have began applying it to one proprietary project for a client of the company I work at. I cannot over-emphasize how much I appreciate the concept of brokers-services-exposers -- an unforgettable and powerful way to think about software. Thank you Hassan!" </i>
-
-<b> Junaid Bedford </b> <br />
-<i> Software Developer </i> <br />
-<i> iOCO Digital, South Africa </i>
+**Florian Renard**  
+*Web Developer*  
+*HR Team, France*
 
 ---
 
+*"Better internal and cross team collaboration. Less meetings and churn with conversations like "tabs vs spaces". Common set of concepts and buzzwords to facilitate communication and collaboration. PRs, continuous integration/feedback and engineering quality become automatic. Easily one of the best ways to remove the roadblocks that inhibit new teams."*
 
-<i> "	I am always looking for best practices in my job. Standard will unify my professional dictionary not only in communication but also to prioritize everyday tasks, optimize cost of projects and knowledge flow in whole organization." </i>
-
-<b> Marek Słowikowski </b> <br />
-<i> IT Architect </i> <br />
-<i> MSUI, Poland </i>
-
----
-
-<i> "The Standard completely changed my perspective on thinking about how enterprise level robust systems are developed. - Being part of a really good community created around Standard helps to discuss and use the best/state-of-the-art engineering practices in the open-source project (and possibly my team projects) which follows Standard guidelines. - The Standard also helped me to get much deeper understanding on the design pattern used while developing a software. It also helped me to effectively participate more in my team design discussion sessions." </i>
-
-<b> Shivang Soni </b> <br />
-<i> Software Developer </i> <br />
-<i> Microsoft, India </i>
-
+**Josh McCall**  
+*Software Engineer*  
+*Microsoft, USA*
 
 ---
 
-<i> "With a cumulative of over 42 years of software development, The Standard principles people first attitude has shed a bright light on the software engineering industry.
+*"The breakdown of existing N-Tier architectures in to more granular pieces make for a higher quality of tested on inception code."*
+
+**Paul Ward**  
+*Head of Technology*  
+*Corporate LinX, England*
+
+---
+
+*"The Standard is a wonderful book. It helps me to re-think the software design, and project refactoring."*
+
+**Sam Xu**  
+*Senior Software Engineer*  
+*Microsoft, China*
+
+---
+
+*"The Standard, according to me should be every engineer's toolkit. It unravels some common assumptions, unknowns and silent doubts that would come to every engineer's mind but end up staying inside unanswered. This living document should be adopted broadly worldwide to an extent that it becomes the common language for software development making it easier to people to collaborate and bring qualitatively engineered products to life."*
+
+**Bhavana Konchada**  
+*Senior Software Engineer*  
+*Microsoft, India*
+
+---
+
+*"Introducing Standard has organized my code base. Now it is more readable for me and everyone who is new. I have also learned new things that i was not aware of."*
+
+**Vishwanadha Goli**  
+*Software Engineer*  
+*Microsoft, India*
+
+---
+
+*"Provided a framework for engineers to grow within. Inspired engineers to think more on design and architecture within the source code, not just the application resource topology. Taught engineers to think of the developer experience (onboarding, readability, maintainability) beyond their immediate project."*
+
+**Sean Hobbs**  
+*Software Engineer II*  
+*Microsoft, USA*
+
+---
+
+*"The Standard helped me transition from intimidated to empowered, as I sought out to create a system strong enough to support my goals. Envisioning the product and the UI was the easy part - knowing how to tie everything together in a way that would allow the product to continue evolving seemed impossible. Hassan's blueprint has given me clarity, motivated me to use best practices, and enabled me to create software that will scale appropriately."*
+
+**Danielle Scott**  
+*Software Engineer*  
+*Microsoft, USA*
+
+---
+
+*"Relaunching my career as a software engineer having left it for almost 15 years, The Standard helps me to quickly regain confidence and skills in coding and software design. The Standard removes ambiguity and applies SOLID principles elegantly. It also speaks to me on many levels, personally and professionally, through its observation of the world and everything in it."*
+
+**Christopher Tang**  
+*Software Developer*  
+*Axios IT Pty Ltd, Australia*
+
+---
+
+*"The-Standard gave me hope, enriched my knowledge and enabled me build highly-profitable apps. If you think this is the next tech-book on how to write "good" software, you are utterly mistaken. Personally, The-Standard taught me the craft of software engineering, like topics ranging from effective team management to proper commit history."*
+
+**Elbek Normurodov**  
+*Staff Software Engineer*  
+*Piorsoft, LLC, Uzbekistan*
+
+---
+
+*"It allowed me to introduce structure within my hobby projects. It lends itself to a test driven approach which has helped plug gaps in projects at work. Though the terminology used has taken time to getting used to, it allows an easy way to communicate new ideas between each other."*
+
+**Callum Marshall**  
+*Full Stack Developr*  
+*Corporate LinX, UK*
+
+---
+
+*"The Standard provided me with a unified understanding of software development principles and best practices in an easy and approachable way. Hassan has managed to distil years of practical wisdom into a simple-to-understand manual that is easy to grasp and follow. I am finally clear about where different pieces of code need to go and why. I have began applying it to one proprietary project for a client of the company I work at. I cannot over-emphasize how much I appreciate the concept of brokers-services-exposers -- an unforgettable and powerful way to think about software. Thank you Hassan!"*
+
+**Junaid Bedford**  
+*Software Developer*  
+*iOCO Digital, South Africa*
+
+---
+
+*"I am always looking for best practices in my job. Standard will unify my professional dictionary not only in communication but also to prioritize everyday tasks, optimize cost of projects and knowledge flow in whole organization."*
+
+**Marek Słowikowski**  
+*IT Architect*  
+*MSUI, Poland*
+
+---
+
+*"The Standard completely changed my perspective on thinking about how enterprise level robust systems are developed. - Being part of a really good community created around Standard helps to discuss and use the best/state-of-the-art engineering practices in the open-source project (and possibly my team projects) which follows Standard guidelines. - The Standard also helped me to get much deeper understanding on the design pattern used while developing a software. It also helped me to effectively participate more in my team design discussion sessions."*
+
+**Shivang Soni**  
+*Software Developer*  
+*Microsoft, India*
+
+---
+
+*"With a cumulative of over 42 years of software development, The Standard principles people first attitude has shed a bright light on the software engineering industry.
 The extremly easy approach to these concepts help not just programming newcomers, but as well can greatly beneifit us old timers of the software world.
 When I first put a MS-Dos 5.25in. floppy in a PC with no hard drives, I never in a million years thought anything can be easier to follow."
-Hassan Habib and the Standard Community are the epitome of People First always someone somewhere to help or listen</i>
+Hassan Habib and the Standard Community are the epitome of People First always someone somewhere to help or listen*
 
-<b> Gregory Hays</b> <br />
-<i> Business Application Development </i> <br />
-<i> Southern California, USA</i>
+**Gregory Hays**  
+*Business Application Development*  
+*Southern California, USA*
 
 # 1 Brokers
 
 ## 1.0 Introduction
+
 Brokers are a liaison between business logic and the outside world.
 They are wrappers around external libraries, resources, services, or APIs to satisfy a local interface for the business to interact with them without having to be tightly coupled with any particular resources or external library implementation.
 
@@ -797,22 +811,21 @@ However, brokers also ensure that your business is pluggable by abstracting away
 For instance, you have an API built to consume and serve data from a SQL server. At some point, you decided that a better, more economical option for your API is to rely on a NoSQL technology instead. Having a broker to remove the dependency on SQL will make it much easier to integrate with NoSql with the least time and cost humanly possible.
 
 ## 1.1 On The Map
+
 In any application, mobile, desktop, web, or simply an API, brokers usually reside at the "tail" of any app because they are the last point of contact between our custom code and the outside world.
 
 Whether the outside world is simply local storage in memory or an independent system that resides behind an API, they all have to reside behind Brokers in any application.
 
 In the following low-level architecture for a given API - Brokers reside between our business logic and the external resource:
 
-<br />
-    <p align=center>
-        <img src="https://user-images.githubusercontent.com/1453985/148864693-d432be6f-13b1-4def-af95-9c63af430802.png" />
-    </p>
-<br />
+![Brokers on the Map](https://user-images.githubusercontent.com/1453985/148864693-d432be6f-13b1-4def-af95-9c63af430802.png)
 
 ## 1.2 Characteristics
+
 There are a few simple rules that govern the implementation of any broker - these rules are:
 
 ### 1.2.0 Implements a Local Interface
+
 Brokers must satisfy a local contract and implement a local interface to allow decoupling between their implementation and the services that consume them.
 
 For instance, given that we have a local contract, `IStorageBroker` that requires an implementation for any given CRUD operation for a local model `Student` - the contract operation would be as follows:
@@ -835,9 +848,11 @@ public partial class StorageBroker
         await SelectAllAsync<Student>();
 }
 ```
+
 A local contract implementation can be replaced at any point, from utilizing the Entity Framework as shown in the previous example to using a completely different technology like Dapper or an entirely different infrastructure like an Oracle or PostgreSQL database.
 
 ### 1.2.1 No Flow Control
+
 Brokers should not have any form of flow control, such as if statements, while loops, or switch cases. That's because flow-control code is considered business logic, and it fits better in the services layer, where business logic should reside, not the brokers.
 
 For instance, a broker method that retrieves a list of students from a database would look something like this:
@@ -846,14 +861,15 @@ For instance, a broker method that retrieves a list of students from a database 
 public async ValueTask<IQueryable<Student>> SelectAllStudentsAsync() =>
     await SelectAllAsync<Student>();
 ```
-A simple function that calls the native EntityFramework `DbSet<T>` and returns a local model like `Student`. 
 
+A simple function that calls the native EntityFramework `DbSet<T>` and returns a local model like `Student`.
 
 ### 1.2.2 No Exception Handling
+
 Exception handling is a form of flow control. Brokers are not supposed to handle exceptions but rather let them propagate to the broker-neighboring services, where they can be properly mapped and localized.
 
-
 ### 1.2.3 Own Their Configurations
+
 Brokers are also required to handle their configurations - they may have a dependency injection from a configuration object to retrieve and set up the configurations for whichever external resource they are integrating.
 
 For instance, connection strings in database communications are required to be retrieved and passed into the database client to establish a successful connection, as follows:
@@ -882,6 +898,7 @@ public partial class StorageBroker : EFxceptionsContext, IStorageBroker
 ```
 
 ### 1.2.4 Natives from Primitives
+
 Brokers may construct an external model object based on primitive types passed by broker-neighboring services.
 
 For instance, in an e-mail notification broker, input parameters for a `.Send(...)` function require the basic input parameters such as the subject, content, or address. Here's an example:
@@ -898,6 +915,7 @@ The primitive input parameters will ensure no strong dependencies between the br
 Even in situations where the broker is simply a point of integration between your application and an external RESTful API, it's very highly recommended that you build your native models to reflect the same JSON object sent or returned from the API instead of relying on NuGet libraries, DLLs or shared projects to achieve the same goal.
 
 ### 1.2.5 Naming Conventions
+
 The contracts for brokers shall remain as generic as possible to indicate their overall functionality; for instance, we say `IStorageBroker` instead of `ISqlStorageBroker` to indicate a particular technology or infrastructure.
 
 With a single storage broker, it might be more convenient to maintain the same name as the contract. However, in the case of concrete implementations of brokers, it all depends on how many brokers you have that provide similar functionality. In our case, we have a concrete implementation of `IStorageBroker`, so the name would be `StorageBroker`.
@@ -907,6 +925,7 @@ However, if your application supports multiple queues, storage, or e-mail servic
 However, if the concrete implementations target the same model and business logic, a diversion to the technology might be more beneficial. In this case, for instance, `IStorageBroker`, two different concrete implementations could be `SqlStorageBroker` and `MongoStorageBroker`. This case is typical in situations where the intention is to reduce production infrastructure costs.
 
 ### 1.2.6 Language
+
 Brokers speak the language of the technologies they support.
 For instance, in a storage broker, we say `SelectById` to match the SQL `Select` statement; in a queue broker, we say `Enqueue` to match the language.
 
@@ -920,6 +939,7 @@ public async ValueTask<Student> PostStudentAsync(Student student) =>
 ```
 
 ### 1.2.7 Up & Sideways
+
 Brokers cannot call other brokers because they are the first point of abstraction and require no additional abstractions or dependencies other than a configuration access model.
 
 Brokers also can't have services as dependencies, as the flow in any given system shall come from the services to the brokers and not the other way around.
@@ -929,6 +949,7 @@ For instance, even when a microservice has to subscribe to a queue, brokers will
 The general rule here is that only services can call brokers, while brokers can only call external native dependencies.
 
 ## 1.3 Organization
+
 Brokers supporting multiple entities, such as Storage brokers, should leverage partial classes to break down the responsibilities per entity.
 
 For instance, if we have a storage broker that provides all CRUD operations for both `Student` and `Teacher` models, then the organization of the files should be as follows:
@@ -958,6 +979,7 @@ namespace OtripleS.Web.Api.Brokers.Storages
 ```
 
 And we say:
+
 ```csharp
 namespace OtripleS.Web.Api.Brokers.Queues
 {
@@ -966,11 +988,13 @@ namespace OtripleS.Web.Api.Brokers.Queues
 ```
 
 ## 1.4 Broker Types
+
 In most applications built today, some common Brokers are usually needed to get an enterprise application up and running - some of these are Storage, Time, APIs, Logging, and Queues.
 
 Some brokers interact with existing system resources, such as *time*, to allow broker-neighboring services to treat time as a dependency and control how a particular service would behave based on the value of *time* at any point in the past, present, or future.
 
 ### 1.4.0 Entity Brokers
+
 Entity brokers provide integration points with the system's external resources to fulfill business requirements.
 
 For instance, entity brokers integrate with storage, providing capabilities to store or retrieve records from a database.
@@ -980,6 +1004,7 @@ Entity brokers are also like queue brokers, providing a point of integration to 
 Broker-neighboring services can only call entity brokers because they require a level of validation on the data they receive or provide before proceeding.
 
 ### 1.4.1 Support Brokers
+
 Support brokers are general-purpose brokers. They provide the functionality to support services, but they have no characteristics that make them different from any other system.
 
 An excellent example of a support broker is the `DateTimeBroker`, a broker specifically designed to abstract away the business layer's strong dependency on the system date time.
@@ -993,13 +1018,16 @@ Support Brokers may be called across the entire business layer: foundation, proc
 You can find real-world examples of brokers in the OtripleS project [here](https://github.com/hassanhabib/OtripleS/tree/master/OtripleS.Web.Api/Brokers).
 
 ## 1.5 Implementation
+
 Here's a real-life implementation of an entire storage broker for all CRUD operations for `Student` entity:
 
 ## 1.5.1 Asynchronization Abstraction
+
 In order to abstract at an operational level all example implementations in this section will utilize the ValueTask type to provide an asynchronization abstraction.
 This approach encourages a consistent handling of asynchronous operations across all method implementations, promoting a clean and efficient abstraction that aligns with Standard principles.
 
-### For IStorageBroker.cs:
+### For IStorageBroker.cs
+
 ```csharp
 namespace OtripleS.Web.Api.Brokers.Storages
 {
@@ -1009,7 +1037,8 @@ namespace OtripleS.Web.Api.Brokers.Storages
 }
 ```
 
-### For StorageBroker.cs:
+### For StorageBroker.cs
+
 ```csharp
 using System;
 using System.Linq;
@@ -1072,7 +1101,8 @@ namespace OtripleS.Web.Api.Brokers.Storages
 }
 ```
 
-#### For IStorageBroker.Students.cs:
+#### For IStorageBroker.Students.cs
+
 ```csharp
 using system;
 using system.Linq;
@@ -1090,9 +1120,10 @@ namespace OtripleS.Web.Api.Brokers.Storages
         ValueTask<Student> DeleteStudentAsync(Student student);
     }
 }
-``` 
+```
 
-#### For StorageBroker.Students.cs:
+#### For StorageBroker.Students.cs
+
 ```csharp
 using System;
 using System.Linq;
@@ -1124,9 +1155,10 @@ namespace OtripleS.Web.Api.Brokers.Storages
 }
 ```
 
-### Support Brokers:
+### Support Brokers
 
-#### For IDateTimeBroker.cs:
+#### For IDateTimeBroker.cs
+
 ```csharp
 public interface IDateTimeBroker
 {
@@ -1134,7 +1166,8 @@ public interface IDateTimeBroker
 }
 ```
 
-#### For DateTimeBroker.cs:
+#### For DateTimeBroker.cs
+
 ```csharp
 public class DateTimeBroker : IDateTimeBroker
 {
@@ -1143,7 +1176,8 @@ public class DateTimeBroker : IDateTimeBroker
 }
 ```
 
-#### For ILoggingBroker.cs:
+#### For ILoggingBroker.cs
+
 ```csharp
 public interface ILoggingBroker
 {
@@ -1156,7 +1190,8 @@ public interface ILoggingBroker
 }
 ```
 
-#### For LoggingBroker.cs:
+#### For LoggingBroker.cs
+
 ```csharp
 public class LoggingBroker : ILoggingBroker
 {
@@ -1186,17 +1221,19 @@ public class LoggingBroker : ILoggingBroker
 ```
 
 ## 1.6 Summary
+
 Brokers are the first layer of abstraction between your business logic and the outside world. But they are not the only layer of abstraction because a few native models will still leak through your brokers to your broker-neighboring services. It is natural to avoid doing any mappings outside the realm of logic, in our case, the foundation services.
 
-For instance, in a storage broker, regardless of the ORM used, some native exceptions from your ORM (EntityFramework, for example) will occur, such as `DbUpdateException` or `SqlException`. In that case, we need another layer of abstraction to act as a mapper between these exceptions and our core logic to convert them into local exception models. 
+For instance, in a storage broker, regardless of the ORM used, some native exceptions from your ORM (EntityFramework, for example) will occur, such as `DbUpdateException` or `SqlException`. In that case, we need another layer of abstraction to act as a mapper between these exceptions and our core logic to convert them into local exception models.
 
 This responsibility lies in the hands of the broker-neighboring services. I also call them foundation services; these services are the last point of abstraction before your core logic, which consists of local models and contracts.
 
-
 ## 1.7 FAQs
+
 Over time, some common questions arose from the engineers I worked with throughout my career. Since some of these questions reoccurred on several occasions, it might be helpful to aggregate them here so everyone can learn about other perspectives on brokers.
 
 ### 1.7.0 Is the Brokers Pattern the same as the Repository Pattern?
+
 From an operational standpoint, brokers seem to be more generic than repositories.
 
 Repositories usually target storage-like operations, mainly towards databases. However, brokers can be an integration point for any external dependency, such as e-mail services, queues, and other APIs.
@@ -1208,6 +1245,7 @@ In general, all these patterns try to implement the same SOLID principles: separ
 But because SOLID are principles and not exact guidelines, it's expected to see all different implementations and patterns to achieve that principle.
 
 ### 1.7.1 Why can't the brokers implement a contract for methods that return an interface instead of a concrete model?
+
 That would be an ideal situation, but that would also require brokers to do a conversion or mapping between the native models returned from the external resource SDKs or APIs and the internal model that adheres to the local contract.
 
 Doing that on the broker level will require introducing business logic into that realm, which is outside the purpose of that component.
@@ -1215,19 +1253,23 @@ Doing that on the broker level will require introducing business logic into that
 We define business logic code as any intended sequential, selective, or iteration code. Brokers are not unit-tested because they lack business logic. They may be part of an acceptance or integration test but certainly not part of unit-level tests simply because they do not contain business logic.
 
 ### 1.7.2 If brokers were a layer of abstraction from the business logic, why do we allow external exceptions to leak through them onto the services layer?
+
 Brokers are only the *first* layer of abstraction, but not the only one. Broker-neighboring services are responsible for converting the native exceptions occurring in a broker into a more local exception model that can be handled and processed internally within the business logic realm.
 
 Business logic emerges in the processing, orchestration, coordination, and aggregation layers, where all the exceptions, returned models, and operations are local to the system.
 
 ### 1.7.3 Why do we use partial classes for brokers who handle multiple entities?
+
 Since brokers must own their configurations, it makes more sense to partialize when possible to avoid reconfiguring every storage broker for each entity.
 
 Partial classes are a feature in the C# language, but it should be possible to implement the same behavior through inheritance in other programming languages.
 
 ### 1.7.4 Are brokers the same as providers (Provider Pattern)?
+
 No. Providers blur the line between services (business logic) and brokers (integration layer). Brokers target particular disposable components within the system, but providers include more than just that.
 
 ### 1.7.5 Why is ValueTask preferred over Task in the implementations outlined in this section?
+
 ValueTask is a struct that is used to represent a task that returns a value.
 It is a value-based representation of a task that can be used to avoid allocations in the case where a task completes synchronously.
 
@@ -1236,6 +1278,7 @@ This approach encourages a consistent handling of asynchronous operations across
 By using ValueTask, we reduce memory allocations in scenarios where the result is often available immediately, thereby enhancing performance while maintaining code clarity.
 
 ### 1.7.6 Why does or how can I supress warnings thrown in my code files?
+
 Warnings are thrown by the compiler to alert you of potential issues in your code. It is important to address these warnings to ensure that your code is clean and free of potential bugs.
 Engineers and developers can resolve warnings by following the suggestions provided by the compiler. This may involve making changes to the code, refactoring, or updating dependencies.
 
@@ -1246,31 +1289,33 @@ To suppress a warning given by the IDE or compiler, you can configure your .cspr
 This approach allows you to disable specific warnings globally across your project.
 
 For example, adding <NoWarn>CS1998</NoWarn> to a <PropertyGroup> in your .csproj file will suppress the warning CS1998, which indicates an asynchronous method lacking await operators. If you need to suppress multiple warnings, you can list them separated by commas. This method provides a clean and consistent way to manage warnings without scattering #pragma warning directives throughout your code.
+
 ```csharp
 <Project Sdk="Microsoft.NET.Sdk.Web">
 
-	<PropertyGroup>
-		<TargetFramework>net8.0</TargetFramework>
-		<Nullable>disable</Nullable>
-		<ImplicitUsings>disable</ImplicitUsings>
+ <PropertyGroup>
+  <TargetFramework>net8.0</TargetFramework>
+  <Nullable>disable</Nullable>
+  <ImplicitUsings>disable</ImplicitUsings>
         <WarningLevel>CS1998</WarningLevel>
-	</PropertyGroup>
+ </PropertyGroup>
     ...
 ```
 
 # 1.8 Standardized Provider Abstraction Libraries (SPAL)
+
 This particular chapter will discuss the providers brokers may rely on to execute a certain operation. Most Brokers rely on external libraries or routines not owned by the engineers developing the system. These external libraries may or may not follow best practices regarding abstraction and testing.
 
 The Standard mandates relying on standardized providers for systems design and development. These standardized providers must have the following characteristics:
 
 ## 1.8.0 Extensibility
+
 Standardized provider abstraction libraries must be extensible to support more external providers. For example, a library that supports communicating with a database to SQL Server must be extensible enough to support communicating with MongoDB, MariaDB, or any other providers without any additional costs from the consumer of these libraries.
 
-<div align=center>
-    <img src="https://raw.githubusercontent.com/hassanhabib/The-Standard/master/1.%20Brokers/Resources/Brokers-1.8.0.png" />
-</div>
+![Brokers Diagram](https://raw.githubusercontent.com/hassanhabib/The-Standard/master/1.%20Brokers/Resources/Brokers-1.8.0.png)
 
 ### 1.8.0.0 Configurability
+
 For Standardized libraries to be usable with several providers, it must allow engineers to configure them to target a particular provider, local or remote. For instance, provider abstraction libraries can be configured in the following fashion:
 
 ```csharp
@@ -1306,6 +1351,7 @@ public class StorageBroker
 ```
 
 ## 1.8.1 Distributability
+
 Abstraction libraries must allow several engineers to publish their extensions of the library. The library does not need to have implementations of all providers in one binary. Instead, these libraries must provide an interface or a contract that all other extensions must implement to support a specific provider.
 
 For instance, Let's assume we have the core standardized contract `Standard.Storages.Core`. We may publish a library called `Standard.Storages.Sql`. Anyone else can also publish `Standard.Storages.MongoDb` to support the same interface. An interface would look something like this:
@@ -1320,13 +1366,14 @@ public interface IStorageProvider
     void Configure(Options options);
 }
 ```
+
 This contract's capabilities must be the bare minimum any provider can provide. However, the additional options in the provider extension may expose more capabilities that may or may not exist in other libraries.
 
 ## 1.8.2 External Mockability (Cloud-Foreign)
+
 Standardized provider libraries must allow communications with mocked local phantom APIs. For instance, if a system requires communication with a queue or an event bus in the cloud, the provider library abstracts that technology must allow a local connection for Acceptance Testing and Airplane-Mode runs, which we discussed earlier as Cloud Foriegn Principle.
 
 External Mockability may rely on other external libraries that implement patterns such as PACT to create phantom or fake external API instances running on the local machine or network. Here's an example:
-
 
 ```csharp
 public class EventBroker
@@ -1342,6 +1389,7 @@ public class EventBroker
     }
 }
 ```
+
 In the above snippet, the `TargetServerType` can be either `Remote` or `Local` as mandatory options, but the engineers developing the library may add other options if they so choose.
 
 Abstract provider libraries must mimic the exact behavior of their providers. For instance, in a queue-listening scenario, these libraries must expose an API that supports eventing for incoming messages, even if they are local and not from an external service such as the cloud.
@@ -1351,11 +1399,12 @@ It is also acceptable to have the option to support local intranet networks and 
 Standardized provider abstraction libraries are subsystems that must have their own Brokers, Services, and Exposure layers according to The Standard. These libraries will further simplify the development of customer-facing systems with well-defined exceptions to handle expectations and simpler modifications since they are open-source and Standard-Compliant.
 
 ## 1.8.3 Local to Global
+
 Engineers may develop their local provider abstraction libraries using the same solution, assuming they need help finding an existing effort to support their needs. By doing so, these engineers are encouraged to open-source and publish that abstraction project to support other engineers in The Standard Community who may have the exact needs.
 
 This practice encourages engineers everywhere to create a collective effort and hive-mind patterns to solve a problem once and share it with the rest of The Standard Engineering Community for further enhancement and support.
 
-Standard-compliant edge (customer-facing) systems should no longer add any non-standard libraries to their APIs, Desktop or Web Applications, or any other systems. 
+Standard-compliant edge (customer-facing) systems should no longer add any non-standard libraries to their APIs, Desktop or Web Applications, or any other systems.
 
 # 2.1 Foundation Services (Broker-Neighboring)
 
@@ -1374,9 +1423,9 @@ For instance, if a storage broker is offering `InsertStudentAsync(Student studen
 ```csharp
 public async ValueTask<Student> AddStudentAsync(Student student)
 {
-	await ValidateStudentOnAddAsync(student);
+ await ValidateStudentOnAddAsync(student);
 
-	return await this.storageBroker.InsertStudentAsync(student);
+ return await this.storageBroker.InsertStudentAsync(student);
 }
 ```
 
@@ -1386,11 +1435,11 @@ This makes broker-neighboring services nothing more than an extra layer of valid
 
 The broker-neighboring services reside between your brokers and the rest of your application, on the left side higher-order business logic processing services, orchestration, coordination, aggregation or management services may live, or just simply a controller, a UI component or any other data exposure technology.
 
-<br/>
-	<p align=center>
-		<img src="https://user-images.githubusercontent.com/1453985/100716772-00eec800-336e-11eb-9064-8bfe2f8e3be2.png" />
-	</p>
-<br/>
+
+
+![Foundation Services on The Map](https://user-images.githubusercontent.com/1453985/100716772-00eec800-336e-11eb-9064-8bfe2f8e3be2.png)
+
+
 
 ## 2.1.2 Characteristics
 
@@ -1404,7 +1453,7 @@ Here's the characteristics and rules that govern broker-neighboring services:
 
 Broker-neighboring services are not allowed to combine multiple primitive operations to achieve a higher-order business logic operation.
 
-For instance, broker-neighboring services cannot offer an _upsert_ function, to combine a `Select` operations with an `Update` or `Insert` operations based on the outcome to ensure an entity exists and is up to date in any storage.
+For instance, broker-neighboring services cannot offer an *upsert* function, to combine a `Select` operations with an `Update` or `Insert` operations based on the outcome to ensure an entity exists and is up to date in any storage.
 
 But they offer a validation and exception handling (and mapping) wrapper around the dependency calls, here's an example:
 
@@ -1412,9 +1461,9 @@ But they offer a validation and exception handling (and mapping) wrapper around 
 public ValueTask<Student> AddStudentAsync(Student student) =>
 TryCatch(async () =>
 {
-	await ValidateStudentOnAddAsync(student);
+ await ValidateStudentOnAddAsync(student);
 
-	return await this.storageBroker.InsertStudentAsync(student);
+ return await this.storageBroker.InsertStudentAsync(student);
 });
 ```
 
@@ -1470,9 +1519,9 @@ Let's visualize a concrete example of the above principle. Let's assume we have 
 ```csharp
 public async ValueTask<Student> UpsertStudentAsync(Student student)
 {
-	...
+ ...
 
-	return await this.studentService.AddStudentAsync(student);
+ return await this.studentService.AddStudentAsync(student);
 }
 ```
 
@@ -1484,8 +1533,8 @@ With a storage broker:
 ```csharp
 public async ValueTask<Student> AddStudentAsync(Student student)
 {
-	...
-	return await this.storageBroker.InsertStudentAsync(student);
+ ...
+ return await this.storageBroker.InsertStudentAsync(student);
 }
 ```
 
@@ -1494,9 +1543,9 @@ Or with a queue broker:
 ```csharp
 public async ValueTask<Student> AddStudentAsync(Student student)
 {
-	...
+ ...
 
-	return await this.queueBroker.EnqueueStudentAsync(student);
+ return await this.queueBroker.EnqueueStudentAsync(student);
 }
 ```
 
@@ -1505,21 +1554,18 @@ or with an API broker:
 ```csharp
 public async ValueTask<Student> AddStudentAsync(Student student)
 {
-	...
+ ...
 
-	return await this.apiBroker.PostStudentAsync(student);
+ return await this.apiBroker.PostStudentAsync(student);
 }
 ```
 
 here's a visualization of that concept:
 
-<br />
 
-<div align=center>
-	<img width="75%" src="https://user-images.githubusercontent.com/1453985/128610577-ee926ee2-a589-4f77-bf9d-dbff63d1c20d.png" />
-</div>
+![Foundation Service Implementations](https://user-images.githubusercontent.com/1453985/128610577-ee926ee2-a589-4f77-bf9d-dbff63d1c20d.png)
 
-<br />
+
 
 In all of these above cases, the underlying implementation may change, but the exposed contract will always stay the same for the rest of the system. We will discuss in later chapters how the core, agnostic and abstract business logic of your system starts with Processing services and ends with Management or Aggregation services.
 
@@ -1530,7 +1576,7 @@ Let's talk about a real-life example of implementing a simple `Add` function in 
 ```csharp
 public IStudentService
 {
-	ValueTask<Student> AddStudentAsync(Student student);
+ ValueTask<Student> AddStudentAsync(Student student);
 }
 ```
 
@@ -1539,29 +1585,29 @@ For starters, let's go ahead and write a failing test for our service as follows
 ```csharp
 private async Task ShouldAddStudentAsync()
 {
-	// given
-	Student randomStudent = CreateRandomStudent();
-	Student inputStudent = randomStudent;
-	Student storageStudent = inputStudent;
-	Student expectedStudent = storageStudent.DeepClone();
+ // given
+ Student randomStudent = CreateRandomStudent();
+ Student inputStudent = randomStudent;
+ Student storageStudent = inputStudent;
+ Student expectedStudent = storageStudent.DeepClone();
 
-	this.storageBrokerMock.Setup(broker =>
-		broker.InsertStudentAsync(inputStudent))
-			.ReturnsAsync(storageStudent);
+ this.storageBrokerMock.Setup(broker =>
+  broker.InsertStudentAsync(inputStudent))
+   .ReturnsAsync(storageStudent);
 
-	// when
-	Student actualStudent =
-		await this.studentService.AddStudentAsync(inputStudent);
+ // when
+ Student actualStudent =
+  await this.studentService.AddStudentAsync(inputStudent);
 
-	// then
-	actualStudent.Should().BeEquivalentTo(expectedStudent);
+ // then
+ actualStudent.Should().BeEquivalentTo(expectedStudent);
 
-	this.storageBroker.Verify(broker =>
-		broker.InsertStudentAsync(inputStudent),
-			Times.Once);
+ this.storageBroker.Verify(broker =>
+  broker.InsertStudentAsync(inputStudent),
+   Times.Once);
 
-	this.storageBrokerMock.VerifyNoOtherCalls();
-	this.loggingBrokerMock.VerifyNoOtherCalls();
+ this.storageBrokerMock.VerifyNoOtherCalls();
+ this.loggingBrokerMock.VerifyNoOtherCalls();
 }
 ```
 
@@ -1581,7 +1627,7 @@ Let's make that test pass by writing in an implementation that only satisfies th
 
 ```csharp
 public async ValueTask<Student> AddStudentAsync(Student student) =>
-	await this.storageBroker.InsertStudentAsync(student);
+ await this.storageBroker.InsertStudentAsync(student);
 ```
 
 This simple implementation should make our test pass sucessfully. It's important to understand that any implementation should be only enough to pass the failing tests. Nothing more and nothing less.
@@ -1612,9 +1658,9 @@ Our `AddStudentAsync` function in this scenario is now required to validate whet
 public ValueTask<Student> AddStudentAsync(Student student) =>
 TryCatch(async () =>
 {
-	ValidateStudentOnAdd(student);
+ ValidateStudentOnAdd(student);
 
-	return await this.storageBroker.InsertStudentAsync(student);
+ return await this.storageBroker.InsertStudentAsync(student);
 });
 ```
 
@@ -1643,8 +1689,8 @@ Assume our student model looks like this:
 ```csharp
 public class Student
 {
-	public Guid Id {get; set;}
-	public string Name {get; set;}
+ public Guid Id {get; set;}
+ public string Name {get; set;}
 }
 ```
 
@@ -1661,11 +1707,11 @@ var someException = new Exception();
 
 if(someException.Data.Contains(someKey))
 {
-	(someException.Data[someKey] as List<string>)?.Add(someValue);
+ (someException.Data[someKey] as List<string>)?.Add(someValue);
 }
 else
 {
-	someException.Data.Add(someKey, new List<string>{ someValue });
+ someException.Data.Add(someKey, new List<string>{ someValue });
 }
 ```
 
@@ -1682,7 +1728,7 @@ We can simply use the native offerings to implement the circuit-breaking directl
 ```csharp
 if(someException.Data.Count > 0)
 {
-	throw someException;
+ throw someException;
 }
 ```
 
@@ -1716,8 +1762,8 @@ In a scenario where we want to ensure any given Id is valid, a dynamic continuou
 ```csharp
 private dynamic IsInvalid(Guid id) => new
 {
-	Condition = id == Guid.Empty,
-	Message = "Id is invalid"
+ Condition = id == Guid.Empty,
+ Message = "Id is invalid"
 };
 ```
 
@@ -1729,13 +1775,13 @@ Dynamic rules by design will allow engineers to modify both their inputs and out
 
 ```csharp
 private static dynamic IsNotSame(
-	Guid firstId,
-	Guid secondId,
-	string secondIdName) => new
+ Guid firstId,
+ Guid secondId,
+ string secondIdName) => new
 {
-	Condition = firstId != secondId,
-	Message = $"Id is not the same as {secondIdName}.",
-	HelpLink = "/help/code1234"
+ Condition = firstId != secondId,
+ Message = $"Id is not the same as {secondIdName}.",
+ HelpLink = "/help/code1234"
 };
 ```
 
@@ -1768,13 +1814,13 @@ The above function now will take any number of validation rules, and the paramet
 ```csharp
 private static void ValidateStudentOnAdd(Student student)
 {
-	......
+ ......
 
-	Validate(
-		(Rule: IsInvalid(student.Id), Parameter: nameof(Student.Id)),
-		(Rule: IsInvalid(student.Name), Parameter: nameof(Student.Name)),
-		(Rule: IsInvalid(student.Grade), Parameter: nameof(Student.Grade))
-	);
+ Validate(
+  (Rule: IsInvalid(student.Id), Parameter: nameof(Student.Id)),
+  (Rule: IsInvalid(student.Name), Parameter: nameof(Student.Name)),
+  (Rule: IsInvalid(student.Grade), Parameter: nameof(Student.Grade))
+ );
 }
 ```
 
@@ -1783,14 +1829,15 @@ This simplification of writing the rules and validations is the ultimate goal of
 Now, let's dive deeper into the types of validations that our systems can offer and how to handle them.
 
 #### 2.1.3.1.1.3 Hybrid Continuous Validations
+
 The structure above allows supporting scenarios for nested objects validations. For instance, let's assume that our `Student` model has more than just primitive types in it's structure as follows:
 
 ```csharp
 public class Student
 {
-	public Guid Id {get; set;}
-	public string Name {get; set;}
-	public StudentAddress Address {get; set;}
+ public Guid Id {get; set;}
+ public string Name {get; set;}
+ public StudentAddress Address {get; set;}
 }
 ```
 
@@ -1799,9 +1846,9 @@ Let's assume that the `StudentAddress` model is a set of primitive type properti
 ```csharp
 public class StudentAddress
 {
-	public string Street {get; set;}
-	public string City {get; set;}
-	public string ZipCode {get; set;}
+ public string Street {get; set;}
+ public string City {get; set;}
+ public string ZipCode {get; set;}
 }
 ```
 
@@ -1812,23 +1859,24 @@ In this case we would need a hybrid approach as follows:
 ```csharp
 private async ValueTask ValidateStudentOnAddAsync(Student student)
 {
-	......
+ ......
 
-	Validate(
-		(Rule: IsInvalid(student.Id), Parameter: nameof(Student.Id)),
-		(Rule: IsInvalid(student.Name), Parameter: nameof(Student.Name)),
-		(Rule: IsInvalid(student.Address), Parameter: nameof(Student.Address))
-	);
+ Validate(
+  (Rule: IsInvalid(student.Id), Parameter: nameof(Student.Id)),
+  (Rule: IsInvalid(student.Name), Parameter: nameof(Student.Name)),
+  (Rule: IsInvalid(student.Address), Parameter: nameof(Student.Address))
+ );
 
-	......
+ ......
 
-	Validate(
-		(Rule: IsInvalid(student.Address.Street), Parameter: nameof(StudentAddress.Street)),
-		(Rule: IsInvalid(student.Address.City), Parameter: nameof(StudentAddress.City)),
-		(Rule: IsInvalid(student.Address.ZipCode), Parameter: nameof(StudentAddress.ZipCode))
-	);
+ Validate(
+  (Rule: IsInvalid(student.Address.Street), Parameter: nameof(StudentAddress.Street)),
+  (Rule: IsInvalid(student.Address.City), Parameter: nameof(StudentAddress.City)),
+  (Rule: IsInvalid(student.Address.ZipCode), Parameter: nameof(StudentAddress.ZipCode))
+ );
 }
 ```
+
 In the code above, each level is handled separately. We would break the circuit once we find out that the first round of validations have failed. But if the `Address` property is in good share we can then continue to the next round of deeper validations at the sub-property level with the `StreetAddress` properties (`ZipCode`, `City` and `Street`).
 
 This scenario happens usually with Orchestration-Level validations for virtual models and possibly with API integrations at the Foundation Services level.
@@ -1841,15 +1889,15 @@ For instance, a property of type `String` should not be empty, `null` or white s
 
 The structural validations ensure that the data is in a good shape before moving forward with any further validations - for instance, we can't possibly validate students that have the minimum number of characters (which is a logical validation) in their names if their first name is structurally invalid by being `null`, empty or whitespace.
 
-Structural validations play the role of identifying the _required_ properties on any given model, and while a lot of technologies offer the validation annotations, plugins or libraries to globally enforce data validation rules, I choose to perform the validation programmatically and manually to gain more control of what would be required and what wouldn't in a TDD fashion.
+Structural validations play the role of identifying the *required* properties on any given model, and while a lot of technologies offer the validation annotations, plugins or libraries to globally enforce data validation rules, I choose to perform the validation programmatically and manually to gain more control of what would be required and what wouldn't in a TDD fashion.
 
 The issue with some of the current implementations on structural and logical validations on data models is that it can be very easily changed under the radar without any unit tests firing any alarms. Check this example for instance:
 
 ```csharp
 public Student
 {
-	[Required]
-	public string Name {get; set;}
+ [Required]
+ public string Name {get; set;}
 }
 ```
 
@@ -1872,7 +1920,7 @@ Let's assume we have a student model, with the following details:
 ```csharp
 public class Student
 {
-	public Guid Id {get; set;}
+ public Guid Id {get; set;}
 }
 ```
 
@@ -1882,49 +1930,49 @@ We want to validate that the student Id is not a structurally invalid Id - such 
 [Fact]
 private async void ShouldThrowValidationExceptionOnAddWhenIdIsInvalidAndLogItAsync()
 {
-	// given
-	Student randomStudent = CreateRandomStudent();
-	Student inputStudent = randomStudent;
-	inputStudent.Id = Guid.Empty;
+ // given
+ Student randomStudent = CreateRandomStudent();
+ Student inputStudent = randomStudent;
+ inputStudent.Id = Guid.Empty;
 
-	var invalidStudentException =
-		new InvalidStudentException(
-			message: "Student is invalid. Please fix the errors and try again.");
+ var invalidStudentException =
+  new InvalidStudentException(
+   message: "Student is invalid. Please fix the errors and try again.");
 
-	invalidStudentException.AddData(
-		key: nameof(Student.Id),
-		value: "Id is required"
-	);
+ invalidStudentException.AddData(
+  key: nameof(Student.Id),
+  value: "Id is required"
+ );
 
-	var expectedStudentValidationException =
-		new StudentValidationException(
-			message: "Student validation error occurred, fix errors and try again.",
-			innerException: invalidStudentException);
+ var expectedStudentValidationException =
+  new StudentValidationException(
+   message: "Student validation error occurred, fix errors and try again.",
+   innerException: invalidStudentException);
 
-	// when
-	ValueTask<Student> addStudentTask =
-		this.studentService.AddStudentAsync(inputStudent);
+ // when
+ ValueTask<Student> addStudentTask =
+  this.studentService.AddStudentAsync(inputStudent);
 
-	StudentValidationException actualStudentValidationException =
-		await Assert.ThrowsAsync<StudentValidationException>(
-			addStudentTask.AsTask);
+ StudentValidationException actualStudentValidationException =
+  await Assert.ThrowsAsync<StudentValidationException>(
+   addStudentTask.AsTask);
 
-	// then
-	actualStudentValidationException.Should().BeEquivalentTo(
-		expectedStudentValidationException);
+ // then
+ actualStudentValidationException.Should().BeEquivalentTo(
+  expectedStudentValidationException);
 
-	this.loggingBrokerMock.Verify(broker =>
-		broker.LogError(It.Is(SameExceptionAs(
-			expectedStudentValidationException))),
-				Times.Once);
+ this.loggingBrokerMock.Verify(broker =>
+  broker.LogError(It.Is(SameExceptionAs(
+   expectedStudentValidationException))),
+    Times.Once);
 
-	this.storageBrokerMock.Verify(broker =>
-		broker.InsertStudentAsync(It.IsAny<Student>()),
-			Times.Never);
+ this.storageBrokerMock.Verify(broker =>
+  broker.InsertStudentAsync(It.IsAny<Student>()),
+   Times.Never);
 
-	this.loggingBrokerMock.VerifyNoOtherCalls();
-	this.storageBrokerMock.VerifyNoOtherCalls();
-	this.dateTimeBrokerMock.VerifyNoOtherCalls();
+ this.loggingBrokerMock.VerifyNoOtherCalls();
+ this.storageBrokerMock.VerifyNoOtherCalls();
+ this.dateTimeBrokerMock.VerifyNoOtherCalls();
 }
 ```
 
@@ -1957,6 +2005,7 @@ public class StudentValidationException : Xeption
     { }
 }
 ```
+
 The string messaging for the outer-validation above will be passed when the exception is initialized from the service class as shown below.
 
 ```csharp
@@ -1988,7 +2037,7 @@ Here's how an Id validation would look like:
 
 private static void ValidateStudentOnAdd(Student student)
 {
-	......
+ ......
 
     Validate((Rule: IsInvalid(student.Id), Parameter: nameof(Student.Id)));
 }
@@ -2030,9 +2079,9 @@ Now, with the implementation above, we need to call that method to structurally 
 public ValueTask<Student> AddStudentAsync(Student student) =>
 TryCatch(async () =>
 {
-	ValidateStudentOnAdd(student);
+ ValidateStudentOnAdd(student);
 
-	return await this.storageBroker.InsertStudentAsync(student);
+ return await this.storageBroker.InsertStudentAsync(student);
 });
 ```
 
@@ -2051,14 +2100,14 @@ private delegate ValueTask<Student> ReturningStudentFunction();
 
 private async ValueTask<Student> TryCatch(ReturningStudentFunction returningStudentFunction)
 {
-	try
-	{
-		return await returningStudentFunction();
-	}
-	catch (InvalidStudentException invalidStudentInputException)
-	{
-		throw await CreateAndLogValidationExceptionAsync(invalidStudentInputException);
-	}
+ try
+ {
+  return await returningStudentFunction();
+ }
+ catch (InvalidStudentException invalidStudentInputException)
+ {
+  throw await CreateAndLogValidationExceptionAsync(invalidStudentInputException);
+ }
 }
 
 private async ValueTask<StudentValidationException> CreateAndLogValidationExceptionAsync(Xeption exception)
@@ -2098,12 +2147,13 @@ Let's assume our Student model looks as follows:
 ```csharp
 public class Student
 {
-	String CreatedBy {get; set;}
-	String UpdatedBy {get; set;}
-	DateTimeOffset CreatedDate {get; set;}
-	DateTimeOffset UpdatedDate {get; set;}
+ String CreatedBy {get; set;}
+ String UpdatedBy {get; set;}
+ DateTimeOffset CreatedDate {get; set;}
+ DateTimeOffset UpdatedDate {get; set;}
 }
 ```
+
 Our two tests to validate these values logically would be as follows:
 
 In this first test example, we would ensure that the `UpdatedBy` field is not the same as the `CreatedBy` field.
@@ -2112,65 +2162,65 @@ In this first test example, we would ensure that the `UpdatedBy` field is not th
 [Fact]
 private async Task ShouldThrowValidationExceptionOnAddIfAuditPropertiesIsNotTheSameAndLogItAsync()
 {
-	// given
-	DateTimeOffset randomDateTime = GetRandomDateTimeOffset();
-	DateTImeOffset now = randomDateTime;
-	Student randomStudent = CreateRandomStudent(now);
-	Student invalidStudent = randomStudent;
-	invalidStudent.CreatedBy = GetRandomString();
-	invalidStudent.UpdatedBy = GetRandomString();
-	invalidStudent.CreatedDate = now;
-	invalidStudent.UpdatedDate = GetRandomDateTimeOffset();
+ // given
+ DateTimeOffset randomDateTime = GetRandomDateTimeOffset();
+ DateTImeOffset now = randomDateTime;
+ Student randomStudent = CreateRandomStudent(now);
+ Student invalidStudent = randomStudent;
+ invalidStudent.CreatedBy = GetRandomString();
+ invalidStudent.UpdatedBy = GetRandomString();
+ invalidStudent.CreatedDate = now;
+ invalidStudent.UpdatedDate = GetRandomDateTimeOffset();
 
-	var invalidStudentException = 
-		new InvalidStudentException(
-			message: "Student is invalid. Please fix the errors and try again.");
+ var invalidStudentException = 
+  new InvalidStudentException(
+   message: "Student is invalid. Please fix the errors and try again.");
 
-	invalidStudentException.AddData(
-		key: nameof(Student.UpdatedBy),
-		value: $"Text is not the same as {nameof(Student.CreatedBy)}.");
+ invalidStudentException.AddData(
+  key: nameof(Student.UpdatedBy),
+  value: $"Text is not the same as {nameof(Student.CreatedBy)}.");
 
-	invalidStudentException.AddData(
-		key: nameof(Student.UpdatedDate),
-		value: $"Date is not the same as {nameof(Student.CreatedDate)}.");
+ invalidStudentException.AddData(
+  key: nameof(Student.UpdatedDate),
+  value: $"Date is not the same as {nameof(Student.CreatedDate)}.");
 
-	var expectedStudentValidationException =
-		new StudentValidationException(
-			message: "Student validation error occurred, fix errors and try again.",
-			innerException: invalidStudentException);
+ var expectedStudentValidationException =
+  new StudentValidationException(
+   message: "Student validation error occurred, fix errors and try again.",
+   innerException: invalidStudentException);
 
-	this.dateTimeBrokerMock.Setup(broker =>
+ this.dateTimeBrokerMock.Setup(broker =>
         broker.GetCurrentDateTimeOffsetAsync())
             .ReturnsAsync(now);
 
-	// when
-	ValueTask<Student> addStudentTask =
-		this.studentService.AddStudentAsync(inputStudent);
+ // when
+ ValueTask<Student> addStudentTask =
+  this.studentService.AddStudentAsync(inputStudent);
 
-	StudentValidationException actualStudentValidationException =
-		await Assert.ThrowsAsync<StudentValidationException>(
-			addStudentTask.AsTask);
+ StudentValidationException actualStudentValidationException =
+  await Assert.ThrowsAsync<StudentValidationException>(
+   addStudentTask.AsTask);
 
-	// then
-	actualStudentValidationException.Should().BeEquivalentTo(
-		expectedStudentValidationException);
+ // then
+ actualStudentValidationException.Should().BeEquivalentTo(
+  expectedStudentValidationException);
 
-	this.dateTimeBrokerMock.Verify(broker =>
+ this.dateTimeBrokerMock.Verify(broker =>
         broker.GetCurrentDateTimeOffsetAsync(),
             Times.Once);
 
-	this.loggingBrokerMock.Verify(broker =>
-		broker.LogError(It.Is(SameExceptionAs(
-			expectedStudentValidationException))),
-				Times.Once);
+ this.loggingBrokerMock.Verify(broker =>
+  broker.LogError(It.Is(SameExceptionAs(
+   expectedStudentValidationException))),
+    Times.Once);
 
-	this.storageBrokerMock.Verify(broker =>
-		broker.InsertStudentAsync(It.IsAny<Student>()),
-			Times.Never);
+ this.storageBrokerMock.Verify(broker =>
+  broker.InsertStudentAsync(It.IsAny<Student>()),
+   Times.Never);
 
-	this.dateTimeBrokerMock.VerifyNoOtherCalls();
-	this.loggingBrokerMock.VerifyNoOtherCalls();
-	this.storageBrokerMock.VerifyNoOtherCalls();
+ this.dateTimeBrokerMock.VerifyNoOtherCalls();
+ this.loggingBrokerMock.VerifyNoOtherCalls();
+ this.storageBrokerMock.VerifyNoOtherCalls();
 }
 ```
 
@@ -2290,6 +2340,7 @@ In the above implementation, we have implemented our rule validation engine meth
 We then call the logical validation methods `IsInvalidAsync`, `IsValuesNotSameAsync`, `IsDatesNotSameAsync` and `IsNotRecentAsync` to asure are conditional requirements are met. Here are the example implementations for these methods:
 
 #### For `IsInvalid`
+
 ```csharp
 private dynamic IsInvalid(Guid id) => new
 {
@@ -2311,83 +2362,88 @@ private dynamic IsInvalid(DateTimeOffset date) => new
 ```
 
 #### For `IsValuesNotSame`
+
 ```csharp
 private dynamic IsValuesNotSame(
-	string createBy,
-	string updatedBy,
-	string createdByName) => new
-	{
-		Condition = createBy != updatedBy,
-		Message = $"Text is not the same as {createdByName}"
-	};
+ string createBy,
+ string updatedBy,
+ string createdByName) => new
+ {
+  Condition = createBy != updatedBy,
+  Message = $"Text is not the same as {createdByName}"
+ };
 ```
 
 #### For `IsDatesNotSame`
+
 ```csharp
 private dynamic IsDatesNotSame(
-	DateTimeOffset createdDate,
-	DateTimeOffset updatedDate,
-	string createdDateName) => new
-	{
-		Condition = createdDate != updatedDate,
-		Message = $"Date is not the same as {createdDateName}"
-	};
+ DateTimeOffset createdDate,
+ DateTimeOffset updatedDate,
+ string createdDateName) => new
+ {
+  Condition = createdDate != updatedDate,
+  Message = $"Date is not the same as {createdDateName}"
+ };
 ```
 
 #### For `IsNotRecentAsync`
+
 ```csharp
 private async ValueTask<dynamic> IsNotRecentAsync(DateTimeOffset date)
 {
-	var (isNotRecent, startDate, endDate) = await IsDateNotRecentAsync(date);
+ var (isNotRecent, startDate, endDate) = await IsDateNotRecentAsync(date);
 
-		return new
-		{
-			Condition = isNotRecent,
-			Message = $"Date is not recent. Expected a value between {startDate} and {endDate} but found {date}"
-		};
+  return new
+  {
+   Condition = isNotRecent,
+   Message = $"Date is not recent. Expected a value between {startDate} and {endDate} but found {date}"
+  };
 };
 
 private async ValueTask<(bool IsNotRecent, DateTimeOffset StartDate, DateTimeOffset EndDate)>
-	IsDateNotRecentAsync(DateTimeOffset date)
+ IsDateNotRecentAsync(DateTimeOffset date)
 {
-	int pastSeconds = 60;
-	int futureSeconds = 0;
+ int pastSeconds = 60;
+ int futureSeconds = 0;
 
-	DateTimeOffset currentDateTime =
-		await this.dateTimeBroker.GetCurrentDateTimeOffsetAsync();
+ DateTimeOffset currentDateTime =
+  await this.dateTimeBroker.GetCurrentDateTimeOffsetAsync();
 
-	 if (currentDateTime == default)
-	{
-		return (false, default, default);
-	}
-	
-	TimeSpan timeDifference = currentDateTime.Subtract(date);
-	DateTimeOffset startDate = currentDateTime.AddSeconds(-pastSeconds);
-	DateTimeOffset endDate = currentDateTime.AddSeconds(futureSeconds);
-	bool isNotRecent = timeDifference.TotalSeconds is > 60 or < 0;
+  if (currentDateTime == default)
+ {
+  return (false, default, default);
+ }
+ 
+ TimeSpan timeDifference = currentDateTime.Subtract(date);
+ DateTimeOffset startDate = currentDateTime.AddSeconds(-pastSeconds);
+ DateTimeOffset endDate = currentDateTime.AddSeconds(futureSeconds);
+ bool isNotRecent = timeDifference.TotalSeconds is > 60 or < 0;
 
-	return (isNotRecent, startDate, endDate);
+ return (isNotRecent, startDate, endDate);
 }
 ```
-#### Finally our `Validate` method would look like this:
+
+#### Finally our `Validate` method would look like this
+
 ```csharp
 private static void Validate(params (dyanamic Rule, string Parameter)[] validations)
 {
-	var invalidStudentException =
-		new InvalidStudentException(
-			message: "Student is invalid. Please fix the errors and try again.");
+ var invalidStudentException =
+  new InvalidStudentException(
+   message: "Student is invalid. Please fix the errors and try again.");
 
-	foreach((dynamic rule, string parameter) in validations)
-	{
-		if(rule.Condition)
-		{
-			invalidStudentException.UpsertData(
-				key: parameter,
-				value: rule.Message);
-		}
-	}
+ foreach((dynamic rule, string parameter) in validations)
+ {
+  if(rule.Condition)
+  {
+   invalidStudentException.UpsertData(
+    key: parameter,
+    value: rule.Message);
+  }
+ }
 
-	invalidStudentException.ThrowIfContainsErrors();
+ invalidStudentException.ThrowIfContainsErrors();
 }
 ```
 
@@ -2414,8 +2470,8 @@ using Xeption;
 
 public class NotFoundStudentException : Xeption
 {
-	public NotFoundStudentException(string message)
-		: base (message) {}
+ public NotFoundStudentException(string message)
+  : base (message) {}
 }
 ```
 
@@ -2424,49 +2480,49 @@ The above model is the localization aspect of handling the issue. Now let's writ
 ```csharp
 private async Task ShouldThrowValidationExceptionOnRetrieveByIdIfStudentNotFoundAndLogItAsync()
 {
-	// given
-	Guid someStudentId = Guid.NewGuid();
-	Student nullStudent = null;
-	var innerException = new Exception()
+ // given
+ Guid someStudentId = Guid.NewGuid();
+ Student nullStudent = null;
+ var innerException = new Exception()
 
-	var notFoundStudentException =
-		new NotFoundStudentException(
-			message: $"Student not found with the id: {inputStudentId}",
-			innerException: innerException.innerException.As<Xeption>());
+ var notFoundStudentException =
+  new NotFoundStudentException(
+   message: $"Student not found with the id: {inputStudentId}",
+   innerException: innerException.innerException.As<Xeption>());
 
-	var expectedStudentValidationException =
-		new StudentValidationException(
-			message: "Student validation error occurred, fix errors and try again.",
-			innerException: notFoundStudentException);
+ var expectedStudentValidationException =
+  new StudentValidationException(
+   message: "Student validation error occurred, fix errors and try again.",
+   innerException: notFoundStudentException);
 
-	this.storageBrokerMock.Setup(broker =>
-		broker.SelectStudentByIdAsync(inputStudentId))
-			.ReturnsAsync(noStudent);
+ this.storageBrokerMock.Setup(broker =>
+  broker.SelectStudentByIdAsync(inputStudentId))
+   .ReturnsAsync(noStudent);
 
-	// when
-	ValueTask<Student> retrieveStudentByIdTask =
-		this.studentService.RetrieveStudentByIdAsync(inputStudentId);
+ // when
+ ValueTask<Student> retrieveStudentByIdTask =
+  this.studentService.RetrieveStudentByIdAsync(inputStudentId);
 
-	StudentValidationException actualStudentValidationException =
-		await Assert.ThrowsAsync<StudentValidationException>(
-			retrieveStudentByIdTask.AsTask);
+ StudentValidationException actualStudentValidationException =
+  await Assert.ThrowsAsync<StudentValidationException>(
+   retrieveStudentByIdTask.AsTask);
 
-	// then
-	actualStudentValidationException.Should().BeEquivalentTo(
-		expectedStudentValidationException);
+ // then
+ actualStudentValidationException.Should().BeEquivalentTo(
+  expectedStudentValidationException);
 
-	this.storageBrokerMock.Verify(broker =>
-		broker.SelectStudentByIdAsync(inputStudentId),
-			Times.Once);
+ this.storageBrokerMock.Verify(broker =>
+  broker.SelectStudentByIdAsync(inputStudentId),
+   Times.Once);
 
-	this.loggingBrokerMock.Verify(broker =>
-		broker.LogError(It.Is(SameExceptionAs(
-			expectedStudentValidationException))),
-				Times.Once);
+ this.loggingBrokerMock.Verify(broker =>
+  broker.LogError(It.Is(SameExceptionAs(
+   expectedStudentValidationException))),
+    Times.Once);
 
-	this.storageBrokerMock.VerifyNoOtherCalls();
-	this.loggingBrokerMock.VerifyNoOtherCalls();
-	this.dateTimeBrokerMock.VerifyNotOtherCalls();
+ this.storageBrokerMock.VerifyNoOtherCalls();
+ this.loggingBrokerMock.VerifyNoOtherCalls();
+ this.dateTimeBrokerMock.VerifyNotOtherCalls();
 }
 ```
 
@@ -2533,14 +2589,14 @@ The above implementation will take care of categorizing a `NotFoundStudentExcept
 public ValueTask<Student> RetrieveStudentByIdAsync(Guid studentId) =>
 TryCatch(async () =>
 {
-	ValidateStudentId(studentId);
+ ValidateStudentId(studentId);
 
-	Student maybeStudent =
-		await this.storageBroker.SelectStudentByIdAsync(studentId);
+ Student maybeStudent =
+  await this.storageBroker.SelectStudentByIdAsync(studentId);
 
-	ValidateStudentExists(maybeStudent, studentId);
+ ValidateStudentExists(maybeStudent, studentId);
 
-	return maybeStudent;
+ return maybeStudent;
 });
 ```
 
@@ -2565,8 +2621,8 @@ Let's assume our student model uses an `Id` with the type `Guid` as follows:
 ```csharp
 public class Student
 {
-	public Guid Id {get; set;}
-	public string Name {get; set;}
+ public Guid Id {get; set;}
+ public string Name {get; set;}
 }
 ```
 
@@ -2576,56 +2632,56 @@ our unit test to validate a `DependencyValidation` exception would be thrown in 
 [Fact]
 private async Task ShouldThrowDependencyValidationExceptionOnAddIfStudentAlreadyExistsAndLogItAsync()
 {
-	// given
-	Student someStudent = CreateRandomStudent();
-		
-	var duplicateKeyException = 
-		new DuplicateKeyException(
-			message: "Duplicate key error occurred");
+ // given
+ Student someStudent = CreateRandomStudent();
+  
+ var duplicateKeyException = 
+  new DuplicateKeyException(
+   message: "Duplicate key error occurred");
 
-	var alreadyExistsStudentException =
-		new AlreadyExistsStudentException(
-			message: "Student already exists occurred.",
-			innerException: duplicateKeyException,
-			data: duplicateKeyException);
+ var alreadyExistsStudentException =
+  new AlreadyExistsStudentException(
+   message: "Student already exists occurred.",
+   innerException: duplicateKeyException,
+   data: duplicateKeyException);
 
-	var expectedStudentDependencyValidationException =
-		new StudentDependencyValidationException(
-			message: "Student dependency validation error occurred, try again.",
-			innerException: alreadyExistsStudentException);
+ var expectedStudentDependencyValidationException =
+  new StudentDependencyValidationException(
+   message: "Student dependency validation error occurred, try again.",
+   innerException: alreadyExistsStudentException);
 
-	this.dateTimeBroker.Setup(broker =>
-		broker.GetDateTimeOffsetAsync())
-			.ThrowsAsync(duplicateKeyException);
+ this.dateTimeBroker.Setup(broker =>
+  broker.GetDateTimeOffsetAsync())
+   .ThrowsAsync(duplicateKeyException);
 
-	// when
-	ValueTask<Student> addStudentTask =
-		this.studentService.AddStudentAsync(someStudent);
+ // when
+ ValueTask<Student> addStudentTask =
+  this.studentService.AddStudentAsync(someStudent);
 
-	StudentDependencyValidationException actualStudentDependencyValidationException =
-		await Assert.ThrowsAsync<StudentDependencyValidationException>(
-			testcode: addStudentTask.AsTask);
+ StudentDependencyValidationException actualStudentDependencyValidationException =
+  await Assert.ThrowsAsync<StudentDependencyValidationException>(
+   testcode: addStudentTask.AsTask);
 
-	// then
-	actualStudentDependencyValidationException.Should().BeEquivalentTo(
-		expectedStudentDependencyValidationException);
+ // then
+ actualStudentDependencyValidationException.Should().BeEquivalentTo(
+  expectedStudentDependencyValidationException);
 
-	this.dateTimeBroker.Verify(broker =>
-		broker.GetDateTimeOffsetAsync(),
-			Times.Once);
-	
-	this.loggingBrokerMock.Verify(broker =>
-		broker.LogErrorAsync(It.Is(SameExceptionAs(
-			expectedStudentDependencyValidationException))),
-				Times.Once);
+ this.dateTimeBroker.Verify(broker =>
+  broker.GetDateTimeOffsetAsync(),
+   Times.Once);
+ 
+ this.loggingBrokerMock.Verify(broker =>
+  broker.LogErrorAsync(It.Is(SameExceptionAs(
+   expectedStudentDependencyValidationException))),
+    Times.Once);
 
-	this.storageBrokerMock.Verify(broker =>
-		broker.InsertStudentAsync(It.IsAny<Student>()),
-			Times.Never);
+ this.storageBrokerMock.Verify(broker =>
+  broker.InsertStudentAsync(It.IsAny<Student>()),
+   Times.Never);
 
-	this.dateTimeBroker.VerifyNoOtherCalls();
-	this.loggingBrokerMock.VerifyNoOtherCalls();
-	this.storageBrokerMock.VerifyNoOtherCalls();
+ this.dateTimeBroker.VerifyNoOtherCalls();
+ this.loggingBrokerMock.VerifyNoOtherCalls();
+ this.storageBrokerMock.VerifyNoOtherCalls();
 }
 ```
 
@@ -2659,11 +2715,11 @@ We also need to bring the innerException Data property to the local exception mo
 public class AlreadyExistsStudentException : Exception
 {
     public AlreadyExistsStudentException(
-		string message,
-		Exception innerException,
-		IDictionary data)
+  string message,
+  Exception innerException,
+  IDictionary data)
         : base (message, innerException, data)
-	{ }
+ { }
 }
 ```
 
@@ -2697,7 +2753,7 @@ private async ValueTask<Student> TryCatch(ReturningStudentFunction returningStud
             new AlreadyExistsStudentException(
                 message: "Student already exists occurred.",
                 innerException: duplicateKeyException,
-				data: duplicateKeyException.Data);
+    data: duplicateKeyException.Data);
 
         throw await CreateAndLogDependencyValidationExceptionAsync(alreadyExistsStudentException);
     }
@@ -2706,7 +2762,7 @@ private async ValueTask<Student> TryCatch(ReturningStudentFunction returningStud
 ...
 
 private async ValueTask<StudentDependencyValidationException> CreateAndLogDependencyValidationExceptionAsync(
-	Xeption exception)
+ Xeption exception)
 {
     var studentDependencyValidationException = 
         new StudentDependencyValidationException(
@@ -2735,16 +2791,16 @@ External services providers invest a lot of effort in developing fluent APIs, SD
 ```csharp
 public interface IEmailServiceProvider
 {
-	ValueTask<EmailMessage> SendEmailAsync(EmailMessage message);
+ ValueTask<EmailMessage> SendEmailAsync(EmailMessage message);
 }
 ```
 
-Let's consider the model `EmailMessage` is a native model, it comes with the email service provider SDK. your brokers might offer a wrapper around this API by building a contract to abstract away the _functionality_ but can't do much with the native models that are passed in or returned out of these functionality. therefore our brokers interface would look something like this:
+Let's consider the model `EmailMessage` is a native model, it comes with the email service provider SDK. your brokers might offer a wrapper around this API by building a contract to abstract away the *functionality* but can't do much with the native models that are passed in or returned out of these functionality. therefore our brokers interface would look something like this:
 
 ```csharp
 public interface IEmailBroker
 {
-	ValueTask<EmailMessage> SendEmailMessageAsync(EmailMessage message);
+ ValueTask<EmailMessage> SendEmailMessageAsync(EmailMessage message);
 }
 ```
 
@@ -2753,8 +2809,8 @@ Then the implementation would something like this:
 ```csharp
 public class EmailBroker : IEmailBroker
 {
-	public async ValueTask<EmailMessage> SendEmailMessageAsync(EmailMessage message) =>
-		await this.emailServiceProvider.SendEmailAsync(message);
+ public async ValueTask<EmailMessage> SendEmailMessageAsync(EmailMessage message) =>
+  await this.emailServiceProvider.SendEmailAsync(message);
 }
 ```
 
@@ -2765,10 +2821,10 @@ Your foundation service then will be required to support a new local model, let'
 ```csharp
 public async ValueTask<Email> SendEmailMessageAsync(Email email)
 {
-	EmailMessage inputEmailMessage = MapToEmailMessage(email);
-	EmailMessage sentEmailMessage = await this.emailBroker.SendEmailMessageAsync(inputEmailMessage);
+ EmailMessage inputEmailMessage = MapToEmailMessage(email);
+ EmailMessage sentEmailMessage = await this.emailBroker.SendEmailMessageAsync(inputEmailMessage);
 
-	return MapToEmail(sentEmailMessage);
+ return MapToEmail(sentEmailMessage);
 }
 
 ```
@@ -2782,12 +2838,11 @@ Handling these non-local exceptions that early before entering the pure-business
 For instance, if we are trying to handle a `UserNotFoundException` being thrown from using Microsoft Graph for instance, we might not necessarily want to exit the entire procedure. we might want to continue by adding a user in some other storage for future Graph submittal processing.
 External APIs should not influence whether your internal operation should halt or not; therefore, handling exceptions on the Foundation layer is the guarantee that this influence is limited within the borders of our external resources handling area of our application and has no impact whatsoever on our core business processes.
 The following illustration should draw the picture a bit clearer from that perspective:
-<br />
 
-<p align=center>
-<img src="https://user-images.githubusercontent.com/1453985/112714067-b7366a00-8e95-11eb-9bb7-a5a047640f4a.png" />
-</p>
-<br />
+
+![Foundation Services Exception Mapping](https://user-images.githubusercontent.com/1453985/112714067-b7366a00-8e95-11eb-9bb7-a5a047640f4a.png)
+
+
 
 Here's some common scenarios for mapping native or inner local exceptions to outer exceptions:
 
@@ -2807,8 +2862,6 @@ Here's some common scenarios for mapping native or inner local exceptions to out
 | DbUpdateException                     | FailedStudentStorageException    | StudentDependencyException           | Error     |
 | HttpResponseException                 | FailedStudentApiException        | StudentDependencyException           | Error     |
 | Exception                             | FailedStudentServiceException    | StudentServiceException              | Error     |
-
-
 
 [*] [Standardizing Validations & Exceptions](https://www.youtube.com/watch?v=Wtpxb7yPQP0)
 
@@ -2849,11 +2902,11 @@ Processing services make Foundation services nothing but a layer of validation o
 
 Processing services live between foundation services and the rest of the application when used. They may not call Entities or Business brokers. Still, they may call Utility brokers such as logging brokers, time brokers, and any other brokers that offer supporting functionality and are not specific to any particular business logic. Here's a visual of where processing services are located on the map of our architecture:
 
-<br />
-    <p align="center" >
-        <img src="https://user-images.githubusercontent.com/1453985/111928442-d9cd1b00-8a70-11eb-82c8-83399c98c87d.png" />
-    </p>
-<br />
+
+
+![Processing Services on The Map](https://user-images.githubusercontent.com/1453985/111928442-d9cd1b00-8a70-11eb-82c8-83399c98c87d.png)
+
+
 
 On the right side of a Processing service lies all the non-local models and functionality, whether through the brokers or the models, and the foundation service is trying to map them into local models.
 On the left side of Processing services are pure local functionality, models, and architecture. Starting from the Processing services, there should be no trace or track of any native or non-local models in the system.
@@ -3078,11 +3131,11 @@ It's important to understand that orchestration services are only required if we
 
 Orchestration services are one of the core business logic components in any system, positioned between single entity services (such as processing or foundation) and advanced logic services such as coordination services, aggregation services, or simply exposers such as controllers, web components, or anything else. Here's a high-level overview of where orchestration services may live:
 
-<br />
-    <p align="center" >
-        <img src="https://user-images.githubusercontent.com/1453985/118414675-e4fc8b80-b65a-11eb-91c8-94f67c6e68ed.png" />
-    </p>
-<br />
+
+
+![Orchestration Services on The Map](https://user-images.githubusercontent.com/1453985/118414675-e4fc8b80-b65a-11eb-91c8-94f67c6e68ed.png)
+
+
 
 As shown above, Orchestration services have quite a few dependencies and consumers. They are the core engine of any software. On the right-hand side, you can see an orchestration service's dependencies. Since a processing service is optional based on whether a higher-order business logic is needed, orchestration services can combine multiple foundation services as well.
 
@@ -3133,19 +3186,19 @@ That means an Orchestration service cannot combine Foundation and Processing ser
 
 Here's an example of an unbalanced orchestration service dependency:
 
-<br />
-    <p align="center" >
-        <img src="https://user-images.githubusercontent.com/1453985/118415856-9e5e5f80-b661-11eb-96db-a541f89ccee7.png" />
-    </p>
-<br />
+
+
+![Unbalanced Orchestration Service Dependency](https://user-images.githubusercontent.com/1453985/118415856-9e5e5f80-b661-11eb-96db-a541f89ccee7.png)
+
+
 
 An additional processing service is required to give a pass-through to a lower-level foundation service to balance the architecture - applying 'Florance Pattern' for symmetry would turn our architecture into the following:
 
-<br />
-    <p align="center" >
-        <img src="https://user-images.githubusercontent.com/1453985/118415965-33f9ef00-b662-11eb-8538-59e5c728d308.png" />
-    </p>
-<br />
+
+
+![Balanced Orchestration Service Dependency](https://user-images.githubusercontent.com/1453985/118415965-33f9ef00-b662-11eb-8538-59e5c728d308.png)
+
+
 
 Applying the 'Florance Pattern' might be very costly initially, including creating an entirely new processing service (or multiple) to balance the architecture. However, its benefits outweigh the cost from maintainability, readability, and pluggability perspectives.
 
@@ -3155,11 +3208,11 @@ The 'Two-Three' rule is a complexity control rule. This rule dictates that an Or
 
 This rule, like most of the patterns and concepts in The Standard, is inspired by nature. You can see how the trees branch into twos and threes - the same thing for thunder, blood vessels, and so many other creations around, within, and above us follow the same pattern.
 
-<br />
-    <p align="center" >
-        <img width="50%" src="https://raw.githubusercontent.com/hassanhabib/The-Standard/master/2.%20Services/2.3%20Orchestrations/Resources/2.3.2.1.1%20Two-Three.png" />
-    </p>
-<br />
+
+
+![Two-Three Pattern](https://raw.githubusercontent.com/hassanhabib/The-Standard/master/2.%20Services/2.3%20Orchestrations/Resources/2.3.2.1.1%20Two-Three.png)
+
+
 
 A tree branches as it grows upwards but also in its very roots. And so is the case with Orchestration and Orchestration-Like services. They can branch further upwards, as I will explain here shortly, but also downwards through patterns like the Cul-De-Sac pattern.
 
@@ -3171,19 +3224,19 @@ There are frequently situations where the current architecture of any given orch
 
 For instance, let's say we have a `StudentContactOrchestrationService`, which has dependencies that provide primitive-level functionality for each student `Address`, `Email`, and `Phone`. Here's a visualization of that state:
 
-<br />
-    <p align=center>
-        <img src="https://user-images.githubusercontent.com/1453985/120101834-f636a500-c0fc-11eb-968b-10ed9a60bac8.png" />
-    </p>
-<br />
+
+
+![Orchestration Service with Three Dependencies](https://user-images.githubusercontent.com/1453985/120101834-f636a500-c0fc-11eb-968b-10ed9a60bac8.png)
+
+
 
 Now, a new requirement, 'SocialMedia', is added to 'Student', to gather more contact information about how to reach a student. We can go into full-normalization mode by finding common ground that equally splits the contact information entities. For instance, we can break out regular contact information versus digital contact information as in `Address` and `Phone` versus `Email` and `SocialMedia`. This way, we split four dependencies into two, each for their orchestration services as follows:
 
-<br />
-    <p align=center>
-        <img src="https://user-images.githubusercontent.com/1453985/120101983-c6d46800-c0fd-11eb-836a-496d191ef922.png" />
-    </p>
-<br />
+
+
+![Normalized Orchestration Service Dependencies](https://user-images.githubusercontent.com/1453985/120101983-c6d46800-c0fd-11eb-836a-496d191ef922.png)
+
+
 
 In the figure above, we modified the existing `StudentContactOrchestrationService` into `StudentRegularContactOrchestrationService` and removed one of its dependencies on the `EmailService`.
 
@@ -3195,27 +3248,27 @@ Normalization is more complex than the example above, especially when a core ent
 
 For instance, let's say we have a `StudentRegistrationOrchestrationService` which relies on `StudentProcessingService`, `LibraryCardProcessingService`, and `BookProcessingService` as follows:
 
-<br />
-    <p align=center>
-        <img src="https://user-images.githubusercontent.com/1453985/120099527-c41f4600-c0f0-11eb-8702-1439f966d9dc.png" />
-    </p>
-<br />
+
+
+![Student Registration Orchestration Service](https://user-images.githubusercontent.com/1453985/120099527-c41f4600-c0f0-11eb-8702-1439f966d9dc.png)
+
+
 
 But now, we need a new service called' ImmunizationProcessingService' to handle students' immunization records. We need all four services, but we already have a `StudentRegistrationOrchestrationService` that has three dependencies. At this point, a semi-normalization is required for the re-balancing of the architecture to honor the 'Two-Three' rule and eventually control the complexity.
 
-<br />
-    <p align=center>
-        <img src="https://user-images.githubusercontent.com/1453985/120100296-ea46e500-c0f4-11eb-888a-ed6668e9ffdb.png" />
-    </p>
-<br />
+
+
+![Student Registration Orchestration Service with Four Dependencies](https://user-images.githubusercontent.com/1453985/120100296-ea46e500-c0f4-11eb-888a-ed6668e9ffdb.png)
+
+
 
 In this case, a further normalization or a split is required to re-balance the architecture. We must think conceptually about the common ground between the primitive entities in a student registration process. Student requirements contain identity, health, and materials. We can, in this scenario, combine `LibraryCard` and `Book` under the same orchestration service as books and libraries are somewhat related. So we have `StudentLibraryOrchestrationService,` and for the other service, we would have `StudentHealthOrchestrationService` as follows:
 
- <br />
-    <p align=center>
-        <img src="https://user-images.githubusercontent.com/1453985/120100597-68f05200-c0f6-11eb-9ccc-ae1c963f6de5.png" />
-    </p>
- <br />
+
+
+![Semi-Normalized Student Registration Orchestration Services](https://user-images.githubusercontent.com/1453985/120100597-68f05200-c0f6-11eb-9ccc-ae1c963f6de5.png)
+
+
 
 To complete the registration flow with a new model, a coordination service must pass in advanced business logic to combine these entities. But more importantly, you will notice that each orchestration service has a redundant dependency of `StudentProcessingService` to ensure no virtual dependency on any other orchestration service,  creating/providing a student record exists.
 
@@ -3233,15 +3286,16 @@ Because it's hard for me to come up with an example for multiple entities that h
 
 Now, let's say a new service, `CService`, must be added to the mix to complete the existing flow. So, now we have four different dependencies under one orchestration service, and a split is mandatory. Since there's no relationship whatsoever between `A`, `B`, and `C`, a 'No-Normalization' approach becomes the only option to realize a new design as follows:
 
- <br />
-    <p align=center>
-        <img src="https://user-images.githubusercontent.com/1453985/120102975-4d8b4400-c102-11eb-9582-6f95d17227e7.png" />
-    </p>
- <br />
+
+
+![No-Normalization Orchestration Services](https://user-images.githubusercontent.com/1453985/120102975-4d8b4400-c102-11eb-9582-6f95d17227e7.png)
+
+
 
 The above primitive services will be orchestrated with a core service, `X`, and then gathered under a coordination service. This case above is the worst-case scenario, where normalization of any size is impossible. Note that the author of this Standard couldn't come up with a realistic example unlike any others to show you how rare it is to run into that situation, so let a 'No-Normalization' approach be your very last solution if you run out of options.
 
 ##### 2.3.2.1.1.3 Meaningful Breakdown
+
 Regardless of the type of normalization you follow, you must ensure that your grouped services represent a common meaning. For instance, putting together a `StudentProcessingService` and `LibraryProcessingService` must require a functional commonality. An excellent example of that would be `StudentRegistrationOrchestrationService`. The registration process requires adding a new student record and creating a library card for that student.
 
 Implementing orchestration services without an intersection between two or three entities per operation defeats the whole purpose of having an orchestration service. This condition is satisfied if at least one intersection between two entities has occurred. An orchestration service may have other 'Pass-Through' operations where we propagate certain routines from their processing or foundation origins if they match the same contract.
@@ -3273,11 +3327,13 @@ In the example above, our `StudentOrchestrationService` had an orchestration rou
 'Pass-Through' routines must have the same contract as the other routines in any orchestration service. Our 'Pure Contract' principle dictates that any service should allow the same contract as input and output or primitive types.
 
 ### 2.3.2.2 Contracts
+
 Orchestration services may combine two or three different entities and their operations to achieve a higher business logic. There are two scenarios for contract/models for orchestration services: One that stays true to the primary entity's purpose and one that is complex - a combinator orchestration service that tries to expose its inner target entities explicitly.
 
 Let's talk about these two scenarios in detail.
 
 #### 2.3.2.2.0 Physical Contracts
+
 Some orchestration services are still single-purposed, even though they may combine two or three other higher-order routines from multiple entities. For instance, an orchestration service that reacts to messages from some queue and persists in these messages is a single-purposed and single-entity orchestration service.
 
 Let's take a look at this code snippet:
@@ -3318,6 +3374,7 @@ In our example, the orchestration services listen to a queue for new student mes
 However, there are other scenarios in which a single entity is not the only purpose/target for an orchestration service. Let's discuss that in detail.
 
 #### 2.3.2.2.1 Virtual Contracts
+
 In some scenarios, an orchestration service may be required to create non-physical contracts to complete a particular operation. For instance, consider an orchestration service required to persist a social media post containing a picture. The requirement is to persist the picture in one database and the actual post (comments, authors, and others) in a different database table in a relational model.
 
 The incoming model might be significantly different from the actual physical models. Let's see what that would look like in the real world.
@@ -3387,21 +3444,23 @@ In hybrid situations, the incoming virtual model may have nested physical models
 In summary, Orchestration services may create their contracts, which may be physical or virtual. A virtual contract may be a combination of one or many physical (or nested virtual) contracts or simply have its own flat design in terms of properties.
 
 ### 2.3.2.2 Cul-De-Sac
+
 Sometimes, Orchestration services and their equivalent (coordination, management, etc.) may not need an exposer component (controller, for instance). That's because these services may listen to specific events and communicate them back into a Processing or a Foundation service at the same level where the event started or was received.
 
 For example, incoming messages can be received from a subscription to an event service or a queue. In this case, the input for these services isn't necessarily through an exposer component anymore. Imagine building a simple application that gets notified with messages from a queue and then maps these messages into some local model to persist it in storage. In this case, the orchestration service would look something like the following:
 
- <br />
-    <p align=center>
-        <img src="https://user-images.githubusercontent.com/1453985/144501231-11ea13c9-81fa-4730-8840-a891a1d9edde.png" />
-    </p>
- <br />
+
+
+![Cul-De-Sac Pattern](https://user-images.githubusercontent.com/1453985/144501231-11ea13c9-81fa-4730-8840-a891a1d9edde.png)
+
+
 
  The `StudentEventOrchestrationService` listens to messages for new students and immediately converts them into models that can be persisted in the database.
 
  Here's an example:
 
  Let's start with a unit test for this pattern as follows:
+
  ```csharp
 [Fact]
 private void ShouldListenToProfileEvents()
@@ -3491,9 +3550,11 @@ In the above example, the Orchestration service constructor subscribes to the ev
 This pattern or characteristic is called the Cul-De-Sac. An incoming message will turn and head in a different direction for a different dependency. This pattern is typical in large enterprise-level applications where eventual consistency is incorporated to ensure the system can scale and become resilient under heavy consumption. This pattern also prevents malicious attacks against your API endpoints since it allows processing queue messages or events whenever the service is ready to process them. We will discuss the details in 'The Standard Architecture.
 
 ## 2.3.3 Responsibilities
+
 Orchestration services provide advanced business logic. It orchestrates multiple flows for multiple entities/models to complete a single flow. Let's discuss in detail what these responsibilities are:
 
 ### 2.3.3.0 Advanced Logic
+
 Orchestration services can only exist by combining multiple routines from multiple entities. These entities may differ in nature but share a standard flow or purpose. For instance, a `LibraryCard` model fundamentally differs from a `Student` model. However, they both share a common purpose regarding the student registration process. Adding a student record is required to register a student, but assigning a library card to that student is required for a successful student registration process.
 
 Orchestration services ensure the correct routines for each entity are integrated and called in the proper order. Additionally, orchestration services are responsible for rolling back a failing operation. These three aspects constitute an orchestration effort across multiple routines, entities, or contracts.
@@ -3501,6 +3562,7 @@ Orchestration services ensure the correct routines for each entity are integrate
 Let's talk about those in detail.
 
 #### 2.3.3.0.0 Flow Combinations
+
 We spoke earlier about orchestration services combining multiple routines to achieve a common purpose or a single flow. This aspect of orchestration services can serve as both a fundamental characteristic and a responsibility. An orchestration service without at least one routine combining two or three entities is not considered an orchestration. Integrating multiple services without a common purpose is a better-fit definition for aggregation services, which we will discuss later in this services chapter.
 
 However, within the flow combination comes the unification of the contract. I call it mapping and branching. Mapping an incoming model into multiple lower-stream service models and then branching the responsibility across these services.
@@ -3561,14 +3623,17 @@ private MediaPost MapToMediaPost(Post post, List<Media> medias)
     }
 }
 ```
+
 As you can see in the above example, the mapping and branching don't just happen on the way in. But a reverse action has to be taken on the way out. It violates The Standard to return the same input object that was passed in. That takes away any visibility on potential changes to the incoming request during persistence. The duplex mapping should substitute the need to dereference the incoming request to ensure no unexpected internal changes have occurred.
 
 Note that breaking out the mapping logic into its own aspect/partial class file is also recommended�something like `StudentOrchestrationService.Mappings.cs`�to ensure the only thing left is orchestration's business logic.
 
 #### 2.3.3.0.1 Call Order
+
 Calling routines in the correct order can be crucial to any orchestration process. For instance, a library card cannot be created unless a student record is created first. Enforcing the order here can be divided into two different types. Let's discuss those here for a bit.
 
 ##### 2.3.3.0.1.0 Natural Order
+
 The natural order here refers to specific flows that cannot be executed unless a prerequisite of input parameters is retrieved or persisted. For instance, imagine a situation where a library card cannot be created unless a student's unique identifier is retrieved first. In this case, we don't have to worry about testing that certain routines were called in the correct order because it comes naturally with the flow.
 
 Here's a code example of this situation:
@@ -3583,11 +3648,13 @@ public async ValueTask<LibraryCard> CreateLibraryCardAsync(LibraryCard libraryCa
         .CreateLibraryCardAsync(libraryCard, student.Name);
 }
 ```
+
 In the example above, having a student `Name` is a requirement to create a library card. Therefore, the orchestration of order here comes naturally as part of the flow without additional effort.
 
 Let's talk about the second type of order - Enforced Order.
 
 ##### 2.3.3.0.1.1 Enforced Order
+
 Imagine the same example above, but instead of the library card requiring a student name, it just needs the student `Id` already enclosed in the incoming request model. Something like this:
 
 ```csharp
@@ -3602,7 +3669,7 @@ public async ValueTask<LibraryCard> CreateLibraryCardAsync(LibraryCard libraryCa
 
 Ensuring a verified enrolled student exists before creating a library card might become a challenge because there is no dependency between the return value of one routine and the input parameters of the next. In other words, the `VerifyEnlistedStudentExistAsync` function returns nothing that the `CreateLibraryCardAsync` function cares about in terms of input parameters.
 
-In this case, an enforced type of order must be implemented through unit tests. A unit test for this routine would require verifying not just that the dependency has been called with the correct parameters but also that they are called in the correct _order_ let's take a look at how that would be implemented:
+In this case, an enforced type of order must be implemented through unit tests. A unit test for this routine would require verifying not just that the dependency has been called with the correct parameters but also that they are called in the correct *order* let's take a look at how that would be implemented:
 
 ```csharp
 [Fact]
@@ -3652,13 +3719,14 @@ In the example above, the mock framework is being used to ensure a certain order
 It's more likely that the type of ordering leans more towards enforced than natural when orchestration services reach the maximum number of dependencies.
 
 #### 2.3.3.0.2 Exceptions Mapping (Wrapping & Unwrapping)
+
 This responsibility is very similar to flow combinations. Except in this case, orchestration services unify all the exceptions that may occur from any dependencies into one unified categorical exception model. Let's start with an illustration of what that mapping may look like:
 
- <br />
-    <p align=center>
-        <img src="https://user-images.githubusercontent.com/1453985/145294325-0818a2dd-a017-43af-b1f0-fa5c93a9218c.png" />
-    </p>
- <br />
+
+
+![Orchestration Service Exception Mapping](https://user-images.githubusercontent.com/1453985/145294325-0818a2dd-a017-43af-b1f0-fa5c93a9218c.png)
+
+
 
 In the illustration above, you will notice that validation and dependency validation exceptions, thrown from downstream dependency services, map into one unified dependency exception at the orchestration level. This practice allows upstream consumers of that same orchestration service to determine the next course of action based on one categorical exception type instead of four, or in the case of three dependencies, it would be six categorical dependencies.
 
@@ -3822,49 +3890,51 @@ It's crucial to unwrap and wrap localized exceptions from downstream services wi
 We will discuss further upstream in this Standard when to expose localized inner exceptions details where end-users are not required to take any action exclusive to dependency and service level exceptions.
 
 ## 2.3.4 Variations
+
 Orchestration services vary depending on their position in the overall low-level architecture. For instance, an orchestration service that relies on downstream orchestration services is called a Coordination service. An Orchestration service working with multiple Coordination services as dependencies is called a Management Service. These variants are Orchestration services with uber-level business logic.
 
- ### 2.3.4.0 Variants Levels
+### 2.3.4.0 Variants Levels
+
 Let's take a look at the possible variants for orchestration services and where they would be positioned:
 
- <br />
-    <p align=center>
-        <img src="https://user-images.githubusercontent.com/1453985/147461598-e7fe6b48-976a-4787-bd97-11e7faf131ee.png" />
-    </p>
- <br />
+
+
+![Orchestration Service Variants](https://user-images.githubusercontent.com/1453985/147461598-e7fe6b48-976a-4787-bd97-11e7faf131ee.png)
+
+
 
  In my personal experience, I've rarely had to resolve to an Uber Management service. The limitation here in terms of dependencies and variations of orchestration-like services is to help engineers rethink the complexity of their logic. But admittedly, there are situations where complexity is an absolute necessity. Therefore, Uber Management services exist as an option.
 
  The following table should guide the process of developing variants of orchestration services based on the level:
 
-| Variant								|   Dependencies            		| Consumers								    | Complexity |
-|------------------------				|---------------------------		| ------------------------------------------| -----------|
-| Orchestration Services				| Foundation or Processing Services | Coordination Services     			    | Low    	 |
-| Coordination Services				    | Orchestration Services 			| Management Services       			    | Medium     |
-| Management Services					| Coordination Services          	| Uber Management Services			        | High       |
-| Uber Management Services      		| Management Services               | Aggregation, Views or Exposer Components	| Very High	 |
+| Variant        |   Dependencies              | Consumers            | Complexity |
+|------------------------    |---------------------------  | ------------------------------------------| -----------|
+| Orchestration Services    | Foundation or Processing Services | Coordination Services            | Low      |
+| Coordination Services        | Orchestration Services    | Management Services              | Medium     |
+| Management Services     | Coordination Services           | Uber Management Services           | High       |
+| Uber Management Services        | Management Services               | Aggregation, Views or Exposer Components | Very High  |
 
  Working beyond Uber Management services in an orchestration manner would require a more profound discussion and a serious consideration of the overall architecture. Future versions of The Standard might be able to address this issue in what I call "The Lake House," but that is outside of the scope of this version of The Standard.
 
- ### 2.3.4.1 Unit of Work
+### 2.3.4.1 Unit of Work
+
  With the variations of orchestration services, I recommend staying true to the concept of unit of work. Every request can do one thing and one thing only, including its prerequisites. For instance, if you need to register a student in a school, you may also need to add a guardian, contact information, and other details. Eventing these actions can significantly decrease the complexity of the flow and lower the risk of failures in downstream services.
 
  Here's a visualization for a complex single-threaded approach:
 
- <br />
-    <p align=center>
-        <img src="https://user-images.githubusercontent.com/1453985/147462984-84e6dabd-bf27-413a-8e79-2659a24c37c0.png" />
-    </p>
- <br />
+
+
+![Complex Single-Threaded Approach](https://user-images.githubusercontent.com/1453985/147462984-84e6dabd-bf27-413a-8e79-2659a24c37c0.png)
+
+
 
  The solution above is a working solution for registering a student. We needed to include guardian information, library cards, classes, etc. These dependencies can be broken down into eventing, allowing other services to pick up where the single-threaded services leave off to continue the registration process. Something like this:
 
 
-  <br />
-    <p align=center>
-        <img src="https://user-images.githubusercontent.com/1453985/147463233-466a055f-ce95-4911-92cd-7b173b2a37df.png" />
-    </p>
-  <br />
+
+![Event-Based Approach](https://user-images.githubusercontent.com/1453985/147463233-466a055f-ce95-4911-92cd-7b173b2a37df.png)
+
+
 
   Above, the incoming request is turned into events, each of which would notify its orchestration services in a cul-de-sac pattern, as discussed in section 2.3.2.2. That means that a single thread is no longer responsible for the success of each dependency in the system. Instead, every event-listening broker would handle its process in a simplified way.
 
@@ -3883,6 +3953,7 @@ Let's take a look at the possible variants for orchestration services and where 
 # 2.4 Aggregation Services (The Knot)
 
 ## 2.4.0 Introduction
+
 An Aggregation service's primary responsibility is to expose one single point of contact between the core business logic layer and any exposure layers. It ensures that multiple services of any variation share the same contract to be aggregated and exposed to one exposer component through one logical layer.
 
 Aggregation services do not hold any business logic in themselves. They are simply a knot that ties together multiple services of any number. They can have any layer of services as dependencies, and it mainly exposes the call to these services accordingly. Here is a code example of an aggregation service:
@@ -3901,20 +3972,19 @@ public async ValueTask ProcessStudentAsync(Student student)
 As the snippet shows above, an Aggregation service may have any number of calls in any order without limitation. There may be occasions where you may or may not need to return a value to your exposure layers depending on the overall flow and architecture, which we will discuss shortly in this chapter. More importantly, aggregation services should be distinct from orchestration services or variants.
 
 ## 2.4.1 On The Map
+
 Aggregation services always sit on the other end of a core business logic layer. They are the last point of contact between the exposure layers and logic layers. Here is a diagram visualization of where an Aggregation service can be found in the architecture:
 
-<br />
-    <p align="center" >
-        <img src="https://user-images.githubusercontent.com/1453985/147583126-c2b73db9-f77f-486f-806a-e9bfe32cec16.png" />
-    </p>
-<br />
+![Aggregation Services on The Map](https://user-images.githubusercontent.com/1453985/147583126-c2b73db9-f77f-486f-806a-e9bfe32cec16.png)
 
 Let's discuss the characteristics of Aggregation services.
 
 ## 2.4.2 Characteristics
+
 Aggregation services mainly exist when multiple services share the same contract or primitive types of the same contract, requiring a single exposure point. They mainly exist in hyper-complex applications where multiple services (usually orchestration or higher but can be lower) require one single point of contact through exposure layers. Let's discuss the main characteristics of Aggregation services in detail.
 
 ### 2.4.2.0 No Dependency Limitation
+
 Unlike any other service, Aggregation services can have any number of dependencies as long as these services have the same variation. For instance, an Aggregation service cannot aggregate between an Orchestration service and a Coordination service. It's a partial Florance-like pattern where services must have the same variation but are not necessarily limited by the number.
 
 The dependencies for Aggregation services are not limited because the service doesn't perform any level of business logic between these services. It doesn't care what these services do or require. It only focuses on exposing these services regardless of what they were called before or after.
@@ -3972,16 +4042,19 @@ public async ValueTask ProcessStudentAsync(Student student)
 ```
 
 ### 2.4.2.1 No Order Validation
+
 By definition, Aggregation services are naturally required to call several dependencies with no limitation. The order of calling these dependencies is also not a concern or a responsibility for Aggregation services because the call-order verification is considered a core business logic, which falls outside the responsibilities of an Aggregation service. That includes both the natural order of verification and the enforced order of verification, as we explained in section 2.3.3.0.1 in the previous chapter.
 
 It violates The Standard to use simple techniques like a mock sequence to test an Aggregation service. It is also a violation to verify reliance on the return value of one service call to initiate a call to the next. These responsibilities are more likely to fall on the next lower layer of an Aggregation service for any orchestration-like service.
 
 ### 2.4.2.2 Basic Validations
+
 Aggregation services are still required to validate whether or not the incoming data is structurally valid at a higher level. For instance, an Aggregation service that takes a `Student` object as an input parameter will only validate if the `student` is `null`. But that's where it all stops.
 
 There may be an occasion where a dependency requires a property of an input parameter to be passed in, in which case it is also permitted to validate that property value structurally. For instance, if a downstream dependency requires a student name to be passed in. An Aggregation service will still be required to validate if the `Name` is `null`, empty, or just whitespace.
 
 ### 2.4.2.3 Pass-Through
+
 Aggregation services are not required to implement aggregation by performing multiple calls from one method. They can also aggregate by offering pass-through methods for multiple services. For instance, assume we have `studentCoordinationService`, `studentRecordsService`, and `anyOtherStudentRelatedCoordinationService` where each service is independent in terms of business flow. So, an aggregation here is only at the level of exposure, not necessarily the execution level.
 
 Here's a code example:
@@ -4020,9 +4093,11 @@ public partial class StudentAggregationService
 As you can see above, each service uses the Aggregation service as a pass-through. There's no need for an aggregated routines call in this scenario, but it would still be a very valid scenario for Aggregation services.
 
 ### 2.4.2.4 Optionality
+
 It is essential to mention here that Aggregation services are optional. Unlike foundation services, Aggregation services may or may not exist in architecture. Aggregation services are there to solve a problem with abstraction. This problem may or may not exist based on whether the architecture requires a single exposure point at the border of the core business logic layer. This single responsibility of Aggregation services makes it much simpler to implement its task and perform its function efficiently. Aggregation services being optional is more likely than any other lower-level services, even in the most complex of applications out there.
 
 ### 2.4.2.5 Routine-Level Aggregation
+
 If an aggregation service has to make two different calls from the same dependency amongst other calls, it is recommended that it aggregate for every dependency routine. But that's only from a clean-code perspective, and it doesn't necessarily impact the architecture or the result.
 
 Here's an example:
@@ -4045,20 +4120,23 @@ private async ValueTask ProcessStudentRecordAsync(Student student)
 As previously mentioned, this organizational action doesn't warrant any change in testing or results.
 
 ### 2.4.2.6 Pure Dependency Contracts
+
 An Aggregation service's most important rule/characteristic is that its dependencies (unlike orchestration services) must share the same contract. The input parameter for a public routine in any Aggregation service must be the same for all its dependencies. There may be occasions where a dependency may require a student id instead of the entire student, which is permitted with caution as long as the partial contract isn't a return type of another call within the same routine.
 
-
 ## 2.4.3 Responsibilities
+
 An Aggregation service's primary responsibility is to offer a single point of contact between exposer components and the rest of the core business logic. But in essence, abstraction is the actual value Aggregation services offer to ensure any business component is pluggable into any system regardless of exposure style.
 
 Let's talk about these responsibilities in detail.
 
 ### 2.4.3.0 Abstraction
+
 An aggregation service successfully assumes responsibility when its clients or consumers have no idea what lies beyond the lines of its implementation. For example, an aggregation service could combine ten different services and expose a single routine in a fire-and-forget scenario.
 
 But even in pass-through scenarios, Aggregation services abstract away any identification of the underlying dependency from exposers at all costs. It only sometimes happens, especially in terms of localized exceptions. Still, it is close enough to make the integration seem as if it is with one single service that's offering all the options natively.
 
 ### 2.4.3.1 Exceptions Aggregation
+
 Aggregation services resemble orchestration-like services when mapping and aggregating exceptions from downstream dependencies. For instance, if `studentCoordinationService` is throwing, `StudentCoordinationValidationException`an Aggregation service would map that into `StudentAggregationDependencyValidationException`. This falls back into the concept of exception unwrapping and then wrapping of localized exceptions, which we discussed in detail in section 2.3.3.0.2 of this Standard.
 
 # 2 Services
@@ -4075,11 +4153,7 @@ Any business layer is more compliant with The Standard if it can plug into other
 
 When we say business logic, we mainly refer to three main categories of operations: validation, processing, and integration.
 
-<br />
-<p align=center>
-    <img src="https://user-images.githubusercontent.com/1453985/100530065-4494d680-31a2-11eb-8393-32b21ab99a3d.png" />
-</p>
-<br />
+![Services Operations](https://user-images.githubusercontent.com/1453985/100530065-4494d680-31a2-11eb-8393-32b21ab99a3d.png)
 
 Let's talk about these categories.
 
@@ -4101,11 +4175,7 @@ We will discuss these aspects in detail in the upcoming chapter. The main thing 
 
 Services are classified into several types based on their disposition in any given architecture. They fall into three main categories: validators, orchestrators, and aggregators.
 
-<br />
-<p align=center>
- <img src="https://user-images.githubusercontent.com/1453985/100529444-b23e0400-319c-11eb-816a-59c73154542b.png" />
-</p>
-<br />
+![Services Types](https://user-images.githubusercontent.com/1453985/100529444-b23e0400-319c-11eb-816a-59c73154542b.png)
 
 #### 2.0.1.0 Validators
 
@@ -4156,19 +4226,11 @@ Suppose an Orchestrator depends only on one service. In that case, it violates t
 
 ###### This pattern violates Florance Pattern
 
-<br/>
-<p align=center>
-    <img src="https://user-images.githubusercontent.com/1453985/100561648-4926c100-326e-11eb-9028-96bcd3eb0b1d.png">
-</p>
-<br />
+![Single Service Pattern](https://user-images.githubusercontent.com/1453985/100561648-4926c100-326e-11eb-9028-96bcd3eb0b1d.png)
 
 ###### This pattern follows the symmetry of the Florance Pattern
 
-<br />
-<p align=center>
-    <img src="https://user-images.githubusercontent.com/1453985/100561978-2a74fa00-326f-11eb-9d05-404eed3eaf5f.png">
-</p>
-<br />
+![Two Service Pattern](https://user-images.githubusercontent.com/1453985/100561978-2a74fa00-326f-11eb-9d05-404eed3eaf5f.png)
 
 The Florance pattern also ensures the balance and symmetry of the overall architecture.
 
@@ -4267,17 +4329,14 @@ private LibraryCard MapToLibraryCard(Student student)
 As you can see above, a valid student id is required to map to a `LibraryCard successfully`. Since the mapping is the orchestrator's responsibility, we must ensure that the input student and its id are in good shape before proceeding with the orchestration process.
 
 #### 2.0.2.5 Flow Forward
+
 Services cannot call services at the same level. For instance, Foundation Services cannot call other Foundation Services, and Orchestration Services cannot call other Orchestration Services from the same level.
 This principle is called a Flow-Forward - as the illustration shows:
 
-
-<br />
-<p align=center>
-    <img src="https://user-images.githubusercontent.com/1453985/236656309-30864ae2-860c-4a90-9bf5-db145a072e1b.png">
-</p>
-<br />
+![Flow Forward](https://user-images.githubusercontent.com/1453985/236656309-30864ae2-860c-4a90-9bf5-db145a072e1b.png)
 
 ##### 2.0.2.5.0 For APIs
+
 Due to fractality, The same rule applies to methods within these services. Public APIs cannot call public APIs. Here's an example:
 
 ```csharp
@@ -4307,38 +4366,43 @@ While this may seem redundant, the reason for this is that `public` APIs, contra
 # 3.1.1 RESTful APIs
 
 ## 3.1.1.0 Introduction
+
 RESTful API controllers are liaisons between the core business logic layer and the outside world. They sit on the other side of any application's core business realm. In a way, API Controllers are just like Brokers. They ensure a successful integration between our core logic and the rest of the world.
 
 ## 3.1.1.1 On the Map
+
 Controllers sit at the edge of any system, regardless of whether this system is a monolithic platform or a simple microservice. API controllers today even apply to smaller lambdas or cloud functions. They act as a trigger to access these resources in any system through REST.
 
-<br />
-    <div align=center>
-        <img src="https://user-images.githubusercontent.com/1453985/147741682-63434be5-3122-4484-b9a1-fd013f18b1b0.png" />
-    </div>
-<br />
+
+
+![Controllers on the Map](https://user-images.githubusercontent.com/1453985/147741682-63434be5-3122-4484-b9a1-fd013f18b1b0.png)
+
+
 
 The consumer side of controllers can vary. In production systems, these consumers can be other services that require data from a particular API endpoint. They can be libraries built as wrappers around the controller APIs to provide a local resource with external data. However, consumers can also be engineers testing endpoints and validating their behaviors through swagger documents.
 
 ## 3.1.1.2 Characteristics
+
 Several rules and principles govern the implementation of RESTful API endpoints. Let's discuss those here.
 
 ### 3.1.1.2.0 Language
+
 Controllers speak a different language when it comes to implementing their methods than services and brokers. For instance, if a broker that interfaces with a storage uses a language such as `InsertStudentAsync` and its corresponding service implementation uses something like `AddStudentAsync`, the controller equivalent will use a RESTful language such as `PostStudentAsync`.
 
 A common controller would use only a handful of terminologies to express a particular operation. Let's draw the map here for clarity:
 
-| Controllers							| Services                      	| Brokers								    |
-|------------------------				|---------------------------		| ------------------------------------------|
-| Post          				        | Add                               | Insert                     			    |
-| Get               				    | Retrieve               			| Select                       			    |
-| Put               					| Modify                          	| Update                			        |
-| Delete                          		| Remove                            | Delete                                	|
+| Controllers       | Services                       | Brokers            |
+|------------------------    |---------------------------  | ------------------------------------------|
+| Post                      | Add                               | Insert                            |
+| Get                       | Retrieve                  | Select                              |
+| Put                    | Modify                           | Update                           |
+| Delete                            | Remove                            | Delete                                 |
 
 But it must be important to understand that these operations can be extended and modified to fit the operation we are performing. We will talk about that shortly.
 The language controllers speak is called HTTP Verbs. Their range is wider than the aforementioned CRUD operations. For instance, there is PATCH, which allows API consumers to update only portions of a particular document. From my experience in productionized applications, PATCH is rarely used today. However, I may expand on them in a special section in future versions of The Standard.
 
 #### 3.1.1.2.0.0 Beyond CRUD Routines
+
 As we mentioned before, a controller can interface with more than just a foundation service. They can interface with higher-order business logic functions. For instance, a processing service may offer an `Upsert` routine. In this case, a typical Http Verb wouldn't be able to satisfy a combinational routine such as an `Upsert`. In this case, we introduce custom http verbs that can support the aforementioned operation.
 
 Custom http verbs can be anything as long as it doesn't conflict with an existing verb or contains non-supported characters. For instance, if we have a system that generate barcodes for some products, the generation process doesn't quite fit a `POST` or a `GET`. Especially when we factor in that these http verbs/methods might already be used for the same route for storing and retrieving barcodes from the system. This is a case where a new http verb can be introduced as `GENERATE` where you can pass the same route with a different verb that a server would understand.
@@ -4350,6 +4414,7 @@ We introduced this capabilty in RESTFulSense library where you can simply define
     public ActionResult<Barcode> GenerateBarcode() =>
         this.barcodeProcessingService.Generate();
 ```
+
 A consumer client can call that endpoint also as follows:
 
 ```csharp
@@ -4363,6 +4428,7 @@ A consumer client can call that endpoint also as follows:
 The same operations can also be done without using a particular library with the native `HttpClient`.
 
 #### 3.1.1.2.0.1 Similar Verbs
+
 Sometimes, especially with basic CRUD operations, you will need the same Http Verb to describe two different routines. For instance, integrating with both `RetrieveById` and `RetrieveAll` resolves to a `Get` operation on the RESTful realm. In this case, each function will have a different name and route while maintaining the same verb as follows:
 
 ```csharp
@@ -4382,15 +4448,18 @@ public async ValueTask<ActionResult<Student>> GetStudentByIdAsync(Guid studentId
 As you can see above, the differentiator here is simultaneously the function name `GetAllStudents` versus `GetStudentByIdAsync` and the `Route`. We will discuss routes shortly, but the central aspect is the ability to implement multiple routines with different names, even if they resolve to the same Http Verb.
 
 #### 3.1.1.2.0.2 Routes Conventions
+
 RESTful API controllers are accessible through routes. A route is simply a URL combined with an Http verb, so the system knows which routine it needs to call to match that route. For instance, if I need to retrieve a student with id `123`, my API route would be `api/students/123`. And if I want to retrieve all the students in some system, I could just call `api/students` with the `GET` verb.
 
 ##### 3.1.1.2.0.2.0 Nouns & Verbs
+
 Routes should never have verbs in them. That's the responsibility of the http verb. For instance, we should never name a route as such: `api/students/get` that is a violation of the naming conventions of The Standard. The rule here is that routes should also have nounes, and http methods should always have verbs. Http methods with customization as mentioned above could have endless number of custom methods against the very same route.
 
 The Standard also enforces the single-noun principle. Routes should not combine mulitple nouns. For instance, instead of saying: `api/studentsubmissions` we should say: `api/student-submissions`.
 On that same line, retreiving submissions for a particular student can be represented as follows: `api/students/{studentId}/submissions` the breakdown here is necessary to imply the intersection between resources compared to pulling everything in storage.
 
 ##### 3.1.1.2.0.2.1 Controller Routes
+
 The controller class in a simple ASP.NET application can be set at the top of the controller class declaration with a decoration as follows:
 
 ```csharp
@@ -4405,6 +4474,7 @@ public class StudentsController
 The route there is a template that defines the endpoint to start with `api` and trail by omitting the term "Controller" from the class name. So `StudentsController` would end up being `api/students`. All controllers must have a plural version of the contract they are serving. Unlike services where we say `StudentService`, controllers would be the plural version with `StudentsController`.
 
 ##### 3.1.1.2.0.2.2 Routine/Method-Specific Routes
+
 The same idea applies to methods within the controller class. As the code snippet above says, we decorated `GetStudentByIdAsync` with an `HttpGet` decoration with a particular route identified to append to the existing controller overall route. For instance if the controller route is `api/students`, a routine with `HttpGet("{studentId})` would result in a route that looks like this: `api/students/{studentId}`.
 
 The `studentId` then would be mapped in as an input parameter variable that *must* match the variable defined in the route as follows:
@@ -4428,11 +4498,13 @@ public async ValueTask<ActionResult<LibraryCard>> PostLibraryCardAsync(Guid stud
 ```
 
 ##### 3.1.1.2.0.2.3 Plural-Singular-Plural
+
 When defining routes in a RESTful API, it is important to follow the global naming conventions for these routes. The general rule is to access a collection of resources, then target a particular entity, then again access a collection of resources within that entity, and so on and so forth. For instance, in the library card example above, `api/students/{studentId}/librarycards/{librarycardId}`, we started by accessing all students and then targeting a student with a particular ID. We wanted to access all library cards attached to that student and then target a very particular card by referencing its ID.
 
 That convention works perfectly in one-to-many relationships. But what about one-to-one relationships? Let's assume a student may have one and only one library card at all times. In which case, our route would still look something like this: `api/students/{studentId}/librarycards` with a `POST` verb, and an error would occur as `CONFLICT` if a card is already in place regardless of whether the Ids match or not.
 
 ##### 3.1.1.2.0.2.4 Query Parameters & OData
+
 But the route I recommend is the flat-model route. Where every resource lives on its own with its unique routes, in our case here, pulling a library card for a particular student would be as follows: `api/librarycards?studentId={studentId}` or use slightly advanced global technology such as OData where the query would be `api/librarycards?$filter=studentId eq '123'`.
 
 Here's an example of implementing basic query parameters:
@@ -4459,10 +4531,13 @@ public async ValueTask<IQueryable<LibraryCard>> GetAllLibraryCardsAsync()
 The same idea applies to `POST` for a model. Instead of posting towards: `api/students/{studentId}/librarycards` - we can leverage the contract itself to post against `api/librarycards` with a model that contains the student id within. This flat-route idea can simplify the implementation and aligns perfectly with the overall theme of The Standard. We are keeping things simple.
 
 ##### 3.1.1.2.0.2.5 X-WWW-Form-UrlEncoded Parameters
+
 The Standard enfornces the concept of single-entity. For instance, we can't have a method as follows in a Standard-compliant system:
+
 ```csharp
 ValueTask<Teacher> GetTeachersByStudentAsync(Student student);
 ```
+
 The above is considered a violation because the service that supports this routine explicity handles multiple models or entity types. But The Standard also permits passing primitive parameters such as `string`, `bool` or any other primitive or native type. Controllers/API can also support the same pattern though x-www.form-urlencoded parameters as follows:
 
 On the controller side, you can implement `x-www-form-urlencoded` as follows:
@@ -4477,6 +4552,7 @@ On the controller side, you can implement `x-www-form-urlencoded` as follows:
         ....
     }
 ```
+
 On the consumer side, the implementation would be:
 
 ```csharp
@@ -4492,24 +4568,26 @@ On the consumer side, the implementation would be:
             requestUri: $"{userAuthenticationsRelativeUrl}/login",
             content: formUrlEncodedContent));
 ```
+
 The rule to Services applies to Controllers as well, a routine at this level cannot accept more than 3 parameters - and beyond that point engineers must design the system to accept an actual entity or model and return the same model in the response.
 
 ### 3.1.1.2.1 Codes & Responses
-Responses from an API controller must be mapped towards codes and responses. For instance, if we are trying to add a new student to a schooling system. We are going to `POST` a student, and in return, we receive the same body we submitted with a status code `201`, which means the resource has been `Created`. 
+
+Responses from an API controller must be mapped towards codes and responses. For instance, if we are trying to add a new student to a schooling system. We are going to `POST` a student, and in return, we receive the same body we submitted with a status code `201`, which means the resource has been `Created`.
 
 There are three main categories into which responses can fall. The first is the success category. Both the user and the server have done their part, and the request has been successful. The second category is the User Error Codes, where the user request has an issue of any type. In this case, a `4xx` code will be returned with a detailed error message to help users fix their requests to perform a successful operation. The third case is the System Error Codes, where the system has run into an issue of any type, internal or external, and it needs to communicate a `5xx` code to indicate to the user that something internally has gone wrong with the system and they need to contact support.
 
 Let's talk about those codes and their scenarios in detail here.
 
 #### 3.1.1.2.1.0 Success Codes (2xx)
+
 Success codes indicate a resource has been created, updated, deleted, or retrieved. In some cases, it indicates that a request has been submitted successfully in an eventual consistent manner that may or may not succeed. Here are the details for each:
 
-| Code      							| Method                          	| Details								                            |
+| Code             | Method                           | Details                                    |
 |---------------------------------------|-----------------------------------|-------------------------------------------------------------------|
-| 200             				        | Ok                                | Used for successful GET, PUT, and DELETE operations.               |
-| 201               				    | Created               			| Used for successful POST operations                               |
-| 202               					| Accepted                          | Used for request that was delegated but may or may not succeed    |
-
+| 200                         | Ok                                | Used for successful GET, PUT, and DELETE operations.               |
+| 201                       | Created                  | Used for successful POST operations                               |
+| 202                    | Accepted                          | Used for request that was delegated but may or may not succeed    |
 
 Here are some examples for each:
 
@@ -4540,6 +4618,7 @@ public async ValueTask<ActionResult<Student>> PostStudentAsync(Student student)
 ```
 
 In eventual consistency cases, where a resource posted is not persisted yet, we enqueue the request and return an `Accepted` status to indicate a process will start:
+
 ```csharp
 [HttpPost)]
 public async ValueTask<ActionResult<Student>> PostStudentAsync(Student student)
@@ -4553,8 +4632,8 @@ public async ValueTask<ActionResult<Student>> PostStudentAsync(Student student)
 
 The Standard rule for eventual consistency scenarios is to ensure the submitter has a token of some type so requestors can inquire about the status of their request using a different API call. We will discuss these patterns in a different book called The Standard Architecture.
 
-
 #### 3.1.1.2.1.1 User Error Codes (4xx)
+
 This is the second category of API responses. In this category, a user request has an issue, and the system is required to help the user understand why their request was not successful. For instance, assume a client is submitting a new student to a schooling system. If the student ID is invalid, a `400` or `Bad Request` code should be returned with a problem detail that explains what exactly caused the request to fail.
 
 Controllers are responsible for mapping the core layer categorical exceptions into proper status codes. Here's an example:
@@ -4611,17 +4690,18 @@ In the code snippet above, we had to examine the inner exception type to validat
 
 With that in mind, let's detail the most common mappings from exceptions to codes:
 
-| Code      							| Method                          	| Exception								                            |
+| Code             | Method                           | Exception                                    |
 |---------------------------------------|-----------------------------------|-------------------------------------------------------------------|
-| 400             				        | BadRequest                        | ValidationException or DependencyValidationException              |
-| 404               				    | NotFound               			| NotFoundException                                                 |
-| 409               					| Conflict                          | AlreadyExistException                                             |
-| 423               					| Locked                            | LockedException                                                   |
-| 424               					| FailedDependency                  | InvalidReferenceException                                         |
+| 400                         | BadRequest                        | ValidationException or DependencyValidationException              |
+| 404                       | NotFound                  | NotFoundException                                                 |
+| 409                    | Conflict                          | AlreadyExistException                                             |
+| 423                    | Locked                            | LockedException                                                   |
+| 424                    | FailedDependency                  | InvalidReferenceException                                         |
 
 There are more `4xx` status codes out there. But they can either be automatically generated by the web framework, like in ASP.NET, or there are no useful scenarios for them yet. For instance, a `401` or `Unauthorized` error can be automatically generated if the controller endpoint is decorated with an authorization requirement.
 
 #### 3.1.1.2.1.2 System Error Codes (5xx)
+
 System error codes are the third and last possible type of code that may occur or be returned from an API endpoint. Their main responsibility is to indicate that the API endpoint consumer is generally at no fault. Something terrible happened in the system, and the engineering team must get involved to resolve the issue. That's why we log our exceptions with a severity level at the core business logic layer so we know how urgent the matter may be.
 
 The most common Http code that can be communicated on a server-side issue is the `500` or `InternalServerError` code. Let's take a look at a code snippet that deals with this situation:
@@ -4646,16 +4726,17 @@ In the above snippet, we ignored the inner exception and mainly focused on the c
 
 The types of exceptions that may be handled are smaller regarding server errors. Here are the details:
 
-| Code      							| Method                          	| Exception								                            |
+| Code             | Method                           | Exception                                    |
 |---------------------------------------|-----------------------------------|-------------------------------------------------------------------|
-| 500             				        | InternalServerError               | DependencyException or ServiceException                           |
-| 507               				    | NotFound               			| InsufficientStorageException (Internal Only)                      |
+| 500                         | InternalServerError               | DependencyException or ServiceException                           |
+| 507                       | NotFound                  | InsufficientStorageException (Internal Only)                      |
 
 There's also an interesting case where two teams agree on a specific swagger document, and the back-end API development team decides to build corresponding API endpoints with methods yet to be implemented to communicate to the other team that the work has yet to start. In this case, the error code `501` is sufficient, just a code for `NotImplemented`.
 
 It is also important to mention that the native `500` error code can be communicated in ASP.NET applications through the `Problem` method. We are relying on a library, `RESTFulSense`, to provide more codes than the native implementation can offer, but more importantly, to provide a problem detail serialization option and deserialization option on the client side.
 
 #### 3.1.1.2.1.3 All Codes
+
 Other than the ones mentioned in previous sections, and for documentation purposes, here are all of the `4xx` and `5xx` codes an API could communicate according to the latest standardized API guidelines:
 
 |Status|Code|
@@ -4703,6 +4784,7 @@ Other than the ones mentioned in previous sections, and for documentation purpos
 We will explore incorporating some of these codes in future revisions of The Standard as needed.
 
 ### 3.1.1.2.2 Single Dependency
+
 Exposer components can have one and only one dependency. This dependency must be a Service component. It cannot be a Broker or any other native dependency that Brokers may use to pull configurations or any other type of dependencies.
 
 When implementing a controller, the constructor can be implemented as follows:
@@ -4723,9 +4805,11 @@ public class StudentsController : RESTFulController
 ```
 
 ### 3.1.1.2.3 Single Contract
+
 This characteristic comes out of the box with the single dependency rule. If Services can only serve and receive one contract, then the same rule will apply to controllers. When passing in IDs or queries, they can return a contract or a list of objects with the same contract or portion of the contract.
 
 ## 3.1.1.3 Organization
+
 Controllers should be located under the `Controllers` folder and belong within a `Controllers` namespace. However, controllers do not need to have their own folders or namespaces as they perform a simple exposure task.
 
 Here's an example of a controller namespace:
@@ -4743,6 +4827,7 @@ namespace GitFyle.Core.Api.Controllers
 ```
 
 ## 3.1.1.4 Home Controller
+
 Every system should implement an API endpoint that we call `HomeController`. The controller's only responsibility is to return a simple message to indicate that the API is still alive. Here's an example:
 
 ```csharp
@@ -4764,9 +4849,11 @@ namespace OtripleS.Web.Api.Controllers
 Home controllers are not required to have any security. They open a gate for heartbeat tests to ensure the system as an entity is running without checking any external dependencies. This practice is very important to help engineers know when the system is down and quickly act on it.
 
 ## 3.1.1.5 Tests
+
 There are three different types of tests that cover API controllers as well as any other exposure layer. These tests are: unit tests, acceptance tests and integration or end-to-end (E2E) tests. Integration tests can vary between smoke testing, availability testing, performance testing and many others. But for the purpose of this chapter, we will focus on unit and acceptance tests.
 
 ### 3.1.1.5.0 Unit Tests
+
 Controllers have a similar type of logic that exists in Services. This logic is the mapping between exceptions coming from a dependency or internally and what these exceptions are being mapped to for the consumer of these APIs. For instance, a `StudentValidationException` can be mapped to a `BadRequest` status code. This logic is tested in unit tests. Let's take a look at an example:
 
 Starting with the test before the implementation, let's assume we have a controller `StudentsController` that retrieves all students. When the call succeeds, the controller should return a `200 OK` status code. Let's write a test for that:
@@ -4792,9 +4879,11 @@ namespace School.Core.Api.Controllers
         }
     }
 ```
+
 In the above code snippet, we initialized `StudentsController`, we inherited `RESTFulController` so we can have support for all possible status codes. But additionally, we created a `GetAllStudentsAsync` method that returns `NotImplemented` status code with a `NotImplementedException` exception. Notice the difference here between throwing the exception `NotImplementedException` at the Services layer compared to controllers.
 
 Now, let's move on to writing a controller unit test. Let's setup our `StudentsControllerTest` class as follows:
+
 ```csharp
     public partial class StudentsControllerTests : RESTFulController
     {
@@ -4812,7 +4901,9 @@ Now, let's move on to writing a controller unit test. Let's setup our `StudentsC
         ....
     }
 ```
+
 In the above example, we did three important things:
+
 1. We made sure the `SourcesControllerTests` class is partial so we can write other files that are still a part of this class but target particular areas and methods.
 2. We inherited from `RESTFulController` which is a class that comes from `RESTFulSense` .NET library which we will use later to create the expected response such as `Ok(retrievedStudents)`.
 3. We mocked the dependency so we don't actually call the `StudentService` but rather call a controlled mock so we can simulate responses and exceptions depends on the context of the unit test.
@@ -4862,6 +4953,7 @@ Now, let's write a unit test for `GetAllStudentsAsync` controller method as foll
 ```
 
 In the above test, just like we did with Services unit tests we did the following:
+
 1. We created a list of random students to simulate a response from the service.
 2. We cloned the list of students to create an expected response.
 3. We created an `OkObjectResult` object to simulate the expected response from the controller.
@@ -4896,9 +4988,10 @@ namespace School.Core.Api.Controllers
     }
 ```
 
-In the above code, we implemented `GetAllStudentsAsync` method and now our unit test will successfully pass. 
+In the above code, we implemented `GetAllStudentsAsync` method and now our unit test will successfully pass.
 
 ### 3.1.1.5.1 Acceptance Tests
+
 Here's an example of an acceptance test:
 
 ```csharp
@@ -4935,33 +5028,41 @@ Acceptance tests are also implemented after the fact, unlike unit tests. An endp
 # 3.1 Communication Protocols
 
 ## 3.1.0 Introduction
+
 In the exposure realm, one of the most common methodologies for building a communication structure between several systems is using a communication protocol. These protocols have evolved over the years from SOAP to REST to many other communication protocols and principles that manifested their technologies to expose APIs to distributed systems.
 
 In the .NET world, technology has evolved with the evolution of architecture from SOA with WCF to Microservices with REST. The evolution continues, but the principles change less often. In these upcoming chapters, we will discuss the most common communication protocols with a standardized way to implement them for enterprise-level applications.
 
 ### 3.1.0.0 Principles & Rules
+
 Communication protocols are required to accomplish two things when integrating with core business logic. Results communication and Error reporting. Let's talk about those briefly:
 
 #### 3.1.0.0.0 Results Communication
+
 Any communication protocol must satisfy the principle of returning a core business logic result. This result can be serialized into a unified language like `JSON` or communicated as is. In the case of API libraries, there is usually no need to serialize and deserialize data. However, that comes with the limitation that only technologies that integrate with these libraries can benefit from it.
 
 Communicating results may also be encapsulated with a status of some kind. In the case of RESTful API communications, a `200` code can accompany the returned serialized `JSON` result. These codes allow the consumers to understand the next course of action. Some `2xx` results may require a delayed action if the response is just `Accepted` but not necessarily `Created`.
 
 #### 3.1.0.0.1 Error Reports
+
 The core business logic should provide a detailed report of all the validation errors in a particular request. The communication protocols' responsibility is to represent these error reports in their original form or serialize them in a language easily deserialized and convertible back into the Exception original form on the client side.
 
 Serialized error reports shall also have their own codes so the client knows the next course of action. We recommend following a standardized way of communicating errors with documentation, preferably to help guide consumers in developing the best clients for these APIs.
 
 ### 3.1.0.1 Common Types
+
 Let's explore some of the most common types of communication protocols in this section.
 
 #### 3.1.0.1.0 REST
+
 REST is a Representational state transfer protocol with certain constraints that explicitly define the form of communication, error reporting, and its very stateless nature. When this Standard was authored, RESTful APIs were the most common form of communication between distributed systems. RESTful APIs are technology-agnostic. Any technology or a programming language can implement them, and they allow these technologies to communicate with each other statelessly without any hard dependency on the server or the client's choice of technology.
 
 #### 3.1.0.1.1 Libraries
+
 The other most common communication protocol is APIs implemented within libraries. For instance, NuGet packages are published and distributed libraries that allow developers to leverage a localized core business logic or communicate with an external resource to achieve a specific goal.
 
 #### 3.1.0.1.2 Other Types
+
 There are several other types of communication protocols. Some are older, and others are about to emerge in the software industry. These types are like SOAP with manifestations like WCF, gRPC, GraphQL, and several others.
 
 We will mainly focus on RESTful APIs as a more common communication protocol, with a brief touch on Libraries. As we evolve and learn further, so will our Standard, which will include more and more different communication protocols and develop in terms of patterns.
@@ -4971,45 +5072,51 @@ Let's start with RESTful APIs as a communication protocol and then explore the d
 # 3.2.1 Web Applications
 
 ## 3.2.1.0 Introduction
+
 Web applications are the most common type of exposer components today. They are much easier to use than other known exposer UI components in the software industry. The web software market is also much easier for engineers to publish and update than mobile applications, making it attractive for newer engineers. But more importantly, web applications have a much more diverse set of technologies than mobile applications.
 
 This chapter will use Blazor technology to demonstrate implementing the Standard principles for web applications. However, as mentioned previously, the Standard is technology-agnostic, meaning it can be applied to any web technology without issues.
 
 ## 3.2.1.1 On the Map
+
 Web applications are usually set at the other end of any system. They are the terminals that humans use to interact with the system. Let's take a look at where they are located on the map:
 
-<br />
-    <div align=center>
-        <img src="https://user-images.githubusercontent.com/1453985/147833507-03db8680-8cf3-4353-9531-844b8d057ecb.png" />
-    </div>
-<br />
+
+
+![Web Applications on the Map](https://user-images.githubusercontent.com/1453985/147833507-03db8680-8cf3-4353-9531-844b8d057ecb.png)
+
+
 
 As shown above, web applications are similar to core APIs, except that they have a different group of components in terms of visualization, such as Pages, Components, and Bases. There's an intersection between two main flows in every web application. The presentation flow and the data/business flow. Depending on where a web application lives in terms of high-level architecture, its location determines whether its backend (BFF or Backend of Frontend) is a business flow or just data flow. Let's discuss these details in the characteristics section of this chapter.
 
 ## 3.2.1.2 Charactristics
+
 Brokers, Services, View Services, Bases, Components, and Pages. Web applications usually have six essential components. Since we've already discussed the data flow components in the Services portion of The Standard, this section will discuss the UI aspect (Bases, Components, and Pages) with a slight detail about view services.
 
 Let's discuss these characteristics here.
 
 ### 3.2.1.2.0 Anatomy
+
 UI components consist of base components, core components, and pages. They all separate the responsibility of integration, rendering, and routing users to a particular UI functionality.
 
 Let's talk about these types in detail.
 
 #### 3.2.1.2.0.0 Base Component
+
 Base components are just like brokers. They are wrappers around native or external UI components. Their primary responsibility is to abstract away any hard dependency on non-local UI capability. Let's say we want to offer the ability to create text boxes for data insertion/capture. The native `<input>` tag could offer this capability. However, exposing or leveraging this tag in our core UI components is dangerous. Because it creates a hard dependency on non-abstract UI components, if we decide to use some 3rd party UI component at any point, we would need to change these native `<input>` tags across all the components that use them. That's not an optimum strategy.
 
 Let's take a look at a visualization for base component functionality:
 
-<br />
-    <div align=center>
-        <img src="https://user-images.githubusercontent.com/1453985/147835358-efab4f2a-8fc5-4e0b-bb83-326ef1292d01.png" />
-    </div>
-<br />
+
+
+![Base Component Functionality](https://user-images.githubusercontent.com/1453985/147835358-efab4f2a-8fc5-4e0b-bb83-326ef1292d01.png)
+
+
 
 As seen in the above example, base components will wrap an external or native UI component and then expose APIs to seamlessly and programmatically interact with that Component. Occasionally, these APIs will represent parameters, functions, or delegates to interact with the Component based on the business flow.
 
 ##### 3.2.1.2.0.0.0 Implementation
+
 Let's take a look at a simple Base component for solving this problem:
 
 ```html
@@ -5030,6 +5137,7 @@ public partial class TextBoxBase : ComponentBase
 In the code above, we wrapped the `<input>` tag with our base component `TextBoxBase` and offered an input parameter `Value` to be passed into that Component so it can pass it down to the native UI element. Additionally, we provided a public function, `SetValue` to allow for programmatically mimicking the user's behavior to test drive the consuming Component of this base element.
 
 ##### 3.2.1.2.0.0.1 Utilization
+
 Now, when we try to leverage this base component at the core components level, we can call it as follows:
 
 ```html
@@ -5039,6 +5147,7 @@ Now, when we try to leverage this base component at the core components level, w
 The `@ref` aspect will allow the backend code to interact with the base component programmatically behind the scenes to call any existing functionality.
 
 ##### 3.2.1.2.0.0.2 Restrictions
+
 Components can only use base components. Pages may not use them, and other Base components may not use them. But more importantly, it's preferred those base components would only wrap around one and only one non-local Component.
 
 And just like Brokers, Base Components do not have any business logic. They don't handle exceptions, do any calculations, or any form of sequential, iterative, or selective business logic operations. These operations are either data-based, where they belong to view services and downstream APIs, or UI-based, where they belong to Core Components.
@@ -5046,29 +5155,33 @@ And just like Brokers, Base Components do not have any business logic. They don'
 Base components also don't handle exceptions, they don't throw their exceptions, and they don't perform any validations.
 
 #### 3.2.1.2.0.1 Core Component
+
 Core components are just like services in the data flow. They are test-driven, but they are also restricted to one and only one dependency at all times. Core components leverage Base components to perform a business-specific flow. They are less generic than Base components because they orchestrate and communicate with a very particular service for the data flow.
 
 Here's a visualization of core components architecture:
 
-<br />
-    <div align=center>
-        <img src="https://user-images.githubusercontent.com/1453985/147836385-9e2bd7af-0199-4e7d-b50d-653e626ad0d8.png" />
-    </div>
-<br />
+
+
+![Core Components Architecture](https://user-images.githubusercontent.com/1453985/147836385-9e2bd7af-0199-4e7d-b50d-653e626ad0d8.png)
+
+
 
 Core components are UI and Data component orchestrators. They will leverage one or many Base components to construct a business-specific flow, such as a student registration form, then send the signal to view services to persist that data and return responses or report errors.
 
 Core Components are three main parts. Elements, Styles, and Actions. Let's discuss these parts here:
 
 #### 3.2.1.2.0.1.0 Elements
+
 Elements are mainly the markup pieces you find in the `.razor` file in any component. These elements should always be Base Components. They are the skeleton of any Core Component. These Elements may or may not expose sub-routines, such as a Button Click, or a reactionary routine, such as a Button color change on hover, and so on.
 
 Elements can be tested in three main ways. Existence, Properties, and Actions.
 
 #### 3.2.1.2.0.1.0.0 Existence
+
 First and foremost, we need to ensure the Element is loaded and is present on the screen. This can be done in three different ways. Either by property assignment, searching by id, or searching for all types. Here are some examples:
 
 #### 3.2.1.2.0.1.0.0.0 Property Assignment
+
 Every Component should have a corresponding property attached to the Element at runtime. For instance, assume we have a `StudentRegistrationComponent` as follows:
 
 ```csharp
@@ -5077,6 +5190,7 @@ public class StudentRegistrationComponent: ComponentBase
     public TextBoxBase NameTextBox {get; set;}
 }
 ```
+
 In the above code, we defined `NameTextBox` as the same type as the Base Component that will be attached to it. Once that property is defined, we will need to write a failing test that verifies that this Element exists as follows:
 
 ```csharp
@@ -5097,9 +5211,11 @@ The above test will fail. That's simply because no markup corresponds to the `Na
 ```html
 <TextBoxBase @ref=NameTextBox>
 ```
+
 Our test will now pass. That's simply because the property is dynamically instantiated at render time once the page loads.
 
 #### 3.2.1.2.0.1.0.0.1 Searching by Id
+
 Sometimes, Property Assignment is not an option. There are scenarios where components load dynamically a set of nested components that we may not have access to at design time. In this case, searching by ID is our best option to ensure we have the right Component in hand.
 
 Here's an example. Assume we have a list of components that loads dynamically by being given a list of students. We use the student object `Id` as an identifier for every Component. Our code looks as follows:
@@ -5116,6 +5232,7 @@ public partial StudentListComponent : ComponentBase
 }
 
 ```
+
 On load - we call a view service to pull a list of all students asynchronously. We need to take that list and dynamically load a nested view for each student. Let's write a failing test for this first:
 
 ```csharp
@@ -5160,6 +5277,7 @@ In the above tests, we looked for components that matched the student `ID`, and 
 We use the `PrettyBlazor` library to markup our iteration behavior with the `<Iterations>` tag. Now, our tests should pass by finding and verifying each created Component once they load on the screen.
 
 #### 3.2.1.2.0.1.0.0.2 General Search
+
 There are scenarios where we don't have a key or an `Id` to find the Element. We expect a list of "things" to load on the screen without any data or information on them. In this case, we are going to have to resolve the General search mechanism where we rely on the count of the rendered components against the count that we expect as follows:
 
 ```csharp
@@ -5182,6 +5300,7 @@ public void ShouldLoadManyElements()
 The Standard advises against having unknown-typed components like these loaded on the screen as they give engineers much less control over what's going on. But in gaming scenarios, this could be the only option.
 
 #### 3.2.1.2.0.1.0.1 Properties
+
 The other aspect we consider when developing Core Components is their properties. These could be properties of the Core Component itself or the Base Component. For instance, we want to verify that a `LabelBase` component has property information such as `First Name` or `Last Name`.
 
 Let's start by setting up a test.
@@ -5220,11 +5339,13 @@ The test here will verify the label will always have the property value `First N
 ```html
 <LabelBase @ref=FirstNameLabel Value="First Name">
 ```
+
 We verified that the Element exists with the right property or information by simply doing that.
 
 The same thing applies to properties on the Core Component itself, like having view models that load on initialization and then get assigned to certain base components. We will show that example shortly.
 
 #### 3.2.1.2.0.1.0.2 Actions
+
 Testing actions is one of the most important parts of testing any Element. We want to ensure that a certain action is triggered when a button is clicked. These actions can also change a property, create a new element, or trigger another action. There are as many possibilities as there are in the very pattern of Tri-Nature itself.
 
 Let's assume our `StudentRegistrationComponent` is supposed to trigger a call for a `StudentViewService` on the Button click event. Let's start with a simple failing test as follows:
@@ -5282,8 +5403,8 @@ The above code implements a `RegisterStudentAsync` function that will pass `Stud
 
 In the above markup, we attached the `SubmitButton` property to the Element and passed the `OnClick` event with the `RegisterStudentAsync` routine. When the button is clicked, the routine will trigger, and we should be able to verify it in our unit tests.
 
-
 #### 3.2.1.2.0.1.1 Styles
+
 Core Components also carry more than just elements. They have certain styles to ensure the user experience fits the type of business they're trying to accomplish. While Elements or Base Components can also carry their own styles, it's important to realize that styles are better suited to Core Components to ensure the modularity of Base Components to fit whatever style is enforced by Core Components.
 
 Testing styles are rare in the UI world. Especially when it comes to test-driving styles in C# as code. The Standard enforces the idea of leveraging the same programming language (when possible) across all different aspects of a project. That also includes infrastructure, pipelines, styles, actions, and everything else in between. This principle ensures that the learning curve for engineers working on any project is as minimal as possible, in addition to having standardized patterns.
@@ -5411,11 +5532,13 @@ Then, on the markup side, let's attach all the properties to their respective El
 Our tests should pass, and this would be a quick demonstration of a standardized way of testing styles for UI components.
 
 #### 3.2.1.2.0.1.2 Actions
+
 Actions in Core Components are very similar to Actions in Base Components or Elements. It is important, however, to understand that every action can easily be verified by either changing a property or style, creating other components, or simply triggering other actions. It can also be a combination of one or many of those above. For instance, a submit button could change the properties of existing elements by making them disabled while triggering a call/action to another service. It should all be verifiable, as we discussed above.
 
-
 ##### 3.2.1.2.0.1.0 Full Implementation & Tests
+
 Let's take a look at the implementation of a core component.
+
 ```csharp
 public partial class StudentRegistrationComponent : ComponentBase
 {
@@ -5444,6 +5567,7 @@ public partial class StudentRegistrationComponent : ComponentBase
     }
 }
 ```
+
 The above code shows the different types of properties within any given component�the dependency view service maps raw API models/data into consumable UI models. The `State` determines whether a component should be `Loading`, `Content`, or `Error`. The data view model binds incoming input to one unified model, `StudentView`. The last three are base-level components used to construct the form of registration.
 
 Let's take a look at the markup side of the core component:
@@ -5566,6 +5690,7 @@ public void ShouldSubmitStudentAsync()
 The test above validates that on submittal, the student model is populated with the data set programmatically through the base component instance and verifies all these components are rendered on the screen before end-users by validating each base component an assigned instance on runtime or render-time.
 
 ##### 3.2.1.2.0.1.1 Restrictions
+
 Core components have similar restrictions to Base components because they cannot call each other at that level. There's a level of Orchestration Core Components that can combine multiple components to exchange messages. Still, they don't render anything independently, the same way Orchestration services delegate all the work to their dependencies.
 
 One view service corresponds to one core component, which renders one and only one view model. However, core components are also not allowed to call more than one view service. And in that, they always stay true to the view model.
@@ -5573,6 +5698,7 @@ One view service corresponds to one core component, which renders one and only o
 View services may do their orchestration-level work in an extremely complex flow, but we recommend keeping things at a flat level. These same view services perform nothing but mapping and adding audit fields and basic structural validations.
 
 #### 3.2.1.2.0.2 Pages
+
 In every web application, pages are a fundamental mandatory container component that needs to exist so end-users can navigate to them. Pages mainly hold a route, communicate a parameter from that route, and combine core-level components to represent a business value.
 
 An excellent example of a page is a dashboard. Dashboard pages contain multiple components, such as tiles, notifications, headers, and sidebars, that reference other pages. Pages don't hold any business logic in and of themselves, but they delegate all route-related operations to their child components.
@@ -5590,29 +5716,32 @@ Let's take a look at a simple page implementation:
 Pages are much simpler than core or base components. They don't require unit testing and don't necessarily need backend code. They purely reference their components without reference (unless required) and help serve that content when navigating via a route.
 
 #### 3.2.1.2.0.3 Unobtrusiveness
+
 It's a violation to include code from multiple technologies/languages on the same page for all UI components. For instance, CSS style code, C# code, and HTML markup cannot all exist in the same file. They need to be separated into their own files.
 
 The unobtrusiveness rule helps prevent cognitive pollution for engineers building UI components and makes the system much easier to maintain. That's why every Component can nest its files beneath it if the IDE/Environment used for development allows for partial implementations as follows:
 
 - StudentRegisterationComponent.razor
-    - StudentRegisterationComponent.razor.cs
-    - StudentRegisterationComponent.razor.css
+  - StudentRegisterationComponent.razor.cs
+  - StudentRegisterationComponent.razor.css
 
 The node file here, `.razor`, has all the markup needed to kick off the Component's initialization. At the same time, both nested files are supporting files for simple UI logic code and styling. This level of organization (especially in Blazor) doesn't require any referencing for these nested/support files. Still, this may not be the case for other technologies, so I urge engineers to do their best to fit that model/Standard.
 
 #### 3.2.1.2.0.4 Organization
+
 All UI components are listed under a Views folder in the solution. Let's take a look:
 
 - Views
-    - Bases
-    - Components
-    - Pages
+  - Bases
+  - Components
+  - Pages
 
 This tri-nature conforming organization should make it easier to shift reusable components and make it also easier to find these components based on their categories. Given the nesting is in place, I will leave it up to the engineers' preference to break down these components further by folders/namespaces or leave them all at the same level.
 
 # 3.2 User Interfaces
 
 ## 3.2.0 Introduction
+
 User Interfaces or UI are a type of exposer component mainly targeting humans for interaction with the core business layer, unlike Communication protocols primarily used in distributed systems. UIs are forever evolving in terms of technologies and methodologies with which humans can interact with any given system. This goes from web applications to virtual/augmented realities�voice-activated systems and, more recently, brain-waves-activated systems.
 
 Developing user interfaces can be much more challenging in terms of experiences. Today, there needs to be a global standard for intuitive understanding. It heavily relies on culture, commonalities, and many other forever-changing variables. This Standard will outline the principles and rules for building modular, maintainable, and pluggable UI components. However, there will be a different Standard for outlining user experiences, human interactions, and the theory of intuitiveness.
@@ -5620,24 +5749,29 @@ Developing user interfaces can be much more challenging in terms of experiences.
 This Standard also briefly highlights specific guidelines regarding rendering choices, server, client, or hybrid, as is the case with the tri-nature of everything. Let's dive deeper into the principles and rules that govern building UI components.
 
 ### 3.2.0.0 Principles & Rules
+
 Like every other exposer component type, UIs must be able to map processes, results, and errors to their consumers. Some of these UI components will require a test-driven approach. Some others are more like Brokers, just wrappers around third-party or native UI components. Let's discuss these principles here.
 
 #### 3.2.0.0.0 Progress (Loading)
+
 The most important principle in building UI components is to develop intelligence to keep the user engaged while a particular process is running, such as a simple spinner or a progress bar to keep users informed at all times of what's happening behind the scenes.
 
 It violates The Standard to indicate progress if nothing is happening in the background. It falls into the practice of wasting end-users' time and lying to them about the actual status of the system. However, assuming the system is busy working on a particular request, three levels of communication can happen on an exposer component to communicate progress. Let's discuss those in detail:
 
 #### 3.2.0.0.0.0 Basic Progress
+
 The basic progress approach is where you present status with a label like "Waiting ..." or a spinner with no further indication, which is the bare minimum of progress indication. No UI should freeze or stop their hanging while requests are being processed in the background, assuming an eventual consistency pattern is not attainable for the current business need.
 
 Some web applications show a forever progress bar at the top of the page to indicate progress. From an experience perspective, depending on the visibility level of these progress bars, they may be challenging for end users to miss. Some other engineering teams have chosen to play a simple animation to keep users engaged with visual progress without any indication of the details of that progress.
 
 #### 3.2.0.0.0.1 Remaining Progress
+
 Above the bare minimum, there is an indication of remaining time or progress to be completed before the request is processed. An indication such as "40% remaining" or something more specific like "5 minutes remaining ..." to help end-users understand or guestimate how long a time or effort is left; or, there are patterns where engineers would indicate how many tasks remain without showing what these tasks are.
 
 Sometimes, a remaining progress update is as detailed as UI engineers can get. For instance, if you are downloading a file from the internet, you can't be more precise than "saying x percent of the bits remaining to be downloaded" with no further details. Some game developers also choose to visualize the internet speeds and available disk space to keep the end-user engaged in the system. These are all acceptable patterns in this Standard.
 
 #### 3.2.0.0.0.2 Detailed Progress
+
 The highest level of reporting progress is the detailed progress type, where the UI component is fully transparent with its consumers by reporting every step of progress. This type of progress is more common in scientific applications. Engineers in debugging mode may enable a feature where all the underlying activity in the system is visualized through the UI.
 
 This type helps end-users understand what is happening behind the scenes and allows them to communicate better details to support engineers to help them fix an issue if the process fails. However, this process is only sometimes preferred in terms of experience, considering that some details need to be hidden for security reasons.
@@ -5645,76 +5779,91 @@ This type helps end-users understand what is happening behind the scenes and all
 In summary, selecting the correct type of progress indicator in a UI depends on the business flow, the type of users interacting with the system, and several other variables we will discuss in The Experience Standard.
 
 #### 3.2.0.0.1 Results
+
 UI exposer components will report a result to indicate the completion of a particular request by end-users. Consider registering a new student in a schooling system. There are several ways to show the registration process has been completed successfully. Let's discuss those types of results visualization in detail here.
 
 ##### 3.2.0.0.1.0 Simple
+
 The simple indication of success is when the UI reports that the process was completed without further details. You may have seen some of these implementations for this type, such as "Thank you, request submitted" or something as simple as a checkmark with a visualization of green color that indicates success.
 
 Simple results indications, especially with submitted requests rather than retrieved data, may add more details in the next course of action.
 
 ##### 3.2.0.0.1.1 Partial Details
+
 An overview of the nature of the request and where it stands in terms of status and timestamps: The other type of results or success indication is to present end-users with partial details. Partial details are usually helpful when it comes to providing the end-user with a "ticket number" to help end-users follow up on their requests later to inquire about the status. This pattern is typical in e-commerce applications where every purchase request may be returned with a tracking number to help customers and customer support personnel assess the requests.
 
 Detailed results can also be beneficial for visualizing the success process, especially with requests containing multiple parts. Larger requests, such as an application to join a university or the like, may include attachments, multiple pages of details, and confidential information such as payment details or social security numbers.
 
 ##### 3.2.0.0.1.2 Full Details
+
 Sometimes, one may prefer to report full details about the submitted request, especially with smaller requests that may help end-users review their requests. Some engineers may display full details as an extra confirmation step before submitting the request. However, full details can also include more than just the requested details. It could include a status update from the server a long with an assigned point of contact or an officer from maintenance and support teams.
 
 It's a violation of The Standard to redirect end-users at the submittal of their requests with no indication of what happened.
 
 #### 3.2.0.0.2 Error Reports
+
 Error reports primary responsibility is to inform end-users of what happened, why it happened, and the next course of action. Some error reports don't indicate any course of action, which can be a poor experience depending on the business flow. However, the bare minimum in error reporting is the basic indication of the error with essential details. Let's talk about those types here.
 
 ##### 3.2.0.0.2.0 Informational
+
 The bare minimum of error reports is the informational type, which indicates an error occurred and why it happened, such as "Request failed. Try again" or "Request failed contact support." There are also informational errors that are time-based, such as "Our servers are currently experiencing a high volume of requests. Please try again later." These informational error reports are necessary to keep the end-user engaged with the system.
 
 Informational error reports are governed by the context and the type of users receiving them. In a scientific application, the more details, the better. For some other systems, it is important to shift the technical language of the errors to a less technical language. For instance, we can't communicate: "Student id cannot be null, empty, or whitespace". We should select a more readable language, such as "Please provide a valid student Id".
 
 ##### 3.2.0.0.2.1 Referential/Implicit Actions
+
 The second type of error report is the referential type. When an error occurs, it automatically informs the support team and returns a reference of a support ticket to end users so they can follow up. You may see this often when video games fail to start or specific applications cannot initialize. Referential error reports are the best for particular business flows since they take care of all the actions, email the end user the reference number, and follow up within a couple of days to report the status.
 
 The fewer actions a system requires users to take after a failure has occurred, the better. Since end-users have already accomplished their tasks in submitting requests, it becomes even more convenient if the original request is queued up, such as with high-volume enterprise systems, so end-users don't have to re-submit the same data.
 
 ##### 3.2.0.0.2.2 Actionable
-The second type of error report is the actionable report. Errors provide an additional action for the users to go further in their request. For instance, error reports can give a button to try again or submit other details requests back to the engineering and support teams. 
+
+The second type of error report is the actionable report. Errors provide an additional action for the users to go further in their request. For instance, error reports can give a button to try again or submit other details requests back to the engineering and support teams.
 
 Some reports will provide a different route to accomplish the same task in more hybrid legacy and modernized applications. These actionable reports are more convenient than informational reports. However, they would still require their end-users to take more actions and keystrokes, leading to some inconvenience.
 
 #### 3.2.0.0.3 Single Dependency
+
 Any exposer component can only integrate with a single dependency at a time. For UI components, contract purity ensures that a UI is not given more data than it needs. To enforce this pattern, a new type of foundational-like service is implemented, and all other details, such as audit fields, timestamps, and such, are taken care of away from the UI component's sight.
 
 We will talk in detail about view services shortly as we progress talking about UI exposers.
 
 #### 3.2.0.0.4 Anatomy
+
 Just like the data flow in any service. We have brokers -> Services -> Exposers. UI components also form their own data flow in terms of rendering. Let's take a look at the anatomy of UI exposers in this illustration:
 
-<br />
-    <div align=center>
-        <img src="https://user-images.githubusercontent.com/1453985/147816980-e7d30d70-c01d-49db-9bae-6c9bc11f3ff7.png" />
-    </div>
-<br />
+
+
+![UI Exposer Components Anatomy](https://user-images.githubusercontent.com/1453985/147816980-e7d30d70-c01d-49db-9bae-6c9bc11f3ff7.png)
+
+
 
 UI exposer components, as shown above, can be Bases, Components, or Containers. Each of these types has a specific responsibility to ensure the maximum maintainability and pluggability of the system, according to The Standard. Let's discuss these three types here:
 
 ##### 3.2.0.0.4.0 Bases
+
 Base or Base Components are just like Brokers in the data flow. They are simple thin wrappers around native or 3rd party components. Their primary responsibility is to abstract away the hard dependency on non-local components to allow the system's configuration to switch to any other external or native UI components with the least effort possible.
 
 Base components also make it easier to mock out any external or native component's behavior and focus the effort on ensuring the local component performs as expected. In the following chapter, we will discuss base components for web applications in Blazor and other technologies.
 
 ##### 3.2.0.0.4.1 Components
+
 UI Components are a hybrid between a Service and a Controller in the data pipeline. In a way, components contain *some* business logic in handling interactions with certain base components. However, they are also limited by integrating with one and only one view service. Components are test-driven. They require writing tests to ensure they behave as expected. However, they also contain almost no iteration, selection, or sequencing data logic.
 
 The most important aspect of UI components is the intersection between the UI flow and the data flow. They are responsible for leveraging their data dependency (view services) and their base components to become easily pluggable into container components (like pages with routes in web applications).
 
 ##### 3.2.0.0.4.2 Containers
+
 Container components are orchestrators/aggregators of components. They are the actual route or page end-users interact with. Containers cannot have any level of UI logic in them, cannot leverage base components, and may have any number of UI components as the business flow requires.
 
 As is the case with every category of components, containers cannot integrate with other containers. The rule applies across the board for every data or UI component.
 
 #### 3.2.0.0.5 UI Component Types
+
 UI components come in all different shapes and sizes. The hosting environment and the type of devices that serve these components play a significant role in determining the technologies and capabilities a particular UI component may have. In this section, we will discuss the different types of UI components.
 
 ##### 3.2.0.0.5.0 Web Applications
+
 The most popular type of UI application is web application because of its ease of use. Web applications require no installation of any kind, and they are not dependent on the operating system running the system or the type of devices users may be using. They can run on PCs, tablets, mobile phones, TVs, and watches that support web browsing.
 
 Web frameworks have evolved dramatically in the last few years due to their popularity, as mentioned earlier. Some frameworks allow engineers to write web applications in many programming languages. The evolution of web assembly has also opened the door for engineers to develop even more scalable frameworks with their preferred technologies and languages.
@@ -5722,55 +5871,65 @@ Web frameworks have evolved dramatically in the last few years due to their popu
 Server-side applications and client-side applications. In terms of rendering, web applications are developed in two different types. In the next few chapters of The Standard, we will discuss the advantages and disadvantages of each type in addition to the hybrid model.
 
 ##### 3.2.0.0.5.1 Mobile Applications
+
 The second most popular platform today for developing UIs is the mobile world. Developing mobile applications comes with challenges as they depend heavily on the operating system, the phone's size in terms of resolution, and the available native controls. Mobile applications are also always client-side apps. They are just like Desktop applications. They must be compiled, provisioned, and published to an app store so consumers can download, install, and leverage them daily.
 
 The most significant advantage of mobile applications is that they allow offline interactions, such as mobile games, editing apps, and streaming services with offline capabilities. However, building mobile applications with web frameworks is becoming increasingly popular, as the web is a universal ecosystem that allows end-users to experience software the same way on their PCs, browsers, and mobile applications. This trend will eventually enable engineers to develop systems for all ecosystems at the least possible cost.
 
 ##### 3.2.0.0.5.2 Other Types
+
 We may need to cover other types of UI components in our Standard. These types are console/terminal applications, desktop applications, video games, virtual/augmented reality software, wearable devices, and voice-activated systems. The world of Human-Machine-Interface HMI is evolving so rapidly in the age of the metaverse that we might need to create special chapters for these different types at some point.
 
 # 3 Exposers
 
 ## 3.0 Introduction
+
 Exposers are disposable components in any system that expose your core business logic functionality by mapping its responses to a specific protocol. For instance, in RESTful communications, an API controller would be responsible for returning a `200` code for a successful response. The same applies to other protocols, such as gRPC, SOAP, or any other protocol of communication between distributed systems.
 
 Exposer components are similar to Brokers. They are the last point of contact between the core business logic and the outside world. They are built with the intent that they will be detached from the current system at some point in time, allowing the same core logic to integrate with modern systems, protocols, or interfaces.
 
-<br/>
-    <p align=center>
-        <img src="https://user-images.githubusercontent.com/1453985/147638000-d0896f11-4117-476a-9f22-43d2b5a7d732.png">
-    </p>
-<br />
+
+
+![Exposers](https://user-images.githubusercontent.com/1453985/147638000-d0896f11-4117-476a-9f22-43d2b5a7d732.png)
+
+
 
 ## 3.0.0 Purpose
+
 In general, the primary responsibility of exposure components is to allow someone or something to interact with your business logic. For that core purpose, a precise mapping bit by bit to every possible response from your core business logic should be communicated cautiously with the consumer to that logic. I say cautiously because sometimes, specific internal issues in the system are not required to be exposed to the outside world. This mapping of responses can usually be a zero effort as the protocol and the language your code business logic communicates are the same as with libraries produced to run on the system that uses the same technologies or programming languages.
 
 However, there are occasions where the outside world stateless protocol doesn't necessarily match the exact value of a response. In this case, it becomes an exposer component's responsibility to make a successful mapping both ways in and out of the system. API controllers are a great example of that. They will communicate a `4xx` issue when there's a validation exception of some type and return a deserialized JSON value if the communication is successful. However, there are also more details about problem details, error codes, and other levels of mapping and communication that we will discuss in upcoming chapters within this section.
 
 ### 3.0.0.0 Pure Mapping
+
 The most important aspect of exposure components is that they are not allowed to communicate with brokers of any type. They are also not allowed to contain any form of business logic within them. By business logic here, I mean no sequence of routine calls, no iteration, or selection/decision-making. In the same way, it is with brokers only link an existing realm with the outside realm to achieve a specific value.
 
 ## 3.0.1 Types of Exposure Components
+
 Exposure components are of three types: communication protocols, user interfaces, and IO routines. Let's discuss those briefly.
 
 ### 3.0.1.0 Communication Protocols
+
 An exposure component that is a communication protocol can vary from simple RESTful APIs to SOAP communication or gRPC. It can also be a simple client in a library, where consumers would just install the library in their projects and consume your core logic through the client APIs. These examples are all of the same type of exposure components.
 
 The differentiator here is that a communication protocol is usually event-based. It is triggered by an incoming communication and treated with a response of any kind. Communication protocols are usually for system-to-system integrations, but they can be accessible and understandable by humans for testing and debugging purposes.
 
 ### 3.0.1.1 User Interfaces
+
 Another type of exposure component is the user interface. This can vary from Web, mobile, or desktop applications to simple command lines. User interfaces mainly target end-users for communication but can be automated by other systems, especially with command-line interfaces. In this day and age, user interfaces can also include virtual and augmented realities, metaverses, and any other form of software.
 
 There are occasions where Human-Machine-Interfaces (HMI) can also fall into that level of exposure components. For instance, the buttons on a cellphone, keyboards we use daily, and any form of hardware that can interact directly with core business logic interfaces as an exposure component. The same theory applies to the Internet of Things (IoT) components and many others where a human has to utilize a component to leverage a specific capability to their advantage.
 
-### 3.0.1.2 I/O ComponentsSome exposure components are not necessarily systems interfacing with another system, and they are not purposely designed to communicate with humans. They are daemons or IO-based components that do something in the background without a trigger. Usually, these components are time-based, and they may leverage existing protocols or interface directly with the core business logic, both of which are viable options.
+### 3.0.1.2 I/O ComponentsSome exposure components are not necessarily systems interfacing with another system, and they are not purposely designed to communicate with humans. They are daemons or IO-based components that do something in the background without a trigger. Usually, these components are time-based, and they may leverage existing protocols or interface directly with the core business logic, both of which are viable options
 
 ## 3.0.2 Single Point of Contact
+
 Exposure components are only allowed to communicate with one and only one service. Integrating with multiple services would turn an exposure component into either orchestration or aggregation services, which are not allowed to exist as core logic in that realm of exposure.
 
 The single point of contact rule also ensures the ease of disposability of the exposure component itself. It ensures the integration is simple and single-purposed enough with controlled dependencies (only one) that it can be rewired to virtually any protocol at any point with the least cost possible.
 
 ## 3.0.3 Examples
+
 Let's take API controllers as an example of a real-world exposure component in any system.
 
 ```csharp
@@ -5805,10 +5964,11 @@ public async ValueTask<ActionResult<Student>> PostStudentAsync(Student student)
 }
 
 ```
+
 The code snippet above is for an API method that `POST` a student model into the core business logic of a schooling system (OtripleS). In a technology like ASP.NET, controllers handle mapping incoming JSON requests into the `Student` model so that the controller can utilize that model with an integrated system.
 
 However, you will also see that the controller code tries to map every possible categorical exception into its respective REST protocol. This is just a simple snippet to show what an exposure component may look like. But we will talk more about the rules and conditions for controllers in the next chapter of The Standard.
 
-
 ## 3.0.4 Summary
+
 In summary, exposure components are very thin layers that don't contain any intelligence or logic. They are not meant to orchestrate or call multiple core business logic services. They only focus on the duplex mapping aspect of communication between one system and another.
