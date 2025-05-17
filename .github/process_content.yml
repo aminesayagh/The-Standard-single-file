@@ -1,0 +1,120 @@
+name: Process Standard Content
+
+on: push
+
+jobs:
+  process-content:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Process and copy Markdown files
+        run: |
+          # Create base content directory
+          mkdir -p content/standard
+          
+          # Process Introduction files
+          echo "Processing Introduction files..."
+          for file in $(find ./0.\ Introduction -name "*.md" | sort -n); do
+            # Extract filename without extension and strip numbers
+            filename=$(basename "$file" .md)
+            slug=$(echo "$filename" | sed -E 's/^[0-9]+(\.[0-9]+)*[ -]*//')
+            slug=$(echo "$slug" | tr '[:upper:]' '[:lower:]' | tr ' ' '-')
+            
+            # Create target directory if needed
+            dir="content/standard/introduction"
+            mkdir -p "$dir"
+            
+            # Create target file with minimal front matter
+            target="$dir/$slug.md"
+            
+            # Extract title or use filename
+            title=$(grep -m 1 "^#" "$file" | sed 's/^#[ ]*//' || echo "$slug")
+            
+            # Add minimal front matter
+            echo "---
+title: \"$title\"
+---
+
+$(cat "$file")
+" > "$target"
+            
+            echo "Processed: $file → $target"
+          done
+          
+          # Process Brokers files (same pattern)
+          for file in $(find ./1.\ Brokers -name "*.md" | sort -n); do
+            filename=$(basename "$file" .md)
+            slug=$(echo "$filename" | sed -E 's/^[0-9]+(\.[0-9]+)*[ -]*//')
+            slug=$(echo "$slug" | tr '[:upper:]' '[:lower:]' | tr ' ' '-')
+            
+            dir="content/standard/brokers"
+            mkdir -p "$dir"
+            target="$dir/$slug.md"
+            
+            title=$(grep -m 1 "^#" "$file" | sed 's/^#[ ]*//' || echo "$slug")
+            
+            echo "---
+title: \"$title\"
+---
+
+$(cat "$file")
+" > "$target"
+            
+            echo "Processed: $file → $target"
+          done
+          
+          # Process Services files
+          for file in $(find ./2.\ Services -name "*.md" | sort -n); do
+            filename=$(basename "$file" .md)
+            slug=$(echo "$filename" | sed -E 's/^[0-9]+(\.[0-9]+)*[ -]*//')
+            slug=$(echo "$slug" | tr '[:upper:]' '[:lower:]' | tr ' ' '-')
+            
+            dir="content/standard/services"
+            mkdir -p "$dir"
+            target="$dir/$slug.md"
+            
+            title=$(grep -m 1 "^#" "$file" | sed 's/^#[ ]*//' || echo "$slug")
+            
+            echo "---
+title: \"$title\"
+---
+
+$(cat "$file")
+" > "$target"
+            
+            echo "Processed: $file → $target"
+          done
+          
+          # Process Exposers files
+          for file in $(find ./3.\ Exposers -name "*.md" | sort -n); do
+            filename=$(basename "$file" .md)
+            slug=$(echo "$filename" | sed -E 's/^[0-9]+(\.[0-9]+)*[ -]*//')
+            slug=$(echo "$slug" | tr '[:upper:]' '[:lower:]' | tr ' ' '-')
+            
+            dir="content/standard/exposers"
+            mkdir -p "$dir"
+            target="$dir/$slug.md"
+            
+            title=$(grep -m 1 "^#" "$file" | sed 's/^#[ ]*//' || echo "$slug")
+            
+            echo "---
+title: \"$title\"
+---
+
+$(cat "$file")
+" > "$target"
+            
+            echo "Processed: $file → $target"
+          done
+          
+          echo "Content processing complete!"
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add content/
+          git commit -m "Auto-process Standard content" || echo "No changes to commit"
+          git push
