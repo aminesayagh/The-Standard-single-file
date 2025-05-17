@@ -7,20 +7,15 @@ const [{ data: docsNavigation }, { data: standardNavigation }] = await Promise.a
   useAsyncData('standard-navigation', () => queryCollectionNavigation('standard'))
 ])
 
-// Create a computed property that combines both navigations
+// Create a computed property that combines both navigation
 const combinedNavigation = computed(() => {
   // Start with the docs navigation
   const result = [...(docsNavigation.value || [])]
   
   // Add standard navigation as a top-level item if it exists
   if (standardNavigation.value && standardNavigation.value.length > 0) {
-    result.push({
-      title: 'The Standard',
-      icon: 'i-lucide-book-open',
-      path: '/1-standard',
-      to: '/1-standard', // Adjust this path as needed
-      children: standardNavigation.value
-    })
+    console.log("standardNavigation", standardNavigation.value)
+    result.push(...standardNavigation.value)
   }
   
   return result
